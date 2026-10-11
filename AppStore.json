@@ -2,201 +2,221 @@
 {
 "name": "App 01",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app1.png",
-"url": "https://example.com/app1.apk",
+"normalUrl": "https://example.com/app1.apk",
+"modUrl": "https://example.com/app1-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app1_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app1_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app1_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app1_3.png"
+]
 },
 {
 "name": "App 02",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app2.png",
-"url": "https://example.com/app2.apk",
+"normalUrl": "https://example.com/app2.apk",
+"modUrl": "https://example.com/app2-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_3.png"
+]
 },
 {
 "name": "App 03",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app3.png",
-"url": "https://example.com/app3.apk",
+"normalUrl": "https://example.com/app3.apk",
+"modUrl": "https://example.com/app3-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_3.png"
+]
 },
 {
 "name": "App 04",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app4.png",
-"url": "https://example.com/app4.apk",
+"normalUrl": "https://example.com/app4.apk",
+"modUrl": "https://example.com/app4-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_3.png"
+]
 },
 {
 "name": "App 05",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app5.png",
-"url": "https://example.com/app5.apk",
+"normalUrl": "https://example.com/app5.apk",
+"modUrl": "https://example.com/app5-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_3.png"
+]
 },
 {
 "name": "App 06",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app6.png",
-"url": "https://example.com/app6.apk",
+"normalUrl": "https://example.com/app6.apk",
+"modUrl": "https://example.com/app6-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_3.png"
+]
 },
 {
 "name": "App 07",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app7.png",
-"url": "https://example.com/app7.apk",
+"normalUrl": "https://example.com/app7.apk",
+"modUrl": "https://example.com/app7-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_3.png"
+]
 },
 {
 "name": "App 08",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app8.png",
-"url": "https://example.com/app8.apk",
+"normalUrl": "https://example.com/app8.apk",
+"modUrl": "https://example.com/app8-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_3.png"
+]
 },
 {
 "name": "App 09",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app9.png",
-"url": "https://example.com/app9.apk",
+"normalUrl": "https://example.com/app9.apk",
+"modUrl": "https://example.com/app9-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_3.png"
+]
 },
 {
 "name": "App 10",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app10.png",
-"url": "https://example.com/app10.apk",
+"normalUrl": "https://example.com/app10.apk",
+"modUrl": "https://example.com/app10-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_3.png"
+]
 },
 {
 "name": "App 11",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app11.png",
-"url": "https://example.com/app11.apk",
+"normalUrl": "https://example.com/app11.apk",
+"modUrl": "https://example.com/app11-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_3.png"
+]
 },
 {
 "name": "App 12",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app12.png",
-"url": "https://example.com/app12.apk",
+"normalUrl": "https://example.com/app12.apk",
+"modUrl": "https://example.com/app12-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_3.png"
+]
 },
 {
 "name": "App 13",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app13.png",
-"url": "https://example.com/app13.apk",
+"normalUrl": "https://example.com/app13.apk",
+"modUrl": "https://example.com/app13-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_3.png"
+]
 },
 {
 "name": "App 14",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app14.png",
-"url": "https://example.com/app14.apk",
+"normalUrl": "https://example.com/app14.apk",
+"modUrl": "https://example.com/app14-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_3.png"
+]
 },
 {
 "name": "App 15",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app15.png",
-"url": "https://example.com/app15.apk",
+"normalUrl": "https://example.com/app15.apk",
+"modUrl": "https://example.com/app15-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_3.png"
+]
 },
 {
 "name": "App 16",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app16.png",
-"url": "https://example.com/app16.apk",
+"normalUrl": "https://example.com/app16.apk",
+"modUrl": "https://example.com/app16-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_3.png"
+]
 },
 {
 "name": "App 17",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app17.png",
-"url": "https://example.com/app17.apk",
+"normalUrl": "https://example.com/app17.apk",
+"modUrl": "https://example.com/app17-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_3.png"
+]
 },
 {
 "name": "App 18",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app18.png",
-"url": "https://example.com/app18.apk",
+"normalUrl": "https://example.com/app18.apk",
+"modUrl": "https://example.com/app18-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_3.png"
+]
 },
 {
 "name": "App 19",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app19.png",
-"url": "https://example.com/app19.apk",
+"normalUrl": "https://example.com/app19.apk",
+"modUrl": "https://example.com/app19-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_3.png"
+]
 },
 {
 "name": "App 20",
 "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app20.png",
-"url": "https://example.com/app20.apk",
+"normalUrl": "https://example.com/app20.apk",
+"modUrl": "https://example.com/app20-mod.apk",
 "screenshots": [
 "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_2.png"
-],
-"version": "1.0"
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_2.png",
+"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_3.png"
+]
 }
 ]
