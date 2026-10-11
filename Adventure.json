@@ -1,0 +1,985 @@
+{
+  "apps": [
+    {
+      "id": "angry-birds",
+      "name": "Angry Birds",
+      "version": "1.0",
+      "category": "Games",
+      "icon": "https://your-website.com/icons/angry-birds.png",
+      "description": "Game description",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "racing-car",
+      "name": "Racing Car",
+      "version": "2.0",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/racing-car.png",
+      "description": "Racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "space-war",
+      "name": "Space War",
+      "version": "1.2",
+      "category": "Games",
+      "icon": "https://your-website.com/icons/space-war.png",
+      "description": "Space battle game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "car-racer",
+      "name": "Car Racer",
+      "version": "1.5",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/car-racer.png",
+      "description": "Fast car racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "football-stars",
+      "name": "Football Stars",
+      "version": "3.0",
+      "category": "Sports",
+      "icon": "https://your-website.com/icons/football-stars.png",
+      "description": "Football sports game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "basketball-pro",
+      "name": "Basketball Pro",
+      "version": "2.1",
+      "category": "Sports",
+      "icon": "https://your-website.com/icons/basketball-pro.png",
+      "description": "Basketball game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "zombie-hunter",
+      "name": "Zombie Hunter",
+      "version": "1.8",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/zombie-hunter.png",
+      "description": "Action adventure game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "ninja-warrior",
+      "name": "Ninja Warrior",
+      "version": "1.4",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/ninja-warrior.png",
+      "description": "Ninja action game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "puzzle-master",
+      "name": "Puzzle Master",
+      "version": "2.0",
+      "category": "Puzzle",
+      "icon": "https://your-website.com/icons/puzzle-master.png",
+      "description": "Challenging puzzle game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "block-world",
+      "name": "Block World",
+      "version": "1.3",
+      "category": "Adventure",
+      "icon": "https://your-website.com/icons/block-world.png",
+      "description": "Creative block adventure",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "music-player",
+      "name": "Music Player",
+      "version": "5.0",
+      "category": "Music",
+      "icon": "https://your-website.com/icons/music-player.png",
+      "description": "Modern music player",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "video-player",
+      "name": "Video Player",
+      "version": "4.2",
+      "category": "Video",
+      "icon": "https://your-website.com/icons/video-player.png",
+      "description": "HD video player",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "photo-editor",
+      "name": "Photo Editor",
+      "version": "3.5",
+      "category": "Photography",
+      "icon": "https://your-website.com/icons/photo-editor.png",
+      "description": "Easy photo editing tools",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "video-editor",
+      "name": "Video Editor",
+      "version": "2.7",
+      "category": "Video",
+      "icon": "https://your-website.com/icons/video-editor.png",
+      "description": "Powerful video editing app",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "calculator-pro",
+      "name": "Calculator Pro",
+      "version": "1.1",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/calculator-pro.png",
+      "description": "Advanced calculator",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "file-manager",
+      "name": "File Manager",
+      "version": "3.0",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/file-manager.png",
+      "description": "Manage files easily",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "qr-scanner",
+      "name": "QR Scanner",
+      "version": "2.3",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/qr-scanner.png",
+      "description": "Fast QR code scanner",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "weather-now",
+      "name": "Weather Now",
+      "version": "4.0",
+      "category": "Weather",
+      "icon": "https://your-website.com/icons/weather-now.png",
+      "description": "Current weather information",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "notes-pro",
+      "name": "Notes Pro",
+      "version": "2.5",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/notes-pro.png",
+      "description": "Simple notes application",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "todo-list",
+      "name": "To Do List",
+      "version": "1.9",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/todo-list.png",
+      "description": "Organize daily tasks",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "calendar-pro",
+      "name": "Calendar Pro",
+      "version": "2.2",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/calendar-pro.png",
+      "description": "Smart calendar application",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "clock-plus",
+      "name": "Clock Plus",
+      "version": "1.6",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/clock-plus.png",
+      "description": "Digital clock and alarm",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "unit-converter",
+      "name": "Unit Converter",
+      "version": "2.0",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/unit-converter.png",
+      "description": "Convert common units",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "dictionary",
+      "name": "Dictionary",
+      "version": "4.1",
+      "category": "Education",
+      "icon": "https://your-website.com/icons/dictionary.png",
+      "description": "Digital dictionary",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "learn-english",
+      "name": "Learn English",
+      "version": "2.4",
+      "category": "Education",
+      "icon": "https://your-website.com/icons/learn-english.png",
+      "description": "English learning application",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "math-master",
+      "name": "Math Master",
+      "version": "1.7",
+      "category": "Education",
+      "icon": "https://your-website.com/icons/math-master.png",
+      "description": "Practice mathematics",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "science-guide",
+      "name": "Science Guide",
+      "version": "1.5",
+      "category": "Education",
+      "icon": "https://your-website.com/icons/science-guide.png",
+      "description": "Science learning guide",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "flashcards",
+      "name": "Flashcards",
+      "version": "2.1",
+      "category": "Education",
+      "icon": "https://your-website.com/icons/flashcards.png",
+      "description": "Study with flashcards",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "brain-training",
+      "name": "Brain Training",
+      "version": "3.2",
+      "category": "Puzzle",
+      "icon": "https://your-website.com/icons/brain-training.png",
+      "description": "Brain training challenges",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "chess-master",
+      "name": "Chess Master",
+      "version": "2.8",
+      "category": "Board",
+      "icon": "https://your-website.com/icons/chess-master.png",
+      "description": "Play chess against opponents",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "checkers",
+      "name": "Checkers",
+      "version": "1.4",
+      "category": "Board",
+      "icon": "https://your-website.com/icons/checkers.png",
+      "description": "Classic checkers game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "cards-master",
+      "name": "Cards Master",
+      "version": "2.0",
+      "category": "Card",
+      "icon": "https://your-website.com/icons/cards-master.png",
+      "description": "Classic card games",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "space-shooter",
+      "name": "Space Shooter",
+      "version": "3.1",
+      "category": "Arcade",
+      "icon": "https://your-website.com/icons/space-shooter.png",
+      "description": "Arcade space shooter",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "fruit-slicer",
+      "name": "Fruit Slicer",
+      "version": "2.6",
+      "category": "Arcade",
+      "icon": "https://your-website.com/icons/fruit-slicer.png",
+      "description": "Fast fruit slicing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "jump-hero",
+      "name": "Jump Hero",
+      "version": "1.8",
+      "category": "Arcade",
+      "icon": "https://your-website.com/icons/jump-hero.png",
+      "description": "Jump through challenging levels",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "tower-defense",
+      "name": "Tower Defense",
+      "version": "2.5",
+      "category": "Strategy",
+      "icon": "https://your-website.com/icons/tower-defense.png",
+      "description": "Defend your base",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "kingdom-war",
+      "name": "Kingdom War",
+      "version": "1.9",
+      "category": "Strategy",
+      "icon": "https://your-website.com/icons/kingdom-war.png",
+      "description": "Build and defend your kingdom",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "city-builder",
+      "name": "City Builder",
+      "version": "2.3",
+      "category": "Simulation",
+      "icon": "https://your-website.com/icons/city-builder.png",
+      "description": "Build your own city",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "farm-world",
+      "name": "Farm World",
+      "version": "3.0",
+      "category": "Simulation",
+      "icon": "https://your-website.com/icons/farm-world.png",
+      "description": "Manage your virtual farm",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "pet-world",
+      "name": "Pet World",
+      "version": "1.6",
+      "category": "Simulation",
+      "icon": "https://your-website.com/icons/pet-world.png",
+      "description": "Take care of virtual pets",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "drift-racing",
+      "name": "Drift Racing",
+      "version": "4.0",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/drift-racing.png",
+      "description": "High-speed drift racing",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "bike-racer",
+      "name": "Bike Racer",
+      "version": "2.7",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/bike-racer.png",
+      "description": "Motorbike racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "truck-driver",
+      "name": "Truck Driver",
+      "version": "1.8",
+      "category": "Simulation",
+      "icon": "https://your-website.com/icons/truck-driver.png",
+      "description": "Drive powerful trucks",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "helicopter-war",
+      "name": "Helicopter War",
+      "version": "2.2",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/helicopter-war.png",
+      "description": "Helicopter combat game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "sniper-zone",
+      "name": "Sniper Zone",
+      "version": "1.5",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/sniper-zone.png",
+      "description": "Target shooting game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "battle-arena",
+      "name": "Battle Arena",
+      "version": "3.4",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/battle-arena.png",
+      "description": "Multiplayer battle arena",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "dungeon-quest",
+      "name": "Dungeon Quest",
+      "version": "2.0",
+      "category": "Adventure",
+      "icon": "https://your-website.com/icons/dungeon-quest.png",
+      "description": "Explore mysterious dungeons",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "island-adventure",
+      "name": "Island Adventure",
+      "version": "1.9",
+      "category": "Adventure",
+      "icon": "https://your-website.com/icons/island-adventure.png",
+      "description": "Explore a mysterious island",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "treasure-hunt",
+      "name": "Treasure Hunt",
+      "version": "2.4",
+      "category": "Adventure",
+      "icon": "https://your-website.com/icons/treasure-hunt.png",
+      "description": "Find hidden treasures",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "magic-world",
+      "name": "Magic World",
+      "version": "1.7",
+      "category": "Fantasy",
+      "icon": "https://your-website.com/icons/magic-world.png",
+      "description": "Enter a magical world",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "dragon-quest",
+      "name": "Dragon Quest",
+      "version": "2.6",
+      "category": "Fantasy",
+      "icon": "https://your-website.com/icons/dragon-quest.png",
+      "description": "Fantasy dragon adventure",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "word-master",
+      "name": "Word Master",
+      "version": "3.0",
+      "category": "Word",
+      "icon": "https://your-website.com/icons/word-master.png",
+      "description": "Challenge your vocabulary",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "word-puzzle",
+      "name": "Word Puzzle",
+      "version": "1.8",
+      "category": "Puzzle",
+      "icon": "https://your-website.com/icons/word-puzzle.png",
+      "description": "Solve challenging word puzzles",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "memory-game",
+      "name": "Memory Game",
+      "version": "2.1",
+      "category": "Puzzle",
+      "icon": "https://your-website.com/icons/memory-game.png",
+      "description": "Test your memory skills",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "color-match",
+      "name": "Color Match",
+      "version": "1.3",
+      "category": "Puzzle",
+      "icon": "https://your-website.com/icons/color-match.png",
+      "description": "Match colorful objects",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "photo-gallery",
+      "name": "Photo Gallery",
+      "version": "3.2",
+      "category": "Photography",
+      "icon": "https://your-website.com/icons/photo-gallery.png",
+      "description": "Organize your photos",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "camera-pro",
+      "name": "Camera Pro",
+      "version": "2.8",
+      "category": "Photography",
+      "icon": "https://your-website.com/icons/camera-pro.png",
+      "description": "Advanced camera controls",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "wallpaper-hub",
+      "name": "Wallpaper Hub",
+      "version": "4.1",
+      "category": "Personalization",
+      "icon": "https://your-website.com/icons/wallpaper-hub.png",
+      "description": "HD wallpapers collection",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "icon-pack",
+      "name": "Icon Pack",
+      "version": "2.0",
+      "category": "Personalization",
+      "icon": "https://your-website.com/icons/icon-pack.png",
+      "description": "Customize your app icons",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "launcher-pro",
+      "name": "Launcher Pro",
+      "version": "5.0",
+      "category": "Personalization",
+      "icon": "https://your-website.com/icons/launcher-pro.png",
+      "description": "Customize your home screen",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "keyboard-pro",
+      "name": "Keyboard Pro",
+      "version": "3.6",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/keyboard-pro.png",
+      "description": "Custom Android keyboard",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "clipboard-manager",
+      "name": "Clipboard Manager",
+      "version": "1.4",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/clipboard-manager.png",
+      "description": "Manage copied content",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "battery-monitor",
+      "name": "Battery Monitor",
+      "version": "2.5",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/battery-monitor.png",
+      "description": "Monitor battery information",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "storage-analyzer",
+      "name": "Storage Analyzer",
+      "version": "1.8",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/storage-analyzer.png",
+      "description": "Analyze device storage",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "wifi-tools",
+      "name": "WiFi Tools",
+      "version": "2.2",
+      "category": "Networking",
+      "icon": "https://your-website.com/icons/wifi-tools.png",
+      "description": "Network information tools",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "speed-test",
+      "name": "Speed Test",
+      "version": "4.0",
+      "category": "Networking",
+      "icon": "https://your-website.com/icons/speed-test.png",
+      "description": "Test internet connection speed",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "browser-lite",
+      "name": "Browser Lite",
+      "version": "3.1",
+      "category": "Internet",
+      "icon": "https://your-website.com/icons/browser-lite.png",
+      "description": "Lightweight web browser",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "download-manager",
+      "name": "Download Manager",
+      "version": "2.7",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/download-manager.png",
+      "description": "Manage file downloads",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "social-hub",
+      "name": "Social Hub",
+      "version": "1.5",
+      "category": "Social",
+      "icon": "https://your-website.com/icons/social-hub.png",
+      "description": "Social networking hub",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "chat-plus",
+      "name": "Chat Plus",
+      "version": "2.3",
+      "category": "Communication",
+      "icon": "https://your-website.com/icons/chat-plus.png",
+      "description": "Modern messaging application",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "email-client",
+      "name": "Email Client",
+      "version": "4.2",
+      "category": "Communication",
+      "icon": "https://your-website.com/icons/email-client.png",
+      "description": "Simple email application",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "contact-manager",
+      "name": "Contact Manager",
+      "version": "1.9",
+      "category": "Communication",
+      "icon": "https://your-website.com/icons/contact-manager.png",
+      "description": "Manage contacts easily",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "document-reader",
+      "name": "Document Reader",
+      "version": "3.0",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/document-reader.png",
+      "description": "Read common documents",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "pdf-reader",
+      "name": "PDF Reader",
+      "version": "5.1",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/pdf-reader.png",
+      "description": "Fast PDF reader",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "pdf-tools",
+      "name": "PDF Tools",
+      "version": "2.6",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/pdf-tools.png",
+      "description": "Useful PDF utilities",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "scanner-pro",
+      "name": "Scanner Pro",
+      "version": "3.4",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/scanner-pro.png",
+      "description": "Scan documents with your phone",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "password-manager",
+      "name": "Password Manager",
+      "version": "1.8",
+      "category": "Security",
+      "icon": "https://your-website.com/icons/password-manager.png",
+      "description": "Manage passwords securely",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "app-lock",
+      "name": "App Lock",
+      "version": "3.2",
+      "category": "Security",
+      "icon": "https://your-website.com/icons/app-lock.png",
+      "description": "Protect selected apps",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "privacy-tools",
+      "name": "Privacy Tools",
+      "version": "2.0",
+      "category": "Security",
+      "icon": "https://your-website.com/icons/privacy-tools.png",
+      "description": "Privacy-focused utilities",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "backup-manager",
+      "name": "Backup Manager",
+      "version": "4.0",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/backup-manager.png",
+      "description": "Manage device backups",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "qr-generator",
+      "name": "QR Generator",
+      "version": "1.7",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/qr-generator.png",
+      "description": "Create QR codes",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "barcode-scanner",
+      "name": "Barcode Scanner",
+      "version": "2.4",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/barcode-scanner.png",
+      "description": "Scan product barcodes",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "flashlight",
+      "name": "Flashlight",
+      "version": "1.2",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/flashlight.png",
+      "description": "Simple flashlight utility",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "version": "2.1",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/compass.png",
+      "description": "Digital compass",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "level-meter",
+      "name": "Level Meter",
+      "version": "1.6",
+      "category": "Tools",
+      "icon": "https://your-website.com/icons/level-meter.png",
+      "description": "Digital level measurement",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "sound-recorder",
+      "name": "Sound Recorder",
+      "version": "3.3",
+      "category": "Music",
+      "icon": "https://your-website.com/icons/sound-recorder.png",
+      "description": "Record audio easily",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "voice-notes",
+      "name": "Voice Notes",
+      "version": "2.2",
+      "category": "Productivity",
+      "icon": "https://your-website.com/icons/voice-notes.png",
+      "description": "Create voice notes",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "radio-player",
+      "name": "Radio Player",
+      "version": "4.0",
+      "category": "Music",
+      "icon": "https://your-website.com/icons/radio-player.png",
+      "description": "Listen to radio stations",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "podcast-player",
+      "name": "Podcast Player",
+      "version": "2.8",
+      "category": "Music",
+      "icon": "https://your-website.com/icons/podcast-player.png",
+      "description": "Listen to podcasts",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "fitness-tracker",
+      "name": "Fitness Tracker",
+      "version": "3.1",
+      "category": "Health",
+      "icon": "https://your-website.com/icons/fitness-tracker.png",
+      "description": "Track daily activities",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "water-reminder",
+      "name": "Water Reminder",
+      "version": "1.9",
+      "category": "Health",
+      "icon": "https://your-website.com/icons/water-reminder.png",
+      "description": "Daily water reminders",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "meditation",
+      "name": "Meditation",
+      "version": "2.5",
+      "category": "Lifestyle",
+      "icon": "https://your-website.com/icons/meditation.png",
+      "description": "Relaxation and meditation",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "recipe-book",
+      "name": "Recipe Book",
+      "version": "3.0",
+      "category": "Lifestyle",
+      "icon": "https://your-website.com/icons/recipe-book.png",
+      "description": "Discover cooking recipes",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "travel-guide",
+      "name": "Travel Guide",
+      "version": "2.2",
+      "category": "Travel",
+      "icon": "https://your-website.com/icons/travel-guide.png",
+      "description": "Travel planning guide",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "currency-converter",
+      "name": "Currency Converter",
+      "version": "4.1",
+      "category": "Finance",
+      "icon": "https://your-website.com/icons/currency-converter.png",
+      "description": "Convert currencies",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "expense-manager",
+      "name": "Expense Manager",
+      "version": "2.0",
+      "category": "Finance",
+      "icon": "https://your-website.com/icons/expense-manager.png",
+      "description": "Track personal expenses",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "calculator-finance",
+      "name": "Finance Calculator",
+      "version": "1.5",
+      "category": "Finance",
+      "icon": "https://your-website.com/icons/calculator-finance.png",
+      "description": "Useful financial calculations",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "news-reader",
+      "name": "News Reader",
+      "version": "3.4",
+      "category": "News",
+      "icon": "https://your-website.com/icons/news-reader.png",
+      "description": "Read news updates",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "weather-widget",
+      "name": "Weather Widget",
+      "version": "2.3",
+      "category": "Weather",
+      "icon": "https://your-website.com/icons/weather-widget.png",
+      "description": "Weather information widget",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "live-wallpaper",
+      "name": "Live Wallpaper",
+      "version": "3.0",
+      "category": "Personalization",
+      "icon": "https://your-website.com/icons/live-wallpaper.png",
+      "description": "Animated wallpapers",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "theme-center",
+      "name": "Theme Center",
+      "version": "2.6",
+      "category": "Personalization",
+      "icon": "https://your-website.com/icons/theme-center.png",
+      "description": "Customize your device theme",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "game-booster",
+      "name": "Game Booster",
+      "version": "4.0",
+      "category": "Gaming",
+      "icon": "https://your-website.com/icons/game-booster.png",
+      "description": "Gaming utility tools",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "game-center",
+      "name": "Game Center",
+      "version": "2.5",
+      "category": "Gaming",
+      "icon": "https://your-website.com/icons/game-center.png",
+      "description": "Manage your games",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "arcade-world",
+      "name": "Arcade World",
+      "version": "1.8",
+      "category": "Arcade",
+      "icon": "https://your-website.com/icons/arcade-world.png",
+      "description": "Collection of arcade games",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "mini-games",
+      "name": "Mini Games",
+      "version": "3.0",
+      "category": "Games",
+      "icon": "https://your-website.com/icons/mini-games.png",
+      "description": "Collection of casual games",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "super-runner",
+      "name": "Super Runner",
+      "version": "2.4",
+      "category": "Arcade",
+      "icon": "https://your-website.com/icons/super-runner.png",
+      "description": "Endless running adventure",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "last-warrior",
+      "name": "Last Warrior",
+      "version": "1.9",
+      "category": "Action",
+      "icon": "https://your-website.com/icons/last-warrior.png",
+      "description": "Action warrior adventure",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "space-adventure",
+      "name": "Space Adventure",
+      "version": "2.7",
+      "category": "Adventure",
+      "icon": "https://your-website.com/icons/space-adventure.png",
+      "description": "Explore the galaxy",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "final-racer",
+      "name": "Final Racer",
+      "version": "3.5",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/final-racer.png",
+      "description": "Ultimate racing challenge",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    }
+  ]
+}
