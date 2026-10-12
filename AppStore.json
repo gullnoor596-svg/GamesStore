@@ -19,13 +19,17 @@
   {
     "name": "GTA San Andreas",
     "description": "Explore a large open world and complete exciting missions.",
-    "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app2.png",
+    "icon": "https://pdalife.com/app/59522b42b5cf9/grand-theft-auto-san-andreas.png",
     "normalUrl": "https://example.com/app2.apk",
     "modUrl": "https://example.com/app2-mod.apk",
     "screenshots": [
-      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_1.png",
-      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_2.png",
-      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_3.png"
+      "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
+       "https://pdalife.com/app/59522b42b5cf9/img2.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img3.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img4.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img6.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img7.jpg"
     ],
     "about": {
       "title": "About this game",
