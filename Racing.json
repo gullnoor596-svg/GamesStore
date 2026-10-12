@@ -1,0 +1,49 @@
+{
+  "apps": [
+    {
+      "id": "racing-car",
+      "name": "Racing Car",
+      "version": "2.0",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/racing-car.png",
+      "description": "Racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "car-racer",
+      "name": "Car Racer",
+      "version": "1.5",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/car-racer.png",
+      "description": "Fast car racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "drift-racing",
+      "name": "Drift Racing",
+      "version": "4.0",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/drift-racing.png",
+      "description": "High-speed drift racing",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "bike-racer",
+      "name": "Bike Racer",
+      "version": "2.7",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/bike-racer.png",
+      "description": "Motorbike racing game",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    },
+    {
+      "id": "final-racer",
+      "name": "Final Racer",
+      "version": "3.5",
+      "category": "Racing",
+      "icon": "https://your-website.com/icons/final-racer.png",
+      "description": "Ultimate racing challenge",
+      "apk_url": "GOOGLE_DRIVE_DOWNLOAD_URL"
+    }
+  ]
+}
