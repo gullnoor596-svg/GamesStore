@@ -1,222 +1,36 @@
 [
-{
-"name": "GTA Vice City",
-"icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm42GmFJ9zsGluZhUonZaIwuuJGH0a2qhBQkoVJQkP4laviwFM",
-"normalUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-full-apkvision.apk",
-"modUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-mod-apkvision.apk",
-"screenshots": [
-"https://www.club386.com/wp-content/uploads/2025/12/GTA-Vice-City-in-city.jpg",
-"https://www.club386.com/wp-content/uploads/2025/12/GTA-Vice-City-on-foot-1068x601.jpg",
-"https://play-lh.googleusercontent.com/tHWMJoSEU5u9jNDQtJptcKJ56UNyTTdRu5PK6qIkitTCKbNyAZQ63KT4Chx1nSq-8PzdUkOicimj2IR5OHZb=w526-h296-rw"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app2.png",
-"normalUrl": "https://example.com/app2.apk",
-"modUrl": "https://example.com/app2-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app3.png",
-"normalUrl": "https://example.com/app3.apk",
-"modUrl": "https://example.com/app3-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app3_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app4.png",
-"normalUrl": "https://example.com/app4.apk",
-"modUrl": "https://example.com/app4-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app4_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app5.png",
-"normalUrl": "https://example.com/app5.apk",
-"modUrl": "https://example.com/app5-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app5_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app6.png",
-"normalUrl": "https://example.com/app6.apk",
-"modUrl": "https://example.com/app6-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app6_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app7.png",
-"normalUrl": "https://example.com/app7.apk",
-"modUrl": "https://example.com/app7-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app7_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app8.png",
-"normalUrl": "https://example.com/app8.apk",
-"modUrl": "https://example.com/app8-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app8_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app9.png",
-"normalUrl": "https://example.com/app9.apk",
-"modUrl": "https://example.com/app9-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app9_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app10.png",
-"normalUrl": "https://example.com/app10.apk",
-"modUrl": "https://example.com/app10-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app10_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app11.png",
-"normalUrl": "https://example.com/app11.apk",
-"modUrl": "https://example.com/app11-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app11_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app12.png",
-"normalUrl": "https://example.com/app12.apk",
-"modUrl": "https://example.com/app12-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app12_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app13.png",
-"normalUrl": "https://example.com/app13.apk",
-"modUrl": "https://example.com/app13-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app13_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app14.png",
-"normalUrl": "https://example.com/app14.apk",
-"modUrl": "https://example.com/app14-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app14_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app15.png",
-"normalUrl": "https://example.com/app15.apk",
-"modUrl": "https://example.com/app15-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app15_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app16.png",
-"normalUrl": "https://example.com/app16.apk",
-"modUrl": "https://example.com/app16-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app16_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app17.png",
-"normalUrl": "https://example.com/app17.apk",
-"modUrl": "https://example.com/app17-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app17_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app18.png",
-"normalUrl": "https://example.com/app18.apk",
-"modUrl": "https://example.com/app18-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app18_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app19.png",
-"normalUrl": "https://example.com/app19.apk",
-"modUrl": "https://example.com/app19-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app19_3.png"
-]
-},
-{
-
-"icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app20.png",
-"normalUrl": "https://example.com/app20.apk",
-"modUrl": "https://example.com/app20-mod.apk",
-"screenshots": [
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_1.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_2.png",
-"https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app20_3.png"
-]
-}
+  {
+    "name": "GTA Vice City",
+    "description": "Explore Vice City in an open-world action-adventure game.",
+    "icon": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm42GmFJ9zsGluZhUonZaIwuuJGH0a2qhBQkoVJQkP4laviwFM",
+    "normalUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-full-apkvision.apk",
+    "modUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-mod-apkvision.apk",
+    "screenshots": [
+      "https://www.club386.com/wp-content/uploads/2025/12/GTA-Vice-City-in-city.jpg",
+      "https://www.club386.com/wp-content/uploads/2025/12/GTA-Vice-City-on-foot-1068x601.jpg",
+      "https://play-lh.googleusercontent.com/tHWMJoSEU5u9jNDQtJptcKJ56UNyTTdRu5PK6qIkitTCKbNyAZQ63KT4Chx1nSq-8PzdUkOicimj2IR5OHZb=w526-h296-rw"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore Vice City, drive vehicles, discover the city, and experience an action-packed adventure.",
+      "tags": ["Action", "Open World", "MOD"]
+    }
+  },
+  {
+    "name": "GTA San Andreas",
+    "description": "Explore a large open world and complete exciting missions.",
+    "icon": "https://raw.githubusercontent.com/USERNAME/REPO/main/icons/app2.png",
+    "normalUrl": "https://example.com/app2.apk",
+    "modUrl": "https://example.com/app2-mod.apk",
+    "screenshots": [
+      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_1.png",
+      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_2.png",
+      "https://raw.githubusercontent.com/USERNAME/REPO/main/screenshots/app2_3.png"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Discover an open-world adventure with missions, vehicles, and exploration.",
+      "tags": ["Action", "Open World", "MOD"]
+    }
+  }
 ]
