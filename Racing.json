@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Asphalt 9: Legends",
+    "description": "Race high-performance cars on spectacular tracks, perform stunts, and compete in arcade racing events.",
+    "icon": "REPLACE_WITH_ASPHALT_9_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ASPHALT_9_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ASPHALT_9_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ASPHALT_9_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ASPHALT_9_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race high-performance cars on spectacular tracks, perform stunts, and compete in arcade racing events.",
+      "tags": [
+        "Arcade",
+        "Cars",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Asphalt 8: Airborne",
+    "description": "Race fast cars and bikes, launch off ramps, and perform aerial stunts across global tracks.",
+    "icon": "REPLACE_WITH_ASPHALT_8_AIRBORNE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ASPHALT_8_AIRBORNE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ASPHALT_8_AIRBORNE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ASPHALT_8_AIRBORNE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ASPHALT_8_AIRBORNE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race fast cars and bikes, launch off ramps, and perform aerial stunts across global tracks.",
+      "tags": [
+        "Arcade",
+        "Stunts",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Asphalt Nitro",
+    "description": "Enjoy compact arcade races, boost with nitro, and race through varied locations.",
+    "icon": "REPLACE_WITH_ASPHALT_NITRO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ASPHALT_NITRO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ASPHALT_NITRO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ASPHALT_NITRO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ASPHALT_NITRO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Enjoy compact arcade races, boost with nitro, and race through varied locations.",
+      "tags": [
+        "Arcade",
+        "Nitro",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Need for Speed No Limits",
+    "description": "Build your street racing reputation, customize cars, and compete in underground events.",
+    "icon": "REPLACE_WITH_NEED_FOR_SPEED_NO_LIMITS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NEED_FOR_SPEED_NO_LIMITS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NEED_FOR_SPEED_NO_LIMITS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_NO_LIMITS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_NO_LIMITS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build your street racing reputation, customize cars, and compete in underground events.",
+      "tags": [
+        "Street Racing",
+        "Customization",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Real Racing 3",
+    "description": "Compete on licensed circuits with detailed cars and realistic track racing.",
+    "icon": "REPLACE_WITH_REAL_RACING_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REAL_RACING_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REAL_RACING_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REAL_RACING_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REAL_RACING_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete on licensed circuits with detailed cars and realistic track racing.",
+      "tags": [
+        "Simulation",
+        "Circuit Racing",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "CarX Street",
+    "description": "Explore a city, tune your car, and compete in street racing events.",
+    "icon": "REPLACE_WITH_CARX_STREET_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CARX_STREET_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CARX_STREET_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CARX_STREET_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CARX_STREET_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a city, tune your car, and compete in street racing events.",
+      "tags": [
+        "Open World",
+        "Street Racing",
+        "Tuning"
+      ]
+    }
+  },
+  {
+    "name": "CarX Drift Racing 2",
+    "description": "Tune vehicles, master drifting, and compete on challenging drift tracks.",
+    "icon": "REPLACE_WITH_CARX_DRIFT_RACING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CARX_DRIFT_RACING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CARX_DRIFT_RACING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CARX_DRIFT_RACING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CARX_DRIFT_RACING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Tune vehicles, master drifting, and compete on challenging drift tracks.",
+      "tags": [
+        "Drifting",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "FR Legends",
+    "description": "Drive through technical courses and practice stylish tandem drifting.",
+    "icon": "REPLACE_WITH_FR_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FR_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FR_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FR_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FR_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive through technical courses and practice stylish tandem drifting.",
+      "tags": [
+        "Drifting",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "CSR Racing 2",
+    "description": "Race tuned cars in drag races and build a collection of high-performance vehicles.",
+    "icon": "REPLACE_WITH_CSR_RACING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CSR_RACING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CSR_RACING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CSR_RACING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CSR_RACING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race tuned cars in drag races and build a collection of high-performance vehicles.",
+      "tags": [
+        "Drag Racing",
+        "Customization",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Nitro Nation World Tour",
+    "description": "Tune cars, upgrade performance, and compete in intense drag racing challenges.",
+    "icon": "REPLACE_WITH_NITRO_NATION_WORLD_TOUR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NITRO_NATION_WORLD_TOUR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NITRO_NATION_WORLD_TOUR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NITRO_NATION_WORLD_TOUR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NITRO_NATION_WORLD_TOUR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Tune cars, upgrade performance, and compete in intense drag racing challenges.",
+      "tags": [
+        "Drag Racing",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Hill Climb Racing",
+    "description": "Drive across bumpy landscapes, collect coins, and upgrade vehicles to travel farther.",
+    "icon": "REPLACE_WITH_HILL_CLIMB_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HILL_CLIMB_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HILL_CLIMB_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HILL_CLIMB_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HILL_CLIMB_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive across bumpy landscapes, collect coins, and upgrade vehicles to travel farther.",
+      "tags": [
+        "Physics",
+        "Arcade",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Hill Climb Racing 2",
+    "description": "Race across hilly tracks, customize vehicles, and compete in online events.",
+    "icon": "REPLACE_WITH_HILL_CLIMB_RACING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HILL_CLIMB_RACING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HILL_CLIMB_RACING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HILL_CLIMB_RACING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HILL_CLIMB_RACING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race across hilly tracks, customize vehicles, and compete in online events.",
+      "tags": [
+        "Physics",
+        "Multiplayer",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Beach Buggy Racing",
+    "description": "Race colorful karts on imaginative tracks and use playful power-ups.",
+    "icon": "REPLACE_WITH_BEACH_BUGGY_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BEACH_BUGGY_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BEACH_BUGGY_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BEACH_BUGGY_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BEACH_BUGGY_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race colorful karts on imaginative tracks and use playful power-ups.",
+      "tags": [
+        "Kart Racing",
+        "Arcade",
+        "Power-ups"
+      ]
+    }
+  },
+  {
+    "name": "Beach Buggy Racing 2",
+    "description": "Compete in kart races, unlock drivers, and use power-ups on varied courses.",
+    "icon": "REPLACE_WITH_BEACH_BUGGY_RACING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BEACH_BUGGY_RACING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BEACH_BUGGY_RACING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BEACH_BUGGY_RACING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BEACH_BUGGY_RACING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in kart races, unlock drivers, and use power-ups on varied courses.",
+      "tags": [
+        "Kart Racing",
+        "Arcade",
+        "Power-ups"
+      ]
+    }
+  },
+  {
+    "name": "Mario Kart Tour",
+    "description": "Race through themed courses, collect items, and compete in kart events.",
+    "icon": "REPLACE_WITH_MARIO_KART_TOUR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MARIO_KART_TOUR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MARIO_KART_TOUR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MARIO_KART_TOUR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MARIO_KART_TOUR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race through themed courses, collect items, and compete in kart events.",
+      "tags": [
+        "Kart Racing",
+        "Arcade",
+        "Items"
+      ]
+    }
+  },
+  {
+    "name": "KartRider Rush+",
+    "description": "Race karts on colorful tracks, customize your racer, and compete with others.",
+    "icon": "REPLACE_WITH_KARTRIDER_RUSH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KARTRIDER_RUSH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KARTRIDER_RUSH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KARTRIDER_RUSH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KARTRIDER_RUSH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race karts on colorful tracks, customize your racer, and compete with others.",
+      "tags": [
+        "Kart Racing",
+        "Multiplayer",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Asphalt Xtreme",
+    "description": "Race powerful vehicles across rough terrain, dirt tracks, and off-road courses.",
+    "icon": "REPLACE_WITH_ASPHALT_XTREME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ASPHALT_XTREME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ASPHALT_XTREME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ASPHALT_XTREME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ASPHALT_XTREME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race powerful vehicles across rough terrain, dirt tracks, and off-road courses.",
+      "tags": [
+        "Off-road",
+        "Arcade",
+        "Vehicles"
+      ]
+    }
+  },
+  {
+    "name": "Rebel Racing",
+    "description": "Race supercars on scenic roads and compete in short, action-packed events.",
+    "icon": "REPLACE_WITH_REBEL_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REBEL_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race supercars on scenic roads and compete in short, action-packed events.",
+      "tags": [
+        "Arcade",
+        "Cars",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Top Drives",
+    "description": "Collect cars, build strategic decks, and compete in car-based racing challenges.",
+    "icon": "REPLACE_WITH_TOP_DRIVES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TOP_DRIVES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TOP_DRIVES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TOP_DRIVES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TOP_DRIVES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect cars, build strategic decks, and compete in car-based racing challenges.",
+      "tags": [
+        "Strategy",
+        "Car Collection",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Drive Ahead!",
+    "description": "Compete in unusual vehicle battles and try to outmaneuver opponents.",
+    "icon": "REPLACE_WITH_DRIVE_AHEAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRIVE_AHEAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRIVE_AHEAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRIVE_AHEAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRIVE_AHEAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in unusual vehicle battles and try to outmaneuver opponents.",
+      "tags": [
+        "Vehicle Battles",
+        "Arcade",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Traffic Rider",
+    "description": "Ride a motorcycle through traffic with first-person road views and career challenges.",
+    "icon": "REPLACE_WITH_TRAFFIC_RIDER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRAFFIC_RIDER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRAFFIC_RIDER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRAFFIC_RIDER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRAFFIC_RIDER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Ride a motorcycle through traffic with first-person road views and career challenges.",
+      "tags": [
+        "Motorcycle",
+        "Traffic",
+        "First-person"
+      ]
+    }
+  },
+  {
+    "name": "Traffic Racer",
+    "description": "Drive through busy highways, avoid traffic, and earn rewards for daring driving.",
+    "icon": "REPLACE_WITH_TRAFFIC_RACER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRAFFIC_RACER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRAFFIC_RACER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRAFFIC_RACER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRAFFIC_RACER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive through busy highways, avoid traffic, and earn rewards for daring driving.",
+      "tags": [
+        "Traffic",
+        "Endless",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Racing Fever",
+    "description": "Race through traffic, choose different camera views, and upgrade your cars.",
+    "icon": "REPLACE_WITH_RACING_FEVER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RACING_FEVER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RACING_FEVER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RACING_FEVER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RACING_FEVER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race through traffic, choose different camera views, and upgrade your cars.",
+      "tags": [
+        "Traffic",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Racing Fever: Moto",
+    "description": "Ride motorcycles through traffic and complete fast-paced riding challenges.",
+    "icon": "REPLACE_WITH_RACING_FEVER_MOTO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RACING_FEVER_MOTO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RACING_FEVER_MOTO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RACING_FEVER_MOTO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RACING_FEVER_MOTO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Ride motorcycles through traffic and complete fast-paced riding challenges.",
+      "tags": [
+        "Motorcycle",
+        "Traffic",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "MotoGP Racing '23",
+    "description": "Compete in motorcycle racing events and aim for precise cornering and fast laps.",
+    "icon": "REPLACE_WITH_MOTOGP_RACING_23_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MOTOGP_RACING_23_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MOTOGP_RACING_23_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MOTOGP_RACING_23_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MOTOGP_RACING_23_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in motorcycle racing events and aim for precise cornering and fast laps.",
+      "tags": [
+        "Motorcycle",
+        "Circuit",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "SBK16 Official Mobile Game",
+    "description": "Race superbikes on circuits and challenge yourself to improve lap times.",
+    "icon": "REPLACE_WITH_SBK16_OFFICIAL_MOBILE_GAME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SBK16_OFFICIAL_MOBILE_GAME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SBK16_OFFICIAL_MOBILE_GAME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SBK16_OFFICIAL_MOBILE_GAME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SBK16_OFFICIAL_MOBILE_GAME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race superbikes on circuits and challenge yourself to improve lap times.",
+      "tags": [
+        "Motorcycle",
+        "Simulation",
+        "Circuit"
+      ]
+    }
+  },
+  {
+    "name": "Trial Xtreme 4",
+    "description": "Balance a trial bike across obstacle-filled tracks and perform precise maneuvers.",
+    "icon": "REPLACE_WITH_TRIAL_XTREME_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRIAL_XTREME_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRIAL_XTREME_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRIAL_XTREME_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRIAL_XTREME_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Balance a trial bike across obstacle-filled tracks and perform precise maneuvers.",
+      "tags": [
+        "Motorcycle",
+        "Trials",
+        "Physics"
+      ]
+    }
+  },
+  {
+    "name": "Trial Xtreme 3",
+    "description": "Ride through challenging obstacle courses and master tricky bike control.",
+    "icon": "REPLACE_WITH_TRIAL_XTREME_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRIAL_XTREME_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRIAL_XTREME_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRIAL_XTREME_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRIAL_XTREME_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Ride through challenging obstacle courses and master tricky bike control.",
+      "tags": [
+        "Motorcycle",
+        "Trials",
+        "Physics"
+      ]
+    }
+  },
+  {
+    "name": "Mad Skills Motocross 3",
+    "description": "Race motocross tracks, time jumps, and compete against other riders.",
+    "icon": "REPLACE_WITH_MAD_SKILLS_MOTOCROSS_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MAD_SKILLS_MOTOCROSS_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MAD_SKILLS_MOTOCROSS_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MAD_SKILLS_MOTOCROSS_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MAD_SKILLS_MOTOCROSS_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race motocross tracks, time jumps, and compete against other riders.",
+      "tags": [
+        "Motocross",
+        "Sports",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Dirt Bike Unchained",
+    "description": "Ride off-road bikes through rugged courses and compete in motocross challenges.",
+    "icon": "REPLACE_WITH_DIRT_BIKE_UNCHAINED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DIRT_BIKE_UNCHAINED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DIRT_BIKE_UNCHAINED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DIRT_BIKE_UNCHAINED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DIRT_BIKE_UNCHAINED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Ride off-road bikes through rugged courses and compete in motocross challenges.",
+      "tags": [
+        "Motocross",
+        "Off-road",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Riptide GP: Renegade",
+    "description": "Race futuristic hydrojets through water tracks, perform stunts, and dodge hazards.",
+    "icon": "REPLACE_WITH_RIPTIDE_GP_RENEGADE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RIPTIDE_GP_RENEGADE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RIPTIDE_GP_RENEGADE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RIPTIDE_GP_RENEGADE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RIPTIDE_GP_RENEGADE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race futuristic hydrojets through water tracks, perform stunts, and dodge hazards.",
+      "tags": [
+        "Water Racing",
+        "Futuristic",
+        "Stunts"
+      ]
+    }
+  },
+  {
+    "name": "Riptide GP2",
+    "description": "Pilot hydrojets on water courses and perform tricks to gain an advantage.",
+    "icon": "REPLACE_WITH_RIPTIDE_GP2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RIPTIDE_GP2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RIPTIDE_GP2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RIPTIDE_GP2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RIPTIDE_GP2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Pilot hydrojets on water courses and perform tricks to gain an advantage.",
+      "tags": [
+        "Water Racing",
+        "Stunts",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Horizon Chase",
+    "description": "Race through colorful retro-inspired tracks with classic arcade handling.",
+    "icon": "REPLACE_WITH_HORIZON_CHASE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HORIZON_CHASE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HORIZON_CHASE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HORIZON_CHASE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HORIZON_CHASE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race through colorful retro-inspired tracks with classic arcade handling.",
+      "tags": [
+        "Retro",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Horizon Chase 2",
+    "description": "Compete on vibrant tracks with accessible arcade racing and car upgrades.",
+    "icon": "REPLACE_WITH_HORIZON_CHASE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HORIZON_CHASE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HORIZON_CHASE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HORIZON_CHASE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HORIZON_CHASE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete on vibrant tracks with accessible arcade racing and car upgrades.",
+      "tags": [
+        "Arcade",
+        "Retro",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Rush Rally 3",
+    "description": "Drive rally cars across varied surfaces and compete in detailed rally stages.",
+    "icon": "REPLACE_WITH_RUSH_RALLY_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUSH_RALLY_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUSH_RALLY_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUSH_RALLY_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUSH_RALLY_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive rally cars across varied surfaces and compete in detailed rally stages.",
+      "tags": [
+        "Rally",
+        "Simulation",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Rush Rally Origins",
+    "description": "Race top-down rally stages with changing surfaces and challenging corners.",
+    "icon": "REPLACE_WITH_RUSH_RALLY_ORIGINS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUSH_RALLY_ORIGINS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUSH_RALLY_ORIGINS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUSH_RALLY_ORIGINS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUSH_RALLY_ORIGINS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race top-down rally stages with changing surfaces and challenging corners.",
+      "tags": [
+        "Rally",
+        "Top-down",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Wreckfest Mobile",
+    "description": "Compete in rough-and-tumble races with vehicle damage and demolition-style events.",
+    "icon": "REPLACE_WITH_WRECKFEST_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WRECKFEST_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WRECKFEST_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WRECKFEST_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WRECKFEST_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in rough-and-tumble races with vehicle damage and demolition-style events.",
+      "tags": [
+        "Demolition",
+        "Contact Racing",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "GRID Autosport",
+    "description": "Race a variety of motorsport disciplines with detailed cars and tracks.",
+    "icon": "REPLACE_WITH_GRID_AUTOSPORT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GRID_AUTOSPORT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GRID_AUTOSPORT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GRID_AUTOSPORT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GRID_AUTOSPORT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race a variety of motorsport disciplines with detailed cars and tracks.",
+      "tags": [
+        "Simulation",
+        "Motorsport",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Assoluto Racing",
+    "description": "Tune performance cars and race on circuits with a focus on driving control.",
+    "icon": "REPLACE_WITH_ASSOLUTO_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ASSOLUTO_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ASSOLUTO_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ASSOLUTO_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ASSOLUTO_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Tune performance cars and race on circuits with a focus on driving control.",
+      "tags": [
+        "Simulation",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Static Shift Racing",
+    "description": "Explore city streets, customize cars, and compete in open-world races.",
+    "icon": "REPLACE_WITH_STATIC_SHIFT_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STATIC_SHIFT_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STATIC_SHIFT_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STATIC_SHIFT_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STATIC_SHIFT_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore city streets, customize cars, and compete in open-world races.",
+      "tags": [
+        "Open World",
+        "Street Racing",
+        "Tuning"
+      ]
+    }
+  },
+  {
+    "name": "Need for Speed: Most Wanted",
+    "description": "Drive high-performance cars, evade pursuits, and compete in street races.",
+    "icon": "REPLACE_WITH_NEED_FOR_SPEED_MOST_WANTED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NEED_FOR_SPEED_MOST_WANTED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NEED_FOR_SPEED_MOST_WANTED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_MOST_WANTED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_MOST_WANTED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive high-performance cars, evade pursuits, and compete in street races.",
+      "tags": [
+        "Street Racing",
+        "Police Chase",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Need for Speed: Hot Pursuit",
+    "description": "Race exotic cars or take on pursuit challenges in high-speed events.",
+    "icon": "REPLACE_WITH_NEED_FOR_SPEED_HOT_PURSUIT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NEED_FOR_SPEED_HOT_PURSUIT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NEED_FOR_SPEED_HOT_PURSUIT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_HOT_PURSUIT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NEED_FOR_SPEED_HOT_PURSUIT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race exotic cars or take on pursuit challenges in high-speed events.",
+      "tags": [
+        "Police Chase",
+        "Supercars",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Drift Max Pro",
+    "description": "Customize cars, drift through courses, and aim for high scores.",
+    "icon": "REPLACE_WITH_DRIFT_MAX_PRO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRIFT_MAX_PRO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRIFT_MAX_PRO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRIFT_MAX_PRO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRIFT_MAX_PRO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize cars, drift through courses, and aim for high scores.",
+      "tags": [
+        "Drifting",
+        "Customization",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Drift Max World",
+    "description": "Perform controlled drifts, tune vehicles, and compete on varied tracks.",
+    "icon": "REPLACE_WITH_DRIFT_MAX_WORLD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRIFT_MAX_WORLD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRIFT_MAX_WORLD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRIFT_MAX_WORLD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRIFT_MAX_WORLD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Perform controlled drifts, tune vehicles, and compete on varied tracks.",
+      "tags": [
+        "Drifting",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Torque Drift",
+    "description": "Build a drift car, tune handling, and compete in drift battles.",
+    "icon": "REPLACE_WITH_TORQUE_DRIFT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TORQUE_DRIFT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TORQUE_DRIFT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TORQUE_DRIFT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TORQUE_DRIFT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a drift car, tune handling, and compete in drift battles.",
+      "tags": [
+        "Drifting",
+        "Customization",
+        "Motorsport"
+      ]
+    }
+  },
+  {
+    "name": "Project Drift 2.0",
+    "description": "Customize cars and practice drifting through detailed urban courses.",
+    "icon": "REPLACE_WITH_PROJECT_DRIFT_2_0_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PROJECT_DRIFT_2_0_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PROJECT_DRIFT_2_0_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PROJECT_DRIFT_2_0_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PROJECT_DRIFT_2_0_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize cars and practice drifting through detailed urban courses.",
+      "tags": [
+        "Drifting",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Extreme Car Driving Simulator",
+    "description": "Drive freely in a city-style environment and practice vehicle control.",
+    "icon": "REPLACE_WITH_EXTREME_CAR_DRIVING_SIMULATOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EXTREME_CAR_DRIVING_SIMULATOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EXTREME_CAR_DRIVING_SIMULATOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EXTREME_CAR_DRIVING_SIMULATOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EXTREME_CAR_DRIVING_SIMULATOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive freely in a city-style environment and practice vehicle control.",
+      "tags": [
+        "Driving Simulator",
+        "Free Roam",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Driving School Sim",
+    "description": "Practice driving skills across roads, cities, and different vehicle types.",
+    "icon": "REPLACE_WITH_DRIVING_SCHOOL_SIM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRIVING_SCHOOL_SIM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRIVING_SCHOOL_SIM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRIVING_SCHOOL_SIM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRIVING_SCHOOL_SIM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Practice driving skills across roads, cities, and different vehicle types.",
+      "tags": [
+        "Driving Simulator",
+        "Learning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Car Parking Multiplayer",
+    "description": "Drive, park, customize vehicles, and explore a shared open environment.",
+    "icon": "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive, park, customize vehicles, and explore a shared open environment.",
+      "tags": [
+        "Parking",
+        "Open World",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Car Parking Multiplayer 2",
+    "description": "Explore driving areas, customize cars, and practice parking challenges.",
+    "icon": "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CAR_PARKING_MULTIPLAYER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore driving areas, customize cars, and practice parking challenges.",
+      "tags": [
+        "Parking",
+        "Open World",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Parking Master Multiplayer 2",
+    "description": "Complete parking tasks, drive vehicles, and explore multiplayer environments.",
+    "icon": "REPLACE_WITH_PARKING_MASTER_MULTIPLAYER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PARKING_MASTER_MULTIPLAYER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PARKING_MASTER_MULTIPLAYER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PARKING_MASTER_MULTIPLAYER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PARKING_MASTER_MULTIPLAYER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete parking tasks, drive vehicles, and explore multiplayer environments.",
+      "tags": [
+        "Parking",
+        "Driving",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Bus Simulator: Ultimate",
+    "description": "Operate a bus company, drive routes, and transport passengers between cities.",
+    "icon": "REPLACE_WITH_BUS_SIMULATOR_ULTIMATE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BUS_SIMULATOR_ULTIMATE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BUS_SIMULATOR_ULTIMATE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BUS_SIMULATOR_ULTIMATE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BUS_SIMULATOR_ULTIMATE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Operate a bus company, drive routes, and transport passengers between cities.",
+      "tags": [
+        "Bus",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Bus Simulator Indonesia",
+    "description": "Drive buses on Indonesian roads, customize vehicles, and follow route challenges.",
+    "icon": "REPLACE_WITH_BUS_SIMULATOR_INDONESIA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BUS_SIMULATOR_INDONESIA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BUS_SIMULATOR_INDONESIA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BUS_SIMULATOR_INDONESIA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BUS_SIMULATOR_INDONESIA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive buses on Indonesian roads, customize vehicles, and follow route challenges.",
+      "tags": [
+        "Bus",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "World Bus Driving Simulator",
+    "description": "Drive buses on long routes and handle varied road and weather conditions.",
+    "icon": "REPLACE_WITH_WORLD_BUS_DRIVING_SIMULATOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WORLD_BUS_DRIVING_SIMULATOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WORLD_BUS_DRIVING_SIMULATOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WORLD_BUS_DRIVING_SIMULATOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WORLD_BUS_DRIVING_SIMULATOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive buses on long routes and handle varied road and weather conditions.",
+      "tags": [
+        "Bus",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Truck Simulator: Ultimate",
+    "description": "Manage a transport business, buy trucks, and deliver cargo across routes.",
+    "icon": "REPLACE_WITH_TRUCK_SIMULATOR_ULTIMATE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRUCK_SIMULATOR_ULTIMATE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRUCK_SIMULATOR_ULTIMATE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRUCK_SIMULATOR_ULTIMATE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRUCK_SIMULATOR_ULTIMATE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a transport business, buy trucks, and deliver cargo across routes.",
+      "tags": [
+        "Truck",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Truckers of Europe 3",
+    "description": "Drive trucks across European-style roads and complete cargo deliveries.",
+    "icon": "REPLACE_WITH_TRUCKERS_OF_EUROPE_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRUCKERS_OF_EUROPE_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRUCKERS_OF_EUROPE_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRUCKERS_OF_EUROPE_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRUCKERS_OF_EUROPE_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive trucks across European-style roads and complete cargo deliveries.",
+      "tags": [
+        "Truck",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Grand Truck Simulator 2",
+    "description": "Operate trucks, manage vehicle condition, and complete transportation jobs.",
+    "icon": "REPLACE_WITH_GRAND_TRUCK_SIMULATOR_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GRAND_TRUCK_SIMULATOR_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GRAND_TRUCK_SIMULATOR_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GRAND_TRUCK_SIMULATOR_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GRAND_TRUCK_SIMULATOR_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Operate trucks, manage vehicle condition, and complete transportation jobs.",
+      "tags": [
+        "Truck",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Euro Truck Driver 2018",
+    "description": "Drive trucks through highways and cities while completing delivery jobs.",
+    "icon": "REPLACE_WITH_EURO_TRUCK_DRIVER_2018_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EURO_TRUCK_DRIVER_2018_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EURO_TRUCK_DRIVER_2018_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EURO_TRUCK_DRIVER_2018_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EURO_TRUCK_DRIVER_2018_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive trucks through highways and cities while completing delivery jobs.",
+      "tags": [
+        "Truck",
+        "Simulation",
+        "Transport"
+      ]
+    }
+  },
+  {
+    "name": "Off The Road (OTR)",
+    "description": "Explore open terrain with off-road vehicles, boats, and challenging routes.",
+    "icon": "REPLACE_WITH_OFF_THE_ROAD_OTR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OFF_THE_ROAD_OTR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OFF_THE_ROAD_OTR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OFF_THE_ROAD_OTR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OFF_THE_ROAD_OTR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore open terrain with off-road vehicles, boats, and challenging routes.",
+      "tags": [
+        "Off-road",
+        "Open World",
+        "Vehicles"
+      ]
+    }
+  },
+  {
+    "name": "4x4 Mania",
+    "description": "Drive and customize off-road vehicles across rugged trails and obstacles.",
+    "icon": "REPLACE_WITH_4X4_MANIA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_4X4_MANIA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_4X4_MANIA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_4X4_MANIA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_4X4_MANIA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive and customize off-road vehicles across rugged trails and obstacles.",
+      "tags": [
+        "Off-road",
+        "4x4",
+        "Simulation"
+      ]
+    }
+  },
+  {
+    "name": "MudRunner Mobile",
+    "description": "Navigate difficult muddy terrain and transport cargo using heavy vehicles.",
+    "icon": "REPLACE_WITH_MUDRUNNER_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MUDRUNNER_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MUDRUNNER_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MUDRUNNER_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MUDRUNNER_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Navigate difficult muddy terrain and transport cargo using heavy vehicles.",
+      "tags": [
+        "Off-road",
+        "Simulation",
+        "Trucks"
+      ]
+    }
+  },
+  {
+    "name": "SnowRunner",
+    "description": "Drive heavy vehicles through challenging wilderness and rough terrain.",
+    "icon": "REPLACE_WITH_SNOWRUNNER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SNOWRUNNER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SNOWRUNNER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SNOWRUNNER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SNOWRUNNER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive heavy vehicles through challenging wilderness and rough terrain.",
+      "tags": [
+        "Off-road",
+        "Simulation",
+        "Trucks"
+      ]
+    }
+  },
+  {
+    "name": "Car Simulator 2",
+    "description": "Explore a driving world, customize cars, and complete various driving tasks.",
+    "icon": "REPLACE_WITH_CAR_SIMULATOR_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CAR_SIMULATOR_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CAR_SIMULATOR_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CAR_SIMULATOR_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CAR_SIMULATOR_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a driving world, customize cars, and complete various driving tasks.",
+      "tags": [
+        "Driving Simulator",
+        "Open World",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Driving",
+    "description": "Complete careful-driving challenges and practice parking and traffic control.",
+    "icon": "REPLACE_WITH_DR_DRIVING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DR_DRIVING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DR_DRIVING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DR_DRIVING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DR_DRIVING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete careful-driving challenges and practice parking and traffic control.",
+      "tags": [
+        "Driving",
+        "Parking",
+        "Simulation"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Parking 4",
+    "description": "Test your precision in compact parking levels and driving challenges.",
+    "icon": "REPLACE_WITH_DR_PARKING_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DR_PARKING_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DR_PARKING_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DR_PARKING_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DR_PARKING_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Test your precision in compact parking levels and driving challenges.",
+      "tags": [
+        "Parking",
+        "Precision",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Parking Mania 2",
+    "description": "Park vehicles in tight spaces while avoiding obstacles and traffic.",
+    "icon": "REPLACE_WITH_PARKING_MANIA_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PARKING_MANIA_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PARKING_MANIA_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PARKING_MANIA_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PARKING_MANIA_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Park vehicles in tight spaces while avoiding obstacles and traffic.",
+      "tags": [
+        "Parking",
+        "Puzzle",
+        "Driving"
+      ]
+    }
+  },
+  {
+    "name": "Does not Commute",
+    "description": "Coordinate multiple vehicles through a town in a time-based driving puzzle.",
+    "icon": "REPLACE_WITH_DOES_NOT_COMMUTE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DOES_NOT_COMMUTE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DOES_NOT_COMMUTE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DOES_NOT_COMMUTE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DOES_NOT_COMMUTE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Coordinate multiple vehicles through a town in a time-based driving puzzle.",
+      "tags": [
+        "Puzzle",
+        "Driving",
+        "Strategy"
+      ]
+    }
+  },
+  {
+    "name": "Reckless Racing 3",
+    "description": "Race on compact tracks with top-down controls and challenging opponents.",
+    "icon": "REPLACE_WITH_RECKLESS_RACING_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RECKLESS_RACING_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RECKLESS_RACING_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RECKLESS_RACING_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RECKLESS_RACING_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race on compact tracks with top-down controls and challenging opponents.",
+      "tags": [
+        "Top-down",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Mini Motor Racing",
+    "description": "Race miniature cars on colorful tracks and upgrade your racing lineup.",
+    "icon": "REPLACE_WITH_MINI_MOTOR_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MINI_MOTOR_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MINI_MOTOR_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MINI_MOTOR_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MINI_MOTOR_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race miniature cars on colorful tracks and upgrade your racing lineup.",
+      "tags": [
+        "Arcade",
+        "Mini Cars",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Table Top Racing: World Tour",
+    "description": "Race tiny cars across tabletop-inspired tracks with arcade power-ups.",
+    "icon": "REPLACE_WITH_TABLE_TOP_RACING_WORLD_TOUR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TABLE_TOP_RACING_WORLD_TOUR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TABLE_TOP_RACING_WORLD_TOUR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TABLE_TOP_RACING_WORLD_TOUR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TABLE_TOP_RACING_WORLD_TOUR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race tiny cars across tabletop-inspired tracks with arcade power-ups.",
+      "tags": [
+        "Arcade",
+        "Mini Cars",
+        "Power-ups"
+      ]
+    }
+  },
+  {
+    "name": "Pocket Rally",
+    "description": "Race rally cars on compact tracks with multiple camera and control options.",
+    "icon": "REPLACE_WITH_POCKET_RALLY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_POCKET_RALLY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_POCKET_RALLY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_POCKET_RALLY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_POCKET_RALLY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race rally cars on compact tracks with multiple camera and control options.",
+      "tags": [
+        "Rally",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Re-Volt Classic",
+    "description": "Race remote-controlled cars around imaginative miniature environments.",
+    "icon": "REPLACE_WITH_RE_VOLT_CLASSIC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RE_VOLT_CLASSIC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RE_VOLT_CLASSIC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RE_VOLT_CLASSIC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RE_VOLT_CLASSIC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race remote-controlled cars around imaginative miniature environments.",
+      "tags": [
+        "RC Cars",
+        "Retro",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Micro Machines",
+    "description": "Race tiny vehicles through household-inspired tracks and tight turns.",
+    "icon": "REPLACE_WITH_MICRO_MACHINES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MICRO_MACHINES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MICRO_MACHINES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MICRO_MACHINES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MICRO_MACHINES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race tiny vehicles through household-inspired tracks and tight turns.",
+      "tags": [
+        "RC Cars",
+        "Arcade",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Hot Wheels Race Off",
+    "description": "Race toy cars on stunt tracks with loops, jumps, and steep ramps.",
+    "icon": "REPLACE_WITH_HOT_WHEELS_RACE_OFF_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HOT_WHEELS_RACE_OFF_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HOT_WHEELS_RACE_OFF_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HOT_WHEELS_RACE_OFF_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HOT_WHEELS_RACE_OFF_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race toy cars on stunt tracks with loops, jumps, and steep ramps.",
+      "tags": [
+        "Stunts",
+        "Toy Cars",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Hot Wheels Unlimited",
+    "description": "Build tracks, perform stunts, and race toy cars through creative courses.",
+    "icon": "REPLACE_WITH_HOT_WHEELS_UNLIMITED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HOT_WHEELS_UNLIMITED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HOT_WHEELS_UNLIMITED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HOT_WHEELS_UNLIMITED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HOT_WHEELS_UNLIMITED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build tracks, perform stunts, and race toy cars through creative courses.",
+      "tags": [
+        "Track Builder",
+        "Toy Cars",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "LEGO 2K Drive",
+    "description": "Explore a colorful world, build vehicles, and race across varied environments.",
+    "icon": "REPLACE_WITH_LEGO_2K_DRIVE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEGO_2K_DRIVE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEGO_2K_DRIVE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEGO_2K_DRIVE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEGO_2K_DRIVE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a colorful world, build vehicles, and race across varied environments.",
+      "tags": [
+        "Open World",
+        "Vehicle Building",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Disney Speedstorm",
+    "description": "Race as familiar Disney and Pixar characters on themed tracks.",
+    "icon": "REPLACE_WITH_DISNEY_SPEEDSTORM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DISNEY_SPEEDSTORM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DISNEY_SPEEDSTORM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DISNEY_SPEEDSTORM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DISNEY_SPEEDSTORM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race as familiar Disney and Pixar characters on themed tracks.",
+      "tags": [
+        "Kart Racing",
+        "Characters",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Sonic Racing",
+    "description": "Race with Sonic characters on colorful courses and compete for the lead.",
+    "icon": "REPLACE_WITH_SONIC_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SONIC_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SONIC_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SONIC_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SONIC_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race with Sonic characters on colorful courses and compete for the lead.",
+      "tags": [
+        "Kart Racing",
+        "Characters",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Nickelodeon Kart Racers",
+    "description": "Race as animated characters on themed tracks with kart-style gameplay.",
+    "icon": "REPLACE_WITH_NICKELODEON_KART_RACERS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NICKELODEON_KART_RACERS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NICKELODEON_KART_RACERS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NICKELODEON_KART_RACERS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NICKELODEON_KART_RACERS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race as animated characters on themed tracks with kart-style gameplay.",
+      "tags": [
+        "Kart Racing",
+        "Characters",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Garfield Kart: Furious Racing",
+    "description": "Race as Garfield characters on playful tracks with power-ups.",
+    "icon": "REPLACE_WITH_GARFIELD_KART_FURIOUS_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GARFIELD_KART_FURIOUS_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GARFIELD_KART_FURIOUS_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GARFIELD_KART_FURIOUS_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GARFIELD_KART_FURIOUS_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race as Garfield characters on playful tracks with power-ups.",
+      "tags": [
+        "Kart Racing",
+        "Characters",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Angry Birds Go!",
+    "description": "Race downhill tracks with characters and upgradeable kart vehicles.",
+    "icon": "REPLACE_WITH_ANGRY_BIRDS_GO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ANGRY_BIRDS_GO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ANGRY_BIRDS_GO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ANGRY_BIRDS_GO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ANGRY_BIRDS_GO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race downhill tracks with characters and upgradeable kart vehicles.",
+      "tags": [
+        "Kart Racing",
+        "Characters",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Smashy Road: Wanted",
+    "description": "Drive through a blocky world while evading pursuers and avoiding obstacles.",
+    "icon": "REPLACE_WITH_SMASHY_ROAD_WANTED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SMASHY_ROAD_WANTED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SMASHY_ROAD_WANTED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SMASHY_ROAD_WANTED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SMASHY_ROAD_WANTED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive through a blocky world while evading pursuers and avoiding obstacles.",
+      "tags": [
+        "Arcade",
+        "Driving",
+        "Chase"
+      ]
+    }
+  },
+  {
+    "name": "Smashy Road: Arena",
+    "description": "Drive around compact arenas and try to survive chaotic vehicle action.",
+    "icon": "REPLACE_WITH_SMASHY_ROAD_ARENA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SMASHY_ROAD_ARENA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SMASHY_ROAD_ARENA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SMASHY_ROAD_ARENA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SMASHY_ROAD_ARENA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive around compact arenas and try to survive chaotic vehicle action.",
+      "tags": [
+        "Arcade",
+        "Vehicles",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Pako: Car Chase Simulator",
+    "description": "Escape pursuers in compact arenas and survive intense car chases.",
+    "icon": "REPLACE_WITH_PAKO_CAR_CHASE_SIMULATOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PAKO_CAR_CHASE_SIMULATOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PAKO_CAR_CHASE_SIMULATOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PAKO_CAR_CHASE_SIMULATOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PAKO_CAR_CHASE_SIMULATOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Escape pursuers in compact arenas and survive intense car chases.",
+      "tags": [
+        "Chase",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Pako 2",
+    "description": "Drive getaway routes, collect crew, and escape pursuit in arcade challenges.",
+    "icon": "REPLACE_WITH_PAKO_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PAKO_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PAKO_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PAKO_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PAKO_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive getaway routes, collect crew, and escape pursuit in arcade challenges.",
+      "tags": [
+        "Chase",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Pako Highway",
+    "description": "Drive through traffic at high speed and avoid collisions on highways.",
+    "icon": "REPLACE_WITH_PAKO_HIGHWAY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PAKO_HIGHWAY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PAKO_HIGHWAY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PAKO_HIGHWAY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PAKO_HIGHWAY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive through traffic at high speed and avoid collisions on highways.",
+      "tags": [
+        "Highway",
+        "Arcade",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Rebel Racing",
+    "description": "Compete in short races, collect cars, and improve vehicle performance.",
+    "icon": "REPLACE_WITH_REBEL_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REBEL_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REBEL_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in short races, collect cars, and improve vehicle performance.",
+      "tags": [
+        "Arcade",
+        "Cars",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Racing Master",
+    "description": "Experience competitive car racing with detailed vehicles and circuit-style events.",
+    "icon": "REPLACE_WITH_RACING_MASTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RACING_MASTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RACING_MASTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RACING_MASTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RACING_MASTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience competitive car racing with detailed vehicles and circuit-style events.",
+      "tags": [
+        "Cars",
+        "Competition",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Ace Racer",
+    "description": "Race stylized cars with special abilities across imaginative tracks.",
+    "icon": "REPLACE_WITH_ACE_RACER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ACE_RACER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ACE_RACER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ACE_RACER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ACE_RACER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race stylized cars with special abilities across imaginative tracks.",
+      "tags": [
+        "Arcade",
+        "Abilities",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "F1 Mobile Racing",
+    "description": "Compete in Formula-style races and aim for fast, consistent laps.",
+    "icon": "REPLACE_WITH_F1_MOBILE_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_F1_MOBILE_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_F1_MOBILE_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_F1_MOBILE_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_F1_MOBILE_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in Formula-style races and aim for fast, consistent laps.",
+      "tags": [
+        "Formula Racing",
+        "Motorsport",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Motorsport Manager Mobile 3",
+    "description": "Manage a racing team, plan strategies, and make race-day decisions.",
+    "icon": "REPLACE_WITH_MOTORSPORT_MANAGER_MOBILE_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MOTORSPORT_MANAGER_MOBILE_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MOTORSPORT_MANAGER_MOBILE_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MOTORSPORT_MANAGER_MOBILE_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MOTORSPORT_MANAGER_MOBILE_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a racing team, plan strategies, and make race-day decisions.",
+      "tags": [
+        "Management",
+        "Strategy",
+        "Motorsport"
+      ]
+    }
+  },
+  {
+    "name": "Monoposto",
+    "description": "Race open-wheel cars on circuits and fine-tune your driving lines.",
+    "icon": "REPLACE_WITH_MONOPOSTO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MONOPOSTO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MONOPOSTO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MONOPOSTO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MONOPOSTO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race open-wheel cars on circuits and fine-tune your driving lines.",
+      "tags": [
+        "Formula Racing",
+        "Simulation",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Real Drift Car Racing",
+    "description": "Practice drifting, adjust vehicle setup, and earn points on drift courses.",
+    "icon": "REPLACE_WITH_REAL_DRIFT_CAR_RACING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REAL_DRIFT_CAR_RACING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REAL_DRIFT_CAR_RACING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REAL_DRIFT_CAR_RACING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REAL_DRIFT_CAR_RACING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Practice drifting, adjust vehicle setup, and earn points on drift courses.",
+      "tags": [
+        "Drifting",
+        "Simulation",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "CarX Rally",
+    "description": "Drive rally cars on dirt roads and compete through timed stages.",
+    "icon": "REPLACE_WITH_CARX_RALLY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CARX_RALLY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CARX_RALLY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CARX_RALLY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CARX_RALLY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive rally cars on dirt roads and compete through timed stages.",
+      "tags": [
+        "Rally",
+        "Simulation",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Dirt Trackin 2",
+    "description": "Race on dirt oval tracks and compete in short-track motorsport events.",
+    "icon": "REPLACE_WITH_DIRT_TRACKIN_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DIRT_TRACKIN_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DIRT_TRACKIN_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DIRT_TRACKIN_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DIRT_TRACKIN_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race on dirt oval tracks and compete in short-track motorsport events.",
+      "tags": [
+        "Dirt Racing",
+        "Motorsport",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Drag Racing: Streets",
+    "description": "Build and tune cars for drag races and optimize gear shifts.",
+    "icon": "REPLACE_WITH_DRAG_RACING_STREETS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRAG_RACING_STREETS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRAG_RACING_STREETS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRAG_RACING_STREETS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRAG_RACING_STREETS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build and tune cars for drag races and optimize gear shifts.",
+      "tags": [
+        "Drag Racing",
+        "Tuning",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "No Limit Drag Racing 2",
+    "description": "Customize engines and tune setups for competitive drag racing.",
+    "icon": "REPLACE_WITH_NO_LIMIT_DRAG_RACING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NO_LIMIT_DRAG_RACING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NO_LIMIT_DRAG_RACING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NO_LIMIT_DRAG_RACING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NO_LIMIT_DRAG_RACING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize engines and tune setups for competitive drag racing.",
+      "tags": [
+        "Drag Racing",
+        "Customization",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Speed Racing Ultimate 5",
+    "description": "Compete in arcade-style races and unlock a range of vehicles.",
+    "icon": "REPLACE_WITH_SPEED_RACING_ULTIMATE_5_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPEED_RACING_ULTIMATE_5_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPEED_RACING_ULTIMATE_5_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPEED_RACING_ULTIMATE_5_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPEED_RACING_ULTIMATE_5_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in arcade-style races and unlock a range of vehicles.",
+      "tags": [
+        "Arcade",
+        "Cars",
+        "Racing"
+      ]
+    }
+  },
+  {
+    "name": "Extreme Rally Championship",
+    "description": "Race through rally stages and manage speed on challenging surfaces.",
+    "icon": "REPLACE_WITH_EXTREME_RALLY_CHAMPIONSHIP_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EXTREME_RALLY_CHAMPIONSHIP_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EXTREME_RALLY_CHAMPIONSHIP_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EXTREME_RALLY_CHAMPIONSHIP_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EXTREME_RALLY_CHAMPIONSHIP_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race through rally stages and manage speed on challenging surfaces.",
+      "tags": [
+        "Rally",
+        "Off-road",
+        "Cars"
+      ]
+    }
+  },
+  {
+    "name": "Offroad Outlaws",
+    "description": "Customize off-road vehicles and explore trails, mud, and rugged terrain.",
+    "icon": "REPLACE_WITH_OFFROAD_OUTLAWS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OFFROAD_OUTLAWS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OFFROAD_OUTLAWS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OFFROAD_OUTLAWS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OFFROAD_OUTLAWS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize off-road vehicles and explore trails, mud, and rugged terrain.",
+      "tags": [
+        "Off-road",
+        "Customization",
+        "Vehicles"
+      ]
+    }
+  }
+]

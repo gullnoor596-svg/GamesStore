@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Vice City",
+    "description": "Explore a neon-lit city, drive vehicles, discover hidden places, and experience a classic open-world adventure.",
+    "icon": "REPLACE_WITH_GTA_VICE_CITY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GTA_VICE_CITY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GTA_VICE_CITY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GTA_VICE_CITY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GTA_VICE_CITY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a neon-lit city, drive vehicles, discover hidden places, and experience a classic open-world adventure.",
+      "tags": [
+        "Action",
+        "Open World",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "GTA San Andreas",
+    "description": "Explore a huge open world, complete missions, drive vehicles, and discover a memorable story.",
+    "icon": "REPLACE_WITH_GTA_SAN_ANDREAS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GTA_SAN_ANDREAS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GTA_SAN_ANDREAS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GTA_SAN_ANDREAS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GTA_SAN_ANDREAS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a huge open world, complete missions, drive vehicles, and discover a memorable story.",
+      "tags": [
+        "Action",
+        "Open World",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "GTA III",
+    "description": "Explore a classic open-world city, take on missions, and discover urban adventures.",
+    "icon": "REPLACE_WITH_GTA_III_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GTA_III_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GTA_III_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GTA_III_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GTA_III_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a classic open-world city, take on missions, and discover urban adventures.",
+      "tags": [
+        "Action",
+        "Open World",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "GTA Liberty City Stories",
+    "description": "Explore Liberty City through story missions, vehicles, and open-world activities.",
+    "icon": "REPLACE_WITH_GTA_LIBERTY_CITY_STORIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GTA_LIBERTY_CITY_STORIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GTA_LIBERTY_CITY_STORIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GTA_LIBERTY_CITY_STORIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GTA_LIBERTY_CITY_STORIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore Liberty City through story missions, vehicles, and open-world activities.",
+      "tags": [
+        "Action",
+        "Open World",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Minecraft",
+    "description": "Build, explore, craft, and discover new worlds in a block-based sandbox adventure.",
+    "icon": "REPLACE_WITH_MINECRAFT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MINECRAFT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MINECRAFT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MINECRAFT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MINECRAFT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build, explore, craft, and discover new worlds in a block-based sandbox adventure.",
+      "tags": [
+        "Sandbox",
+        "Crafting",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Terraria",
+    "description": "Explore underground worlds, discover treasures, build shelters, and take on challenging quests.",
+    "icon": "REPLACE_WITH_TERRARIA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TERRARIA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TERRARIA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TERRARIA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TERRARIA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore underground worlds, discover treasures, build shelters, and take on challenging quests.",
+      "tags": [
+        "Sandbox",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Roblox",
+    "description": "Discover user-created worlds, explore experiences, and play adventures created by the community.",
+    "icon": "REPLACE_WITH_ROBLOX_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ROBLOX_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ROBLOX_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ROBLOX_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ROBLOX_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Discover user-created worlds, explore experiences, and play adventures created by the community.",
+      "tags": [
+        "Multiplayer",
+        "Sandbox",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Sky: Children of the Light",
+    "description": "Fly through beautiful realms, explore mysterious places, and share a peaceful social adventure.",
+    "icon": "REPLACE_WITH_SKY__CHILDREN_OF_THE_LIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SKY__CHILDREN_OF_THE_LIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SKY__CHILDREN_OF_THE_LIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SKY__CHILDREN_OF_THE_LIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SKY__CHILDREN_OF_THE_LIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fly through beautiful realms, explore mysterious places, and share a peaceful social adventure.",
+      "tags": [
+        "Exploration",
+        "Social",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Genshin Impact",
+    "description": "Explore a vast fantasy world, meet characters, solve puzzles, and uncover a sweeping story.",
+    "icon": "REPLACE_WITH_GENSHIN_IMPACT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GENSHIN_IMPACT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GENSHIN_IMPACT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GENSHIN_IMPACT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GENSHIN_IMPACT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a vast fantasy world, meet characters, solve puzzles, and uncover a sweeping story.",
+      "tags": [
+        "Fantasy",
+        "Open World",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Honkai: Star Rail",
+    "description": "Travel between worlds, meet memorable characters, and uncover mysteries in a sci-fi fantasy journey.",
+    "icon": "REPLACE_WITH_HONKAI__STAR_RAIL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HONKAI__STAR_RAIL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HONKAI__STAR_RAIL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HONKAI__STAR_RAIL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HONKAI__STAR_RAIL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel between worlds, meet memorable characters, and uncover mysteries in a sci-fi fantasy journey.",
+      "tags": [
+        "Sci-Fi",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Oceanhorn",
+    "description": "Explore islands, solve puzzles, and uncover secrets in a colorful action-adventure world.",
+    "icon": "REPLACE_WITH_OCEANHORN_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OCEANHORN_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OCEANHORN_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OCEANHORN_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OCEANHORN_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore islands, solve puzzles, and uncover secrets in a colorful action-adventure world.",
+      "tags": [
+        "Fantasy",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Oceanhorn 2",
+    "description": "Journey through a fantasy kingdom, solve ancient puzzles, and discover hidden locations.",
+    "icon": "REPLACE_WITH_OCEANHORN_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OCEANHORN_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OCEANHORN_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OCEANHORN_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OCEANHORN_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Journey through a fantasy kingdom, solve ancient puzzles, and discover hidden locations.",
+      "tags": [
+        "Fantasy",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Oddmar",
+    "description": "Guide a Viking through imaginative lands filled with platforming challenges and secrets.",
+    "icon": "REPLACE_WITH_ODDMAR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ODDMAR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ODDMAR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ODDMAR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ODDMAR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Guide a Viking through imaginative lands filled with platforming challenges and secrets.",
+      "tags": [
+        "Platformer",
+        "Fantasy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Swordigo",
+    "description": "Explore caves, forests, and dungeons while progressing through a classic platform adventure.",
+    "icon": "REPLACE_WITH_SWORDIGO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SWORDIGO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SWORDIGO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SWORDIGO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SWORDIGO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore caves, forests, and dungeons while progressing through a classic platform adventure.",
+      "tags": [
+        "Platformer",
+        "Fantasy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Ninja Arashi",
+    "description": "Travel through dangerous environments, overcome traps, and follow a ninja-themed adventure.",
+    "icon": "REPLACE_WITH_NINJA_ARASHI_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NINJA_ARASHI_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NINJA_ARASHI_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NINJA_ARASHI_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NINJA_ARASHI_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through dangerous environments, overcome traps, and follow a ninja-themed adventure.",
+      "tags": [
+        "Platformer",
+        "Ninja",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Ninja Arashi 2",
+    "description": "Continue a shadowy ninja journey with new environments, challenges, and story moments.",
+    "icon": "REPLACE_WITH_NINJA_ARASHI_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NINJA_ARASHI_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NINJA_ARASHI_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NINJA_ARASHI_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NINJA_ARASHI_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Continue a shadowy ninja journey with new environments, challenges, and story moments.",
+      "tags": [
+        "Platformer",
+        "Ninja",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Dan the Man",
+    "description": "Explore action-packed levels, rescue friends, and enjoy a retro-style platform adventure.",
+    "icon": "REPLACE_WITH_DAN_THE_MAN_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DAN_THE_MAN_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DAN_THE_MAN_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DAN_THE_MAN_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DAN_THE_MAN_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore action-packed levels, rescue friends, and enjoy a retro-style platform adventure.",
+      "tags": [
+        "Platformer",
+        "Retro",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Super Bear Adventure",
+    "description": "Explore colorful worlds, meet characters, and complete quests as a brave bear.",
+    "icon": "REPLACE_WITH_SUPER_BEAR_ADVENTURE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SUPER_BEAR_ADVENTURE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SUPER_BEAR_ADVENTURE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SUPER_BEAR_ADVENTURE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SUPER_BEAR_ADVENTURE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore colorful worlds, meet characters, and complete quests as a brave bear.",
+      "tags": [
+        "Platformer",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "LIMBO",
+    "description": "Solve environmental puzzles and travel through a mysterious monochrome world.",
+    "icon": "REPLACE_WITH_LIMBO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LIMBO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LIMBO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LIMBO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LIMBO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve environmental puzzles and travel through a mysterious monochrome world.",
+      "tags": [
+        "Puzzle",
+        "Atmospheric",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "INSIDE",
+    "description": "Explore a strange world, solve environmental puzzles, and uncover a mysterious story.",
+    "icon": "REPLACE_WITH_INSIDE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INSIDE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INSIDE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INSIDE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INSIDE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a strange world, solve environmental puzzles, and uncover a mysterious story.",
+      "tags": [
+        "Puzzle",
+        "Atmospheric",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Very Little Nightmares",
+    "description": "Guide a small character through eerie rooms, solve puzzles, and escape danger.",
+    "icon": "REPLACE_WITH_VERY_LITTLE_NIGHTMARES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_VERY_LITTLE_NIGHTMARES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_VERY_LITTLE_NIGHTMARES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_VERY_LITTLE_NIGHTMARES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_VERY_LITTLE_NIGHTMARES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Guide a small character through eerie rooms, solve puzzles, and escape danger.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Little Nightmares",
+    "description": "Explore unsettling environments, solve puzzles, and uncover secrets in a dark adventure.",
+    "icon": "REPLACE_WITH_LITTLE_NIGHTMARES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LITTLE_NIGHTMARES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LITTLE_NIGHTMARES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LITTLE_NIGHTMARES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LITTLE_NIGHTMARES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore unsettling environments, solve puzzles, and uncover secrets in a dark adventure.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Hello Neighbor",
+    "description": "Explore a neighbor's house, solve puzzles, and discover what is hidden inside.",
+    "icon": "REPLACE_WITH_HELLO_NEIGHBOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HELLO_NEIGHBOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HELLO_NEIGHBOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HELLO_NEIGHBOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HELLO_NEIGHBOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a neighbor's house, solve puzzles, and discover what is hidden inside.",
+      "tags": [
+        "Stealth",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Hello Neighbor: Nicky's Diaries",
+    "description": "Investigate strange mysteries, solve puzzles, and explore a suspenseful story.",
+    "icon": "REPLACE_WITH_HELLO_NEIGHBOR__NICKY_S_DIARIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HELLO_NEIGHBOR__NICKY_S_DIARIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HELLO_NEIGHBOR__NICKY_S_DIARIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HELLO_NEIGHBOR__NICKY_S_DIARIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HELLO_NEIGHBOR__NICKY_S_DIARIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate strange mysteries, solve puzzles, and explore a suspenseful story.",
+      "tags": [
+        "Stealth",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Forgotten Memories",
+    "description": "Explore a mysterious setting, solve puzzles, and uncover clues in a story-driven adventure.",
+    "icon": "REPLACE_WITH_FORGOTTEN_MEMORIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FORGOTTEN_MEMORIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FORGOTTEN_MEMORIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FORGOTTEN_MEMORIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FORGOTTEN_MEMORIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious setting, solve puzzles, and uncover clues in a story-driven adventure.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Walking Dead: Season One",
+    "description": "Make story choices, meet survivors, and experience a narrative-driven journey.",
+    "icon": "REPLACE_WITH_THE_WALKING_DEAD__SEASON_ONE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WALKING_DEAD__SEASON_ONE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WALKING_DEAD__SEASON_ONE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD__SEASON_ONE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD__SEASON_ONE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Make story choices, meet survivors, and experience a narrative-driven journey.",
+      "tags": [
+        "Story",
+        "Choices",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Wolf Among Us",
+    "description": "Investigate a mystery, make choices, and follow a cinematic story adventure.",
+    "icon": "REPLACE_WITH_THE_WOLF_AMONG_US_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WOLF_AMONG_US_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WOLF_AMONG_US_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WOLF_AMONG_US_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WOLF_AMONG_US_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate a mystery, make choices, and follow a cinematic story adventure.",
+      "tags": [
+        "Story",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Life is Strange",
+    "description": "Make choices that shape a story about friendship, discovery, and consequences.",
+    "icon": "REPLACE_WITH_LIFE_IS_STRANGE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LIFE_IS_STRANGE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LIFE_IS_STRANGE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LIFE_IS_STRANGE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LIFE_IS_STRANGE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Make choices that shape a story about friendship, discovery, and consequences.",
+      "tags": [
+        "Story",
+        "Choices",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Life is Strange: Before the Storm",
+    "description": "Explore character relationships and make choices in a narrative adventure.",
+    "icon": "REPLACE_WITH_LIFE_IS_STRANGE__BEFORE_THE_STORM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LIFE_IS_STRANGE__BEFORE_THE_STORM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LIFE_IS_STRANGE__BEFORE_THE_STORM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LIFE_IS_STRANGE__BEFORE_THE_STORM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LIFE_IS_STRANGE__BEFORE_THE_STORM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore character relationships and make choices in a narrative adventure.",
+      "tags": [
+        "Story",
+        "Choices",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Oxenfree",
+    "description": "Explore a mysterious island, talk with friends, and uncover supernatural secrets.",
+    "icon": "REPLACE_WITH_OXENFREE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OXENFREE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OXENFREE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OXENFREE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OXENFREE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious island, talk with friends, and uncover supernatural secrets.",
+      "tags": [
+        "Mystery",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Oxenfree II: Lost Signals",
+    "description": "Investigate strange signals and uncover a supernatural mystery through dialogue choices.",
+    "icon": "REPLACE_WITH_OXENFREE_II__LOST_SIGNALS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OXENFREE_II__LOST_SIGNALS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OXENFREE_II__LOST_SIGNALS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OXENFREE_II__LOST_SIGNALS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OXENFREE_II__LOST_SIGNALS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate strange signals and uncover a supernatural mystery through dialogue choices.",
+      "tags": [
+        "Mystery",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Thimbleweed Park",
+    "description": "Investigate an unusual town, solve puzzles, and follow a quirky point-and-click mystery.",
+    "icon": "REPLACE_WITH_THIMBLEWEED_PARK_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THIMBLEWEED_PARK_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THIMBLEWEED_PARK_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THIMBLEWEED_PARK_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THIMBLEWEED_PARK_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate an unusual town, solve puzzles, and follow a quirky point-and-click mystery.",
+      "tags": [
+        "Point-and-Click",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Samorost 3",
+    "description": "Travel through imaginative planets and solve surreal environmental puzzles.",
+    "icon": "REPLACE_WITH_SAMOROST_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SAMOROST_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SAMOROST_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SAMOROST_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SAMOROST_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through imaginative planets and solve surreal environmental puzzles.",
+      "tags": [
+        "Point-and-Click",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Machinarium",
+    "description": "Help a small robot solve clever puzzles and explore a charming mechanical city.",
+    "icon": "REPLACE_WITH_MACHINARIUM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MACHINARIUM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MACHINARIUM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MACHINARIUM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MACHINARIUM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Help a small robot solve clever puzzles and explore a charming mechanical city.",
+      "tags": [
+        "Point-and-Click",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Botanicula",
+    "description": "Explore a whimsical natural world and solve puzzles with a group of tiny creatures.",
+    "icon": "REPLACE_WITH_BOTANICULA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BOTANICULA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BOTANICULA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BOTANICULA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BOTANICULA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a whimsical natural world and solve puzzles with a group of tiny creatures.",
+      "tags": [
+        "Point-and-Click",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Silent Age",
+    "description": "Travel through time, solve puzzles, and uncover a mystery about humanity's future.",
+    "icon": "REPLACE_WITH_THE_SILENT_AGE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_SILENT_AGE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_SILENT_AGE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_SILENT_AGE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_SILENT_AGE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through time, solve puzzles, and uncover a mystery about humanity's future.",
+      "tags": [
+        "Puzzle",
+        "Time Travel",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Forgotton Anne",
+    "description": "Explore a hand-crafted fantasy world and make choices in a cinematic story.",
+    "icon": "REPLACE_WITH_FORGOTTON_ANNE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FORGOTTON_ANNE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FORGOTTON_ANNE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FORGOTTON_ANNE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FORGOTTON_ANNE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a hand-crafted fantasy world and make choices in a cinematic story.",
+      "tags": [
+        "Story",
+        "Fantasy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Grimvalor",
+    "description": "Explore dark fantasy environments, master movement, and progress through a challenging quest.",
+    "icon": "REPLACE_WITH_GRIMVALOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GRIMVALOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GRIMVALOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GRIMVALOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GRIMVALOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore dark fantasy environments, master movement, and progress through a challenging quest.",
+      "tags": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Implosion: Never Lose Hope",
+    "description": "Explore futuristic environments and follow a sci-fi action story.",
+    "icon": "REPLACE_WITH_IMPLOSION__NEVER_LOSE_HOPE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_IMPLOSION__NEVER_LOSE_HOPE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_IMPLOSION__NEVER_LOSE_HOPE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_IMPLOSION__NEVER_LOSE_HOPE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_IMPLOSION__NEVER_LOSE_HOPE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore futuristic environments and follow a sci-fi action story.",
+      "tags": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Crashlands",
+    "description": "Craft equipment, explore an alien world, and complete quests in a humorous adventure.",
+    "icon": "REPLACE_WITH_CRASHLANDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CRASHLANDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CRASHLANDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CRASHLANDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CRASHLANDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Craft equipment, explore an alien world, and complete quests in a humorous adventure.",
+      "tags": [
+        "Crafting",
+        "Open World",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Don't Starve: Pocket Edition",
+    "description": "Explore a strange wilderness, gather resources, and learn to survive in a mysterious world.",
+    "icon": "REPLACE_WITH_DON_T_STARVE__POCKET_EDITION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DON_T_STARVE__POCKET_EDITION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DON_T_STARVE__POCKET_EDITION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DON_T_STARVE__POCKET_EDITION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DON_T_STARVE__POCKET_EDITION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a strange wilderness, gather resources, and learn to survive in a mysterious world.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Don't Starve: Shipwrecked",
+    "description": "Explore tropical islands, gather supplies, and discover a challenging seafaring world.",
+    "icon": "REPLACE_WITH_DON_T_STARVE__SHIPWRECKED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DON_T_STARVE__SHIPWRECKED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DON_T_STARVE__SHIPWRECKED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DON_T_STARVE__SHIPWRECKED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DON_T_STARVE__SHIPWRECKED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore tropical islands, gather supplies, and discover a challenging seafaring world.",
+      "tags": [
+        "Survival",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Trail",
+    "description": "Travel through scenic landscapes, collect resources, and build a new life.",
+    "icon": "REPLACE_WITH_THE_TRAIL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_TRAIL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_TRAIL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_TRAIL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_TRAIL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through scenic landscapes, collect resources, and build a new life.",
+      "tags": [
+        "Exploration",
+        "Crafting",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Alto's Adventure",
+    "description": "Travel across beautiful snowy landscapes in a relaxing endless journey.",
+    "icon": "REPLACE_WITH_ALTO_S_ADVENTURE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ALTO_S_ADVENTURE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ALTO_S_ADVENTURE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ALTO_S_ADVENTURE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ALTO_S_ADVENTURE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel across beautiful snowy landscapes in a relaxing endless journey.",
+      "tags": [
+        "Endless Runner",
+        "Relaxing",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Alto's Odyssey",
+    "description": "Explore desert landscapes, discover hidden areas, and enjoy a flowing journey.",
+    "icon": "REPLACE_WITH_ALTO_S_ODYSSEY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ALTO_S_ODYSSEY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ALTO_S_ODYSSEY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ALTO_S_ODYSSEY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ALTO_S_ODYSSEY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore desert landscapes, discover hidden areas, and enjoy a flowing journey.",
+      "tags": [
+        "Endless Runner",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Leo's Fortune",
+    "description": "Guide Leo through beautifully designed levels and solve platforming challenges.",
+    "icon": "REPLACE_WITH_LEO_S_FORTUNE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEO_S_FORTUNE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEO_S_FORTUNE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEO_S_FORTUNE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEO_S_FORTUNE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Guide Leo through beautifully designed levels and solve platforming challenges.",
+      "tags": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Limbo's Path",
+    "description": "Explore a mysterious world and solve environmental challenges in a platform adventure.",
+    "icon": "REPLACE_WITH_LIMBO_S_PATH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LIMBO_S_PATH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LIMBO_S_PATH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LIMBO_S_PATH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LIMBO_S_PATH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious world and solve environmental challenges in a platform adventure.",
+      "tags": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Rayman Adventures",
+    "description": "Run through colorful worlds, collect creatures, and complete platforming challenges.",
+    "icon": "REPLACE_WITH_RAYMAN_ADVENTURES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RAYMAN_ADVENTURES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RAYMAN_ADVENTURES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RAYMAN_ADVENTURES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RAYMAN_ADVENTURES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through colorful worlds, collect creatures, and complete platforming challenges.",
+      "tags": [
+        "Platformer",
+        "Fantasy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Rayman Jungle Run",
+    "description": "Navigate jungle levels with precise timing and classic platforming action.",
+    "icon": "REPLACE_WITH_RAYMAN_JUNGLE_RUN_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RAYMAN_JUNGLE_RUN_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RAYMAN_JUNGLE_RUN_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RAYMAN_JUNGLE_RUN_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RAYMAN_JUNGLE_RUN_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Navigate jungle levels with precise timing and classic platforming action.",
+      "tags": [
+        "Platformer",
+        "Jungle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Sonic Forces: Speed Battle",
+    "description": "Race through colorful tracks and explore fast-paced Sonic-themed environments.",
+    "icon": "REPLACE_WITH_SONIC_FORCES__SPEED_BATTLE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SONIC_FORCES__SPEED_BATTLE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SONIC_FORCES__SPEED_BATTLE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SONIC_FORCES__SPEED_BATTLE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SONIC_FORCES__SPEED_BATTLE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Race through colorful tracks and explore fast-paced Sonic-themed environments.",
+      "tags": [
+        "Platformer",
+        "Runner",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Sonic Dash",
+    "description": "Run through vivid environments, collect items, and dodge obstacles.",
+    "icon": "REPLACE_WITH_SONIC_DASH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SONIC_DASH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SONIC_DASH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SONIC_DASH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SONIC_DASH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through vivid environments, collect items, and dodge obstacles.",
+      "tags": [
+        "Runner",
+        "Arcade",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Sonic the Hedgehog Classic",
+    "description": "Experience a classic platforming journey through colorful zones.",
+    "icon": "REPLACE_WITH_SONIC_THE_HEDGEHOG_CLASSIC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SONIC_THE_HEDGEHOG_CLASSIC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SONIC_THE_HEDGEHOG_CLASSIC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SONIC_THE_HEDGEHOG_CLASSIC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SONIC_THE_HEDGEHOG_CLASSIC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience a classic platforming journey through colorful zones.",
+      "tags": [
+        "Platformer",
+        "Classic",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "LEGO Star Wars: The Force Awakens",
+    "description": "Explore a LEGO version of a space-fantasy story and complete varied missions.",
+    "icon": "REPLACE_WITH_LEGO_STAR_WARS__THE_FORCE_AWAKENS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEGO_STAR_WARS__THE_FORCE_AWAKENS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEGO_STAR_WARS__THE_FORCE_AWAKENS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEGO_STAR_WARS__THE_FORCE_AWAKENS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEGO_STAR_WARS__THE_FORCE_AWAKENS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a LEGO version of a space-fantasy story and complete varied missions.",
+      "tags": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "LEGO Marvel Super Heroes",
+    "description": "Explore a superhero world, solve challenges, and complete story missions.",
+    "icon": "REPLACE_WITH_LEGO_MARVEL_SUPER_HEROES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEGO_MARVEL_SUPER_HEROES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEGO_MARVEL_SUPER_HEROES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEGO_MARVEL_SUPER_HEROES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEGO_MARVEL_SUPER_HEROES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a superhero world, solve challenges, and complete story missions.",
+      "tags": [
+        "Superhero",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "LEGO Jurassic World",
+    "description": "Explore dinosaur-themed locations and experience story missions inspired by the films.",
+    "icon": "REPLACE_WITH_LEGO_JURASSIC_WORLD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEGO_JURASSIC_WORLD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEGO_JURASSIC_WORLD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEGO_JURASSIC_WORLD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEGO_JURASSIC_WORLD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore dinosaur-themed locations and experience story missions inspired by the films.",
+      "tags": [
+        "Dinosaurs",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "LEGO Batman: Beyond Gotham",
+    "description": "Travel through comic-book worlds and complete superhero adventures.",
+    "icon": "REPLACE_WITH_LEGO_BATMAN__BEYOND_GOTHAM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEGO_BATMAN__BEYOND_GOTHAM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEGO_BATMAN__BEYOND_GOTHAM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEGO_BATMAN__BEYOND_GOTHAM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEGO_BATMAN__BEYOND_GOTHAM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through comic-book worlds and complete superhero adventures.",
+      "tags": [
+        "Superhero",
+        "Action",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Pokémon GO",
+    "description": "Explore real-world locations and discover Pokémon in a location-based adventure.",
+    "icon": "REPLACE_WITH_POKÉMON_GO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_POKÉMON_GO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_POKÉMON_GO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_POKÉMON_GO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_POKÉMON_GO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore real-world locations and discover Pokémon in a location-based adventure.",
+      "tags": [
+        "Exploration",
+        "Collection",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Pokémon UNITE",
+    "description": "Team up with Pokémon in strategic arena matches and unlock characters.",
+    "icon": "REPLACE_WITH_POKÉMON_UNITE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_POKÉMON_UNITE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_POKÉMON_UNITE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_POKÉMON_UNITE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_POKÉMON_UNITE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Team up with Pokémon in strategic arena matches and unlock characters.",
+      "tags": [
+        "Multiplayer",
+        "Strategy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Monster Hunter Stories",
+    "description": "Explore a fantasy world, befriend monsters, and follow a story-driven journey.",
+    "icon": "REPLACE_WITH_MONSTER_HUNTER_STORIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MONSTER_HUNTER_STORIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MONSTER_HUNTER_STORIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MONSTER_HUNTER_STORIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MONSTER_HUNTER_STORIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a fantasy world, befriend monsters, and follow a story-driven journey.",
+      "tags": [
+        "Fantasy",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Quest VIII",
+    "description": "Explore a fantasy kingdom, meet companions, and complete a classic role-playing quest.",
+    "icon": "REPLACE_WITH_DRAGON_QUEST_VIII_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRAGON_QUEST_VIII_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRAGON_QUEST_VIII_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRAGON_QUEST_VIII_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRAGON_QUEST_VIII_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a fantasy kingdom, meet companions, and complete a classic role-playing quest.",
+      "tags": [
+        "Fantasy",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Final Fantasy XV Pocket Edition",
+    "description": "Follow a fantasy road-trip story with exploration and character-focused missions.",
+    "icon": "REPLACE_WITH_FINAL_FANTASY_XV_POCKET_EDITION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FINAL_FANTASY_XV_POCKET_EDITION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FINAL_FANTASY_XV_POCKET_EDITION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FINAL_FANTASY_XV_POCKET_EDITION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FINAL_FANTASY_XV_POCKET_EDITION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a fantasy road-trip story with exploration and character-focused missions.",
+      "tags": [
+        "Fantasy",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Bard's Tale",
+    "description": "Explore a humorous fantasy world, complete quests, and meet unusual characters.",
+    "icon": "REPLACE_WITH_THE_BARD_S_TALE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_BARD_S_TALE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_BARD_S_TALE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_BARD_S_TALE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_BARD_S_TALE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a humorous fantasy world, complete quests, and meet unusual characters.",
+      "tags": [
+        "Fantasy",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Evoland",
+    "description": "Travel through the history of adventure games as the graphics and mechanics evolve.",
+    "icon": "REPLACE_WITH_EVOLAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EVOLAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EVOLAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EVOLAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EVOLAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through the history of adventure games as the graphics and mechanics evolve.",
+      "tags": [
+        "RPG",
+        "Retro",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Evoland 2",
+    "description": "Explore changing game styles, solve puzzles, and follow a time-spanning story.",
+    "icon": "REPLACE_WITH_EVOLAND_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EVOLAND_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EVOLAND_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EVOLAND_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EVOLAND_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore changing game styles, solve puzzles, and follow a time-spanning story.",
+      "tags": [
+        "RPG",
+        "Time Travel",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Bully: Anniversary Edition",
+    "description": "Explore a school setting, complete missions, and follow a coming-of-age story.",
+    "icon": "REPLACE_WITH_BULLY__ANNIVERSARY_EDITION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BULLY__ANNIVERSARY_EDITION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BULLY__ANNIVERSARY_EDITION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BULLY__ANNIVERSARY_EDITION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BULLY__ANNIVERSARY_EDITION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a school setting, complete missions, and follow a coming-of-age story.",
+      "tags": [
+        "Open World",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Star Wars: Knights of the Old Republic",
+    "description": "Explore a galaxy far away, meet companions, and make choices in a role-playing adventure.",
+    "icon": "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a galaxy far away, meet companions, and make choices in a role-playing adventure.",
+      "tags": [
+        "Sci-Fi",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Star Wars: Knights of the Old Republic II",
+    "description": "Travel through a galaxy-wide story and shape your journey through choices.",
+    "icon": "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_II_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_II_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_II_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_II_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STAR_WARS__KNIGHTS_OF_THE_OLD_REPUBLIC_II_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through a galaxy-wide story and shape your journey through choices.",
+      "tags": [
+        "Sci-Fi",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Room",
+    "description": "Inspect mysterious objects, solve intricate mechanisms, and uncover hidden secrets.",
+    "icon": "REPLACE_WITH_THE_ROOM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ROOM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ROOM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ROOM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ROOM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Inspect mysterious objects, solve intricate mechanisms, and uncover hidden secrets.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Room Two",
+    "description": "Solve elaborate mechanical puzzles and investigate mysterious rooms.",
+    "icon": "REPLACE_WITH_THE_ROOM_TWO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ROOM_TWO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ROOM_TWO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ROOM_TWO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ROOM_TWO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve elaborate mechanical puzzles and investigate mysterious rooms.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Room Three",
+    "description": "Explore a series of mysterious spaces and solve challenging interconnected puzzles.",
+    "icon": "REPLACE_WITH_THE_ROOM_THREE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ROOM_THREE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ROOM_THREE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ROOM_THREE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ROOM_THREE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a series of mysterious spaces and solve challenging interconnected puzzles.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Room: Old Sins",
+    "description": "Investigate a dollhouse full of secrets and solve tactile mechanical puzzles.",
+    "icon": "REPLACE_WITH_THE_ROOM__OLD_SINS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ROOM__OLD_SINS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ROOM__OLD_SINS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ROOM__OLD_SINS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ROOM__OLD_SINS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate a dollhouse full of secrets and solve tactile mechanical puzzles.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Agent A: A Puzzle in Disguise",
+    "description": "Investigate a secret agent's hideout and solve stylish point-and-click puzzles.",
+    "icon": "REPLACE_WITH_AGENT_A__A_PUZZLE_IN_DISGUISE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_AGENT_A__A_PUZZLE_IN_DISGUISE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_AGENT_A__A_PUZZLE_IN_DISGUISE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_AGENT_A__A_PUZZLE_IN_DISGUISE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_AGENT_A__A_PUZZLE_IN_DISGUISE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate a secret agent's hideout and solve stylish point-and-click puzzles.",
+      "tags": [
+        "Spy",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The House of Da Vinci",
+    "description": "Solve mechanical puzzles and investigate a Renaissance-inspired mystery.",
+    "icon": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve mechanical puzzles and investigate a Renaissance-inspired mystery.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The House of Da Vinci 2",
+    "description": "Continue a historical puzzle adventure filled with inventions and hidden clues.",
+    "icon": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Continue a historical puzzle adventure filled with inventions and hidden clues.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The House of Da Vinci 3",
+    "description": "Solve intricate puzzles and uncover the next chapter of a historical mystery.",
+    "icon": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_HOUSE_OF_DA_VINCI_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve intricate puzzles and uncover the next chapter of a historical mystery.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Tiny Room Stories: Town Mystery",
+    "description": "Explore detailed locations, rotate rooms, and solve a town-wide mystery.",
+    "icon": "REPLACE_WITH_TINY_ROOM_STORIES__TOWN_MYSTERY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TINY_ROOM_STORIES__TOWN_MYSTERY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TINY_ROOM_STORIES__TOWN_MYSTERY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TINY_ROOM_STORIES__TOWN_MYSTERY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TINY_ROOM_STORIES__TOWN_MYSTERY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore detailed locations, rotate rooms, and solve a town-wide mystery.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Almost Gone",
+    "description": "Explore isometric scenes and piece together a mysterious story through puzzles.",
+    "icon": "REPLACE_WITH_THE_ALMOST_GONE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ALMOST_GONE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ALMOST_GONE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ALMOST_GONE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ALMOST_GONE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore isometric scenes and piece together a mysterious story through puzzles.",
+      "tags": [
+        "Puzzle",
+        "Mystery",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Forgotten Hill: Puppeteer",
+    "description": "Investigate unsettling locations and solve point-and-click puzzles.",
+    "icon": "REPLACE_WITH_FORGOTTEN_HILL__PUPPETEER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FORGOTTEN_HILL__PUPPETEER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FORGOTTEN_HILL__PUPPETEER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FORGOTTEN_HILL__PUPPETEER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FORGOTTEN_HILL__PUPPETEER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate unsettling locations and solve point-and-click puzzles.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Cube Escape: Paradox",
+    "description": "Solve connected puzzles and uncover secrets in a surreal mystery.",
+    "icon": "REPLACE_WITH_CUBE_ESCAPE__PARADOX_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CUBE_ESCAPE__PARADOX_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CUBE_ESCAPE__PARADOX_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CUBE_ESCAPE__PARADOX_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CUBE_ESCAPE__PARADOX_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve connected puzzles and uncover secrets in a surreal mystery.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Rusty Lake Hotel",
+    "description": "Solve strange puzzles and uncover the secrets of a mysterious hotel.",
+    "icon": "REPLACE_WITH_RUSTY_LAKE_HOTEL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUSTY_LAKE_HOTEL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUSTY_LAKE_HOTEL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUSTY_LAKE_HOTEL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUSTY_LAKE_HOTEL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve strange puzzles and uncover the secrets of a mysterious hotel.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Rusty Lake: Roots",
+    "description": "Explore a family's history through connected surreal puzzles.",
+    "icon": "REPLACE_WITH_RUSTY_LAKE__ROOTS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUSTY_LAKE__ROOTS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUSTY_LAKE__ROOTS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUSTY_LAKE__ROOTS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUSTY_LAKE__ROOTS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a family's history through connected surreal puzzles.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Rusty Lake Paradise",
+    "description": "Solve puzzles on an isolated island and uncover a strange family story.",
+    "icon": "REPLACE_WITH_RUSTY_LAKE_PARADISE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUSTY_LAKE_PARADISE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUSTY_LAKE_PARADISE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUSTY_LAKE_PARADISE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUSTY_LAKE_PARADISE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve puzzles on an isolated island and uncover a strange family story.",
+      "tags": [
+        "Mystery",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Machinika Museum",
+    "description": "Inspect mysterious alien machines and solve mechanical puzzles.",
+    "icon": "REPLACE_WITH_MACHINIKA_MUSEUM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MACHINIKA_MUSEUM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MACHINIKA_MUSEUM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MACHINIKA_MUSEUM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MACHINIKA_MUSEUM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Inspect mysterious alien machines and solve mechanical puzzles.",
+      "tags": [
+        "Puzzle",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Eyes of Ara",
+    "description": "Explore an abandoned castle, discover hidden mechanisms, and solve puzzles.",
+    "icon": "REPLACE_WITH_THE_EYES_OF_ARA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_EYES_OF_ARA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_EYES_OF_ARA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_EYES_OF_ARA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_EYES_OF_ARA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore an abandoned castle, discover hidden mechanisms, and solve puzzles.",
+      "tags": [
+        "Puzzle",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Secret of Monkey Island",
+    "description": "Embark on a comedic pirate adventure full of dialogue and puzzles.",
+    "icon": "REPLACE_WITH_THE_SECRET_OF_MONKEY_ISLAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_SECRET_OF_MONKEY_ISLAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_SECRET_OF_MONKEY_ISLAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_SECRET_OF_MONKEY_ISLAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_SECRET_OF_MONKEY_ISLAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Embark on a comedic pirate adventure full of dialogue and puzzles.",
+      "tags": [
+        "Pirates",
+        "Point-and-Click",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Return to Monkey Island",
+    "description": "Solve witty puzzles and follow a new chapter in a classic pirate adventure.",
+    "icon": "REPLACE_WITH_RETURN_TO_MONKEY_ISLAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RETURN_TO_MONKEY_ISLAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RETURN_TO_MONKEY_ISLAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RETURN_TO_MONKEY_ISLAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RETURN_TO_MONKEY_ISLAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve witty puzzles and follow a new chapter in a classic pirate adventure.",
+      "tags": [
+        "Pirates",
+        "Point-and-Click",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Broken Sword: Director's Cut",
+    "description": "Investigate a global mystery through dialogue, exploration, and puzzles.",
+    "icon": "REPLACE_WITH_BROKEN_SWORD__DIRECTOR_S_CUT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BROKEN_SWORD__DIRECTOR_S_CUT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BROKEN_SWORD__DIRECTOR_S_CUT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BROKEN_SWORD__DIRECTOR_S_CUT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BROKEN_SWORD__DIRECTOR_S_CUT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Investigate a global mystery through dialogue, exploration, and puzzles.",
+      "tags": [
+        "Mystery",
+        "Point-and-Click",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Broken Sword 2: Remastered",
+    "description": "Follow a globe-trotting mystery with classic point-and-click puzzles.",
+    "icon": "REPLACE_WITH_BROKEN_SWORD_2__REMASTERED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BROKEN_SWORD_2__REMASTERED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BROKEN_SWORD_2__REMASTERED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BROKEN_SWORD_2__REMASTERED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BROKEN_SWORD_2__REMASTERED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a globe-trotting mystery with classic point-and-click puzzles.",
+      "tags": [
+        "Mystery",
+        "Point-and-Click",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Syberia",
+    "description": "Explore unusual locations and solve puzzles in a story-driven journey.",
+    "icon": "REPLACE_WITH_SYBERIA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SYBERIA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SYBERIA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SYBERIA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SYBERIA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore unusual locations and solve puzzles in a story-driven journey.",
+      "tags": [
+        "Story",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Syberia II",
+    "description": "Continue a journey through snowy landscapes and mysterious places.",
+    "icon": "REPLACE_WITH_SYBERIA_II_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SYBERIA_II_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SYBERIA_II_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SYBERIA_II_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SYBERIA_II_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Continue a journey through snowy landscapes and mysterious places.",
+      "tags": [
+        "Story",
+        "Puzzle",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Journey Down: Chapter One",
+    "description": "Explore a colorful world and solve puzzles in a story-driven adventure.",
+    "icon": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_ONE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_ONE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_ONE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_ONE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_ONE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a colorful world and solve puzzles in a story-driven adventure.",
+      "tags": [
+        "Point-and-Click",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Journey Down: Chapter Two",
+    "description": "Continue a mystery-filled journey through a distinctive fantasy world.",
+    "icon": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_TWO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_TWO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_TWO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_TWO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_TWO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Continue a mystery-filled journey through a distinctive fantasy world.",
+      "tags": [
+        "Point-and-Click",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "The Journey Down: Chapter Three",
+    "description": "Conclude a story-driven adventure with exploration and clever puzzles.",
+    "icon": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_THREE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_THREE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_THREE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_THREE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_JOURNEY_DOWN__CHAPTER_THREE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Conclude a story-driven adventure with exploration and clever puzzles.",
+      "tags": [
+        "Point-and-Click",
+        "Story",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Papers, Please",
+    "description": "Make difficult decisions while checking documents in a narrative-focused simulation.",
+    "icon": "REPLACE_WITH_PAPERS__PLEASE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PAPERS__PLEASE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PAPERS__PLEASE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PAPERS__PLEASE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PAPERS__PLEASE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Make difficult decisions while checking documents in a narrative-focused simulation.",
+      "tags": [
+        "Story",
+        "Simulation",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "A Short Hike",
+    "description": "Explore a peaceful island, climb trails, and meet friendly characters.",
+    "icon": "REPLACE_WITH_A_SHORT_HIKE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_A_SHORT_HIKE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_A_SHORT_HIKE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_A_SHORT_HIKE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_A_SHORT_HIKE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a peaceful island, climb trails, and meet friendly characters.",
+      "tags": [
+        "Exploration",
+        "Relaxing",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Donut County",
+    "description": "Solve physics-based puzzles and explore a quirky story about a growing hole.",
+    "icon": "REPLACE_WITH_DONUT_COUNTY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DONUT_COUNTY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DONUT_COUNTY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DONUT_COUNTY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DONUT_COUNTY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve physics-based puzzles and explore a quirky story about a growing hole.",
+      "tags": [
+        "Puzzle",
+        "Comedy",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "To the Moon",
+    "description": "Follow an emotional science-fiction story through memories and exploration.",
+    "icon": "REPLACE_WITH_TO_THE_MOON_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TO_THE_MOON_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TO_THE_MOON_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TO_THE_MOON_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TO_THE_MOON_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow an emotional science-fiction story through memories and exploration.",
+      "tags": [
+        "Story",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Finding Paradise",
+    "description": "Explore memories and follow a character-focused narrative adventure.",
+    "icon": "REPLACE_WITH_FINDING_PARADISE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FINDING_PARADISE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FINDING_PARADISE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FINDING_PARADISE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FINDING_PARADISE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore memories and follow a character-focused narrative adventure.",
+      "tags": [
+        "Story",
+        "RPG",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Old Man's Journey",
+    "description": "Travel through scenic landscapes and solve environmental puzzles in a wordless story.",
+    "icon": "REPLACE_WITH_OLD_MAN_S_JOURNEY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OLD_MAN_S_JOURNEY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OLD_MAN_S_JOURNEY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OLD_MAN_S_JOURNEY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OLD_MAN_S_JOURNEY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through scenic landscapes and solve environmental puzzles in a wordless story.",
+      "tags": [
+        "Puzzle",
+        "Relaxing",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Monument Valley",
+    "description": "Guide a character through impossible architecture and optical-illusion puzzles.",
+    "icon": "REPLACE_WITH_MONUMENT_VALLEY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MONUMENT_VALLEY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MONUMENT_VALLEY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MONUMENT_VALLEY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MONUMENT_VALLEY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Guide a character through impossible architecture and optical-illusion puzzles.",
+      "tags": [
+        "Puzzle",
+        "Artistic",
+        "Adventure"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Call of Duty: Mobile",
+    "description": "Join tactical multiplayer battles, play objective modes, and experience mobile first-person shooter action.",
+    "icon": "REPLACE_WITH_CALL_OF_DUTY_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CALL_OF_DUTY_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CALL_OF_DUTY_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CALL_OF_DUTY_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CALL_OF_DUTY_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Join tactical multiplayer battles, play objective modes, and experience mobile first-person shooter action.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Tactical"
+      ]
+    }
+  },
+  {
+    "name": "PUBG Mobile",
+    "description": "Drop into battle royale matches, collect equipment, and compete to be the last player standing.",
+    "icon": "REPLACE_WITH_PUBG_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PUBG_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PUBG_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PUBG_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PUBG_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drop into battle royale matches, collect equipment, and compete to be the last player standing.",
+      "tags": [
+        "Battle Royale",
+        "Multiplayer",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Free Fire",
+    "description": "Compete in quick battle royale matches, collect gear, and survive on a shrinking battlefield.",
+    "icon": "REPLACE_WITH_FREE_FIRE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FREE_FIRE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FREE_FIRE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FREE_FIRE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FREE_FIRE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in quick battle royale matches, collect gear, and survive on a shrinking battlefield.",
+      "tags": [
+        "Battle Royale",
+        "Multiplayer",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Free Fire MAX",
+    "description": "Experience enhanced visuals and fast-paced battle royale matches with friends.",
+    "icon": "REPLACE_WITH_FREE_FIRE_MAX_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FREE_FIRE_MAX_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FREE_FIRE_MAX_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FREE_FIRE_MAX_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FREE_FIRE_MAX_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience enhanced visuals and fast-paced battle royale matches with friends.",
+      "tags": [
+        "Battle Royale",
+        "Multiplayer",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "NEW STATE Mobile",
+    "description": "Enter a futuristic battle royale, collect gear, and compete across large maps.",
+    "icon": "REPLACE_WITH_NEW_STATE_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NEW_STATE_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NEW_STATE_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NEW_STATE_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NEW_STATE_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Enter a futuristic battle royale, collect gear, and compete across large maps.",
+      "tags": [
+        "Battle Royale",
+        "Futuristic",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Critical Ops",
+    "description": "Play competitive team-based first-person shooter matches with tactical objectives.",
+    "icon": "REPLACE_WITH_CRITICAL_OPS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CRITICAL_OPS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CRITICAL_OPS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CRITICAL_OPS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CRITICAL_OPS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play competitive team-based first-person shooter matches with tactical objectives.",
+      "tags": [
+        "FPS",
+        "Competitive",
+        "Tactical"
+      ]
+    }
+  },
+  {
+    "name": "Standoff 2",
+    "description": "Compete in team-based shooter rounds with weapons, maps, and tactical gameplay.",
+    "icon": "REPLACE_WITH_STANDOFF_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STANDOFF_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STANDOFF_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STANDOFF_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STANDOFF_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in team-based shooter rounds with weapons, maps, and tactical gameplay.",
+      "tags": [
+        "FPS",
+        "Competitive",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Modern Combat 5",
+    "description": "Play story missions and multiplayer shooter battles in a modern combat setting.",
+    "icon": "REPLACE_WITH_MODERN_COMBAT_5_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MODERN_COMBAT_5_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MODERN_COMBAT_5_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MODERN_COMBAT_5_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MODERN_COMBAT_5_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play story missions and multiplayer shooter battles in a modern combat setting.",
+      "tags": [
+        "FPS",
+        "Campaign",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "World War Heroes",
+    "description": "Fight team battles across historical war-inspired maps with varied weapons.",
+    "icon": "REPLACE_WITH_WORLD_WAR_HEROES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WORLD_WAR_HEROES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WORLD_WAR_HEROES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WORLD_WAR_HEROES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WORLD_WAR_HEROES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight team battles across historical war-inspired maps with varied weapons.",
+      "tags": [
+        "FPS",
+        "World War",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Brothers in Arms 3",
+    "description": "Complete action missions and squad-based battles in a World War II setting.",
+    "icon": "REPLACE_WITH_BROTHERS_IN_ARMS_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BROTHERS_IN_ARMS_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BROTHERS_IN_ARMS_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BROTHERS_IN_ARMS_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BROTHERS_IN_ARMS_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete action missions and squad-based battles in a World War II setting.",
+      "tags": [
+        "TPS",
+        "World War",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Dead Trigger 2",
+    "description": "Fight waves of zombies, complete missions, and upgrade equipment in a survival shooter.",
+    "icon": "REPLACE_WITH_DEAD_TRIGGER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TRIGGER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight waves of zombies, complete missions, and upgrade equipment in a survival shooter.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Unkilled",
+    "description": "Take on zombie threats in story missions and fast-paced first-person combat.",
+    "icon": "REPLACE_WITH_UNKILLED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_UNKILLED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Take on zombie threats in story missions and fast-paced first-person combat.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Into the Dead 2",
+    "description": "Run through dangerous zombie-filled environments and make choices during a survival story.",
+    "icon": "REPLACE_WITH_INTO_THE_DEAD_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_DEAD_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through dangerous zombie-filled environments and make choices during a survival story.",
+      "tags": [
+        "Zombie",
+        "Survival",
+        "Story"
+      ]
+    }
+  },
+  {
+    "name": "Cover Fire",
+    "description": "Complete shooter missions, use cover, and lead a squad through action scenarios.",
+    "icon": "REPLACE_WITH_COVER_FIRE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_COVER_FIRE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_COVER_FIRE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_COVER_FIRE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_COVER_FIRE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete shooter missions, use cover, and lead a squad through action scenarios.",
+      "tags": [
+        "TPS",
+        "Campaign",
+        "Squad"
+      ]
+    }
+  },
+  {
+    "name": "Sniper 3D",
+    "description": "Complete target-based sniper missions and improve equipment through challenges.",
+    "icon": "REPLACE_WITH_SNIPER_3D_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SNIPER_3D_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SNIPER_3D_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SNIPER_3D_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SNIPER_3D_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete target-based sniper missions and improve equipment through challenges.",
+      "tags": [
+        "Sniper",
+        "Action",
+        "Missions"
+      ]
+    }
+  },
+  {
+    "name": "LONEWOLF",
+    "description": "Follow a story-driven sniper experience with missions and a moody atmosphere.",
+    "icon": "REPLACE_WITH_LONEWOLF_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LONEWOLF_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LONEWOLF_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LONEWOLF_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LONEWOLF_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a story-driven sniper experience with missions and a moody atmosphere.",
+      "tags": [
+        "Sniper",
+        "Story",
+        "Single-player"
+      ]
+    }
+  },
+  {
+    "name": "Hitman Sniper",
+    "description": "Complete precision shooting challenges as a professional sniper in mission-based levels.",
+    "icon": "REPLACE_WITH_HITMAN_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HITMAN_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HITMAN_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HITMAN_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HITMAN_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete precision shooting challenges as a professional sniper in mission-based levels.",
+      "tags": [
+        "Sniper",
+        "Strategy",
+        "Missions"
+      ]
+    }
+  },
+  {
+    "name": "Pure Sniper",
+    "description": "Play sniper missions, protect objectives, and progress through shooting challenges.",
+    "icon": "REPLACE_WITH_PURE_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PURE_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PURE_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PURE_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PURE_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play sniper missions, protect objectives, and progress through shooting challenges.",
+      "tags": [
+        "Sniper",
+        "Action",
+        "Missions"
+      ]
+    }
+  },
+  {
+    "name": "Sniper Fury",
+    "description": "Take on long-range shooting missions and upgrade equipment across varied locations.",
+    "icon": "REPLACE_WITH_SNIPER_FURY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SNIPER_FURY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SNIPER_FURY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SNIPER_FURY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SNIPER_FURY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Take on long-range shooting missions and upgrade equipment across varied locations.",
+      "tags": [
+        "Sniper",
+        "FPS",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "FRAG Pro Shooter",
+    "description": "Choose a hero and compete in short, team-based arena shooter matches.",
+    "icon": "REPLACE_WITH_FRAG_PRO_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FRAG_PRO_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FRAG_PRO_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FRAG_PRO_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FRAG_PRO_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Choose a hero and compete in short, team-based arena shooter matches.",
+      "tags": [
+        "Hero Shooter",
+        "Multiplayer",
+        "Arena"
+      ]
+    }
+  },
+  {
+    "name": "Shadowgun Legends",
+    "description": "Explore sci-fi locations, complete missions, and battle enemies with futuristic weapons.",
+    "icon": "REPLACE_WITH_SHADOWGUN_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOWGUN_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOWGUN_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOWGUN_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOWGUN_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore sci-fi locations, complete missions, and battle enemies with futuristic weapons.",
+      "tags": [
+        "Sci-Fi",
+        "FPS",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Shadowgun War Games",
+    "description": "Compete in team-based sci-fi shooter matches with distinct characters.",
+    "icon": "REPLACE_WITH_SHADOWGUN_WAR_GAMES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOWGUN_WAR_GAMES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOWGUN_WAR_GAMES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOWGUN_WAR_GAMES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOWGUN_WAR_GAMES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in team-based sci-fi shooter matches with distinct characters.",
+      "tags": [
+        "Sci-Fi",
+        "Team Shooter",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "N.O.V.A. Legacy",
+    "description": "Play a compact sci-fi shooter campaign and battle enemies in futuristic environments.",
+    "icon": "REPLACE_WITH_N_O_V_A_LEGACY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_N_O_V_A_LEGACY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_N_O_V_A_LEGACY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_N_O_V_A_LEGACY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_N_O_V_A_LEGACY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a compact sci-fi shooter campaign and battle enemies in futuristic environments.",
+      "tags": [
+        "Sci-Fi",
+        "FPS",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Dead Effect 2",
+    "description": "Explore sci-fi environments, upgrade equipment, and fight hostile creatures.",
+    "icon": "REPLACE_WITH_DEAD_EFFECT_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_EFFECT_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore sci-fi environments, upgrade equipment, and fight hostile creatures.",
+      "tags": [
+        "Sci-Fi",
+        "FPS",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Space Marshals 2",
+    "description": "Use tactical movement, stealth, and ranged combat in top-down sci-fi missions.",
+    "icon": "REPLACE_WITH_SPACE_MARSHALS_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPACE_MARSHALS_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPACE_MARSHALS_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPACE_MARSHALS_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPACE_MARSHALS_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use tactical movement, stealth, and ranged combat in top-down sci-fi missions.",
+      "tags": [
+        "Top-down",
+        "Tactical",
+        "Sci-Fi"
+      ]
+    }
+  },
+  {
+    "name": "Space Marshals 3",
+    "description": "Plan approaches and complete tactical missions in a futuristic setting.",
+    "icon": "REPLACE_WITH_SPACE_MARSHALS_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPACE_MARSHALS_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPACE_MARSHALS_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPACE_MARSHALS_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPACE_MARSHALS_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Plan approaches and complete tactical missions in a futuristic setting.",
+      "tags": [
+        "Top-down",
+        "Tactical",
+        "Sci-Fi"
+      ]
+    }
+  },
+  {
+    "name": "Max Payne Mobile",
+    "description": "Experience a noir action story with cinematic third-person shooting.",
+    "icon": "REPLACE_WITH_MAX_PAYNE_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MAX_PAYNE_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MAX_PAYNE_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MAX_PAYNE_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MAX_PAYNE_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience a noir action story with cinematic third-person shooting.",
+      "tags": [
+        "TPS",
+        "Story",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Into the Dead",
+    "description": "Run through a dangerous world, avoid threats, and use weapons to survive.",
+    "icon": "REPLACE_WITH_INTO_THE_DEAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_DEAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through a dangerous world, avoid threats, and use weapons to survive.",
+      "tags": [
+        "Survival",
+        "Action",
+        "Runner"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Gunship Survival",
+    "description": "Defend survivors from zombie hordes using aerial support and tactical upgrades.",
+    "icon": "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend survivors from zombie hordes using aerial support and tactical upgrades.",
+      "tags": [
+        "Zombie",
+        "Strategy",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Frontier 3",
+    "description": "Complete first-person missions and fight waves of zombies.",
+    "icon": "REPLACE_WITH_ZOMBIE_FRONTIER_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_FRONTIER_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete first-person missions and fight waves of zombies.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Frontier 4",
+    "description": "Face dangerous zombie encounters and upgrade weapons across missions.",
+    "icon": "REPLACE_WITH_ZOMBIE_FRONTIER_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_FRONTIER_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Face dangerous zombie encounters and upgrade weapons across missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "The Walking Zombie 2",
+    "description": "Explore a post-apocalyptic world, complete quests, and fight zombies in FPS combat.",
+    "icon": "REPLACE_WITH_THE_WALKING_ZOMBIE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WALKING_ZOMBIE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a post-apocalyptic world, complete quests, and fight zombies in FPS combat.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Dead Target",
+    "description": "Defend against zombie attacks and complete first-person shooting missions.",
+    "icon": "REPLACE_WITH_DEAD_TARGET_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TARGET_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend against zombie attacks and complete first-person shooting missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Dead Warfare: Zombie Shooting",
+    "description": "Fight zombie waves, collect weapons, and complete survival missions.",
+    "icon": "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight zombie waves, collect weapons, and complete survival missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Last Hope Sniper",
+    "description": "Protect survivors and complete sniper missions in a zombie-threatened world.",
+    "icon": "REPLACE_WITH_LAST_HOPE_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LAST_HOPE_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Protect survivors and complete sniper missions in a zombie-threatened world.",
+      "tags": [
+        "Sniper",
+        "Zombie",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Guns of Boom",
+    "description": "Compete in colorful team-based online shooter matches.",
+    "icon": "REPLACE_WITH_GUNS_OF_BOOM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GUNS_OF_BOOM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GUNS_OF_BOOM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GUNS_OF_BOOM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GUNS_OF_BOOM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in colorful team-based online shooter matches.",
+      "tags": [
+        "FPS",
+        "Team Shooter",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Modern Strike Online",
+    "description": "Join online FPS matches with team modes, maps, and weapon customization.",
+    "icon": "REPLACE_WITH_MODERN_STRIKE_ONLINE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MODERN_STRIKE_ONLINE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MODERN_STRIKE_ONLINE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MODERN_STRIKE_ONLINE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MODERN_STRIKE_ONLINE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Join online FPS matches with team modes, maps, and weapon customization.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Bullet Force",
+    "description": "Play online FPS battles with customizable loadouts and varied maps.",
+    "icon": "REPLACE_WITH_BULLET_FORCE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BULLET_FORCE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BULLET_FORCE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BULLET_FORCE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BULLET_FORCE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play online FPS battles with customizable loadouts and varied maps.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Forward Assault",
+    "description": "Compete in tactical FPS rounds with team objectives and strategic play.",
+    "icon": "REPLACE_WITH_FORWARD_ASSAULT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FORWARD_ASSAULT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FORWARD_ASSAULT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FORWARD_ASSAULT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FORWARD_ASSAULT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in tactical FPS rounds with team objectives and strategic play.",
+      "tags": [
+        "FPS",
+        "Tactical",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Special Forces Group 2",
+    "description": "Play team-based shooter matches with bots or other players across different modes.",
+    "icon": "REPLACE_WITH_SPECIAL_FORCES_GROUP_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPECIAL_FORCES_GROUP_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play team-based shooter matches with bots or other players across different modes.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Offline Modes"
+      ]
+    }
+  },
+  {
+    "name": "Special Forces Group 3",
+    "description": "Enter action-focused shooter rounds with different maps and weapon choices.",
+    "icon": "REPLACE_WITH_SPECIAL_FORCES_GROUP_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPECIAL_FORCES_GROUP_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPECIAL_FORCES_GROUP_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Enter action-focused shooter rounds with different maps and weapon choices.",
+      "tags": [
+        "FPS",
+        "Action",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Respawnables",
+    "description": "Play stylized third-person shooter battles with missions and multiplayer modes.",
+    "icon": "REPLACE_WITH_RESPAWNABLES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RESPAWNABLES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RESPAWNABLES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RESPAWNABLES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RESPAWNABLES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play stylized third-person shooter battles with missions and multiplayer modes.",
+      "tags": [
+        "TPS",
+        "Arcade",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Overkill 3",
+    "description": "Complete cover-based shooting missions and battle enemy forces.",
+    "icon": "REPLACE_WITH_OVERKILL_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OVERKILL_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OVERKILL_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OVERKILL_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OVERKILL_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete cover-based shooting missions and battle enemy forces.",
+      "tags": [
+        "TPS",
+        "Action",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Overkill 2",
+    "description": "Fight through shooting missions with weapon upgrades and challenging enemies.",
+    "icon": "REPLACE_WITH_OVERKILL_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_OVERKILL_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_OVERKILL_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_OVERKILL_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_OVERKILL_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through shooting missions with weapon upgrades and challenging enemies.",
+      "tags": [
+        "TPS",
+        "Action",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Eternity Warriors 4",
+    "description": "Battle fantasy enemies with action combat and equipment progression.",
+    "icon": "REPLACE_WITH_ETERNITY_WARRIORS_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ETERNITY_WARRIORS_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ETERNITY_WARRIORS_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ETERNITY_WARRIORS_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ETERNITY_WARRIORS_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle fantasy enemies with action combat and equipment progression.",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Combat"
+      ]
+    }
+  },
+  {
+    "name": "Gun War: Shooting Games",
+    "description": "Complete shooting missions across multiple settings and use a variety of weapons.",
+    "icon": "REPLACE_WITH_GUN_WAR_SHOOTING_GAMES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GUN_WAR_SHOOTING_GAMES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GUN_WAR_SHOOTING_GAMES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GUN_WAR_SHOOTING_GAMES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GUN_WAR_SHOOTING_GAMES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete shooting missions across multiple settings and use a variety of weapons.",
+      "tags": [
+        "FPS",
+        "Missions",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Gunship Strike",
+    "description": "Pilot a combat helicopter and complete aerial attack missions.",
+    "icon": "REPLACE_WITH_GUNSHIP_STRIKE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GUNSHIP_STRIKE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GUNSHIP_STRIKE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GUNSHIP_STRIKE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GUNSHIP_STRIKE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Pilot a combat helicopter and complete aerial attack missions.",
+      "tags": [
+        "Helicopter",
+        "Action",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Modern Warplanes",
+    "description": "Fly combat aircraft and compete in aerial battles.",
+    "icon": "REPLACE_WITH_MODERN_WARPLANES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MODERN_WARPLANES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MODERN_WARPLANES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MODERN_WARPLANES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MODERN_WARPLANES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fly combat aircraft and compete in aerial battles.",
+      "tags": [
+        "Aircraft",
+        "Combat",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "AirAttack 2",
+    "description": "Pilot a plane through scrolling shooter levels with enemy aircraft and ground targets.",
+    "icon": "REPLACE_WITH_AIRATTACK_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_AIRATTACK_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_AIRATTACK_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_AIRATTACK_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_AIRATTACK_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Pilot a plane through scrolling shooter levels with enemy aircraft and ground targets.",
+      "tags": [
+        "Aircraft",
+        "Arcade",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Sky Force Reloaded",
+    "description": "Fly through enemy-filled levels, upgrade your aircraft, and complete arcade missions.",
+    "icon": "REPLACE_WITH_SKY_FORCE_RELOADED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SKY_FORCE_RELOADED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SKY_FORCE_RELOADED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SKY_FORCE_RELOADED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SKY_FORCE_RELOADED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fly through enemy-filled levels, upgrade your aircraft, and complete arcade missions.",
+      "tags": [
+        "Aircraft",
+        "Arcade",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "1945 Air Force",
+    "description": "Pilot fighter aircraft and take on waves of enemies in classic scrolling shooter stages.",
+    "icon": "REPLACE_WITH_1945_AIR_FORCE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_1945_AIR_FORCE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_1945_AIR_FORCE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_1945_AIR_FORCE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_1945_AIR_FORCE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Pilot fighter aircraft and take on waves of enemies in classic scrolling shooter stages.",
+      "tags": [
+        "Aircraft",
+        "Arcade",
+        "World War"
+      ]
+    }
+  },
+  {
+    "name": "Hawk: Freedom Squadron",
+    "description": "Fly customizable aircraft and complete co-op-style aerial combat missions.",
+    "icon": "REPLACE_WITH_HAWK_FREEDOM_SQUADRON_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HAWK_FREEDOM_SQUADRON_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HAWK_FREEDOM_SQUADRON_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HAWK_FREEDOM_SQUADRON_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HAWK_FREEDOM_SQUADRON_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fly customizable aircraft and complete co-op-style aerial combat missions.",
+      "tags": [
+        "Aircraft",
+        "Arcade",
+        "Co-op"
+      ]
+    }
+  },
+  {
+    "name": "War Robots",
+    "description": "Control armed robots and compete in team-based multiplayer battles.",
+    "icon": "REPLACE_WITH_WAR_ROBOTS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WAR_ROBOTS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WAR_ROBOTS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WAR_ROBOTS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WAR_ROBOTS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Control armed robots and compete in team-based multiplayer battles.",
+      "tags": [
+        "Mech",
+        "Multiplayer",
+        "Sci-Fi"
+      ]
+    }
+  },
+  {
+    "name": "Mech Arena",
+    "description": "Customize battle mechs and compete in fast arena shooter matches.",
+    "icon": "REPLACE_WITH_MECH_ARENA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MECH_ARENA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MECH_ARENA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MECH_ARENA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MECH_ARENA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize battle mechs and compete in fast arena shooter matches.",
+      "tags": [
+        "Mech",
+        "Arena",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Tacticool",
+    "description": "Play top-down team shooter matches with tactical movement and vehicle action.",
+    "icon": "REPLACE_WITH_TACTICOOL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TACTICOOL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TACTICOOL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TACTICOOL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TACTICOOL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play top-down team shooter matches with tactical movement and vehicle action.",
+      "tags": [
+        "Top-down",
+        "Tactical",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Bullet Echo",
+    "description": "Coordinate with teammates in top-down tactical shooter battles.",
+    "icon": "REPLACE_WITH_BULLET_ECHO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BULLET_ECHO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BULLET_ECHO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BULLET_ECHO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BULLET_ECHO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Coordinate with teammates in top-down tactical shooter battles.",
+      "tags": [
+        "Top-down",
+        "Tactical",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Badlanders",
+    "description": "Search for loot, manage equipment, and attempt extraction in competitive matches.",
+    "icon": "REPLACE_WITH_BADLANDERS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BADLANDERS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BADLANDERS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BADLANDERS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BADLANDERS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Search for loot, manage equipment, and attempt extraction in competitive matches.",
+      "tags": [
+        "Extraction",
+        "Shooter",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Arena Breakout",
+    "description": "Loot, plan your route, and attempt extraction in tactical first-person matches.",
+    "icon": "REPLACE_WITH_ARENA_BREAKOUT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ARENA_BREAKOUT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ARENA_BREAKOUT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ARENA_BREAKOUT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ARENA_BREAKOUT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Loot, plan your route, and attempt extraction in tactical first-person matches.",
+      "tags": [
+        "Extraction",
+        "FPS",
+        "Tactical"
+      ]
+    }
+  },
+  {
+    "name": "Lost Light",
+    "description": "Explore dangerous zones, gather supplies, and extract while facing other players.",
+    "icon": "REPLACE_WITH_LOST_LIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LOST_LIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LOST_LIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LOST_LIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LOST_LIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore dangerous zones, gather supplies, and extract while facing other players.",
+      "tags": [
+        "Extraction",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Farlight 84",
+    "description": "Compete in futuristic hero-based battle royale matches with mobility gadgets.",
+    "icon": "REPLACE_WITH_FARLIGHT_84_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FARLIGHT_84_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FARLIGHT_84_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FARLIGHT_84_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FARLIGHT_84_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in futuristic hero-based battle royale matches with mobility gadgets.",
+      "tags": [
+        "Battle Royale",
+        "Hero Shooter",
+        "Sci-Fi"
+      ]
+    }
+  },
+  {
+    "name": "Blood Strike",
+    "description": "Enter fast-paced battle royale and squad shooter matches.",
+    "icon": "REPLACE_WITH_BLOOD_STRIKE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BLOOD_STRIKE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BLOOD_STRIKE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BLOOD_STRIKE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BLOOD_STRIKE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Enter fast-paced battle royale and squad shooter matches.",
+      "tags": [
+        "Battle Royale",
+        "FPS",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Pixel Gun 3D",
+    "description": "Play block-style shooter modes with a variety of maps and weapons.",
+    "icon": "REPLACE_WITH_PIXEL_GUN_3D_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PIXEL_GUN_3D_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PIXEL_GUN_3D_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PIXEL_GUN_3D_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PIXEL_GUN_3D_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play block-style shooter modes with a variety of maps and weapons.",
+      "tags": [
+        "FPS",
+        "Arcade",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Block Strike",
+    "description": "Compete in blocky online FPS matches and practice aim on compact maps.",
+    "icon": "REPLACE_WITH_BLOCK_STRIKE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BLOCK_STRIKE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BLOCK_STRIKE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BLOCK_STRIKE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BLOCK_STRIKE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in blocky online FPS matches and practice aim on compact maps.",
+      "tags": [
+        "FPS",
+        "Pixel Art",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Pixel Combat: Zombies Strike",
+    "description": "Fight pixel-style zombies in wave-based shooter levels.",
+    "icon": "REPLACE_WITH_PIXEL_COMBAT_ZOMBIES_STRIKE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PIXEL_COMBAT_ZOMBIES_STRIKE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PIXEL_COMBAT_ZOMBIES_STRIKE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PIXEL_COMBAT_ZOMBIES_STRIKE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PIXEL_COMBAT_ZOMBIES_STRIKE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight pixel-style zombies in wave-based shooter levels.",
+      "tags": [
+        "Zombie",
+        "Pixel Art",
+        "FPS"
+      ]
+    }
+  },
+  {
+    "name": "Dude Theft Wars",
+    "description": "Explore a cartoon open world with sandbox activities and action gameplay.",
+    "icon": "REPLACE_WITH_DUDE_THEFT_WARS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DUDE_THEFT_WARS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DUDE_THEFT_WARS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DUDE_THEFT_WARS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DUDE_THEFT_WARS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a cartoon open world with sandbox activities and action gameplay.",
+      "tags": [
+        "Sandbox",
+        "Open World",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "GoreBox",
+    "description": "Experiment in a physics sandbox with characters, tools, and action scenarios.",
+    "icon": "REPLACE_WITH_GOREBOX_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GOREBOX_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GOREBOX_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GOREBOX_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GOREBOX_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experiment in a physics sandbox with characters, tools, and action scenarios.",
+      "tags": [
+        "Sandbox",
+        "Physics",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Mad GunS",
+    "description": "Play humorous multiplayer shooter rounds in colorful, block-style arenas.",
+    "icon": "REPLACE_WITH_MAD_GUNS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MAD_GUNS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MAD_GUNS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MAD_GUNS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MAD_GUNS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play humorous multiplayer shooter rounds in colorful, block-style arenas.",
+      "tags": [
+        "FPS",
+        "Arcade",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Battle Prime",
+    "description": "Compete in third-person online battles with distinct combat characters.",
+    "icon": "REPLACE_WITH_BATTLE_PRIME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BATTLE_PRIME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BATTLE_PRIME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BATTLE_PRIME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BATTLE_PRIME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in third-person online battles with distinct combat characters.",
+      "tags": [
+        "TPS",
+        "Multiplayer",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "The Division Resurgence",
+    "description": "Explore an urban setting, complete missions, and engage in third-person tactical combat.",
+    "icon": "REPLACE_WITH_THE_DIVISION_RESURGENCE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_DIVISION_RESURGENCE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_DIVISION_RESURGENCE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_DIVISION_RESURGENCE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_DIVISION_RESURGENCE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore an urban setting, complete missions, and engage in third-person tactical combat.",
+      "tags": [
+        "TPS",
+        "RPG",
+        "Tactical"
+      ]
+    }
+  },
+  {
+    "name": "Rainbow Six Mobile",
+    "description": "Use team coordination, tactical operators, and objective-based shooter rounds.",
+    "icon": "REPLACE_WITH_RAINBOW_SIX_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RAINBOW_SIX_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RAINBOW_SIX_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RAINBOW_SIX_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RAINBOW_SIX_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use team coordination, tactical operators, and objective-based shooter rounds.",
+      "tags": [
+        "Tactical",
+        "FPS",
+        "Team Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Valorant Mobile",
+    "description": "Experience tactical team-based shooter gameplay where available.",
+    "icon": "REPLACE_WITH_VALORANT_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_VALORANT_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_VALORANT_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_VALORANT_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_VALORANT_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience tactical team-based shooter gameplay where available.",
+      "tags": [
+        "Tactical",
+        "FPS",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Fortnite",
+    "description": "Build, explore, and compete in battle royale matches with changing events.",
+    "icon": "REPLACE_WITH_FORTNITE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FORTNITE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FORTNITE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FORTNITE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FORTNITE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build, explore, and compete in battle royale matches with changing events.",
+      "tags": [
+        "Battle Royale",
+        "Building",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Apex Legends Mobile",
+    "description": "Experience squad-based hero battle royale gameplay in a sci-fi setting.",
+    "icon": "REPLACE_WITH_APEX_LEGENDS_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_APEX_LEGENDS_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_APEX_LEGENDS_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_APEX_LEGENDS_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_APEX_LEGENDS_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience squad-based hero battle royale gameplay in a sci-fi setting.",
+      "tags": [
+        "Battle Royale",
+        "Hero Shooter",
+        "Squad"
+      ]
+    }
+  },
+  {
+    "name": "Battlefield Mobile",
+    "description": "Experience team-based combat inspired by large-scale modern warfare.",
+    "icon": "REPLACE_WITH_BATTLEFIELD_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BATTLEFIELD_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BATTLEFIELD_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BATTLEFIELD_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BATTLEFIELD_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience team-based combat inspired by large-scale modern warfare.",
+      "tags": [
+        "FPS",
+        "Team Shooter",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Project RIP Mobile",
+    "description": "Fight supernatural enemies in first-person action missions.",
+    "icon": "REPLACE_WITH_PROJECT_RIP_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PROJECT_RIP_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PROJECT_RIP_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PROJECT_RIP_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PROJECT_RIP_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight supernatural enemies in first-person action missions.",
+      "tags": [
+        "FPS",
+        "Horror",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Dead Trigger",
+    "description": "Fight zombie hordes in first-person survival missions.",
+    "icon": "REPLACE_WITH_DEAD_TRIGGER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TRIGGER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight zombie hordes in first-person survival missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Doom (Classic)",
+    "description": "Battle demons through fast-paced first-person shooter levels.",
+    "icon": "REPLACE_WITH_DOOM_CLASSIC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DOOM_CLASSIC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DOOM_CLASSIC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DOOM_CLASSIC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DOOM_CLASSIC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle demons through fast-paced first-person shooter levels.",
+      "tags": [
+        "FPS",
+        "Classic",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Quake (via compatible source port)",
+    "description": "Play classic arena FPS action using a compatible game engine and legally obtained game data.",
+    "icon": "REPLACE_WITH_QUAKE_VIA_COMPATIBLE_SOURCE_PORT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_QUAKE_VIA_COMPATIBLE_SOURCE_PORT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_QUAKE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_QUAKE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_QUAKE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play classic arena FPS action using a compatible game engine and legally obtained game data.",
+      "tags": [
+        "FPS",
+        "Classic",
+        "Arena"
+      ]
+    }
+  },
+  {
+    "name": "Half-Life (via compatible source port)",
+    "description": "Experience a classic sci-fi shooter story with compatible ports and legally obtained game files.",
+    "icon": "REPLACE_WITH_HALF_LIFE_VIA_COMPATIBLE_SOURCE_PORT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HALF_LIFE_VIA_COMPATIBLE_SOURCE_PORT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HALF_LIFE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HALF_LIFE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HALF_LIFE_VIA_COMPATIBLE_SOURCE_PORT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience a classic sci-fi shooter story with compatible ports and legally obtained game files.",
+      "tags": [
+        "FPS",
+        "Sci-Fi",
+        "Story"
+      ]
+    }
+  },
+  {
+    "name": "Alien Shooter",
+    "description": "Battle waves of alien creatures in a top-down action shooter.",
+    "icon": "REPLACE_WITH_ALIEN_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ALIEN_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ALIEN_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ALIEN_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ALIEN_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle waves of alien creatures in a top-down action shooter.",
+      "tags": [
+        "Top-down",
+        "Sci-Fi",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Xenowerk",
+    "description": "Explore underground facilities and fight mutated creatures in a top-down shooter.",
+    "icon": "REPLACE_WITH_XENOWERK_ICON_URL",
+    "normalUrl": "REPLACE_WITH_XENOWERK_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_XENOWERK_SCREENSHOT_1_URL",
+      "REPLACE_WITH_XENOWERK_SCREENSHOT_2_URL",
+      "REPLACE_WITH_XENOWERK_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore underground facilities and fight mutated creatures in a top-down shooter.",
+      "tags": [
+        "Top-down",
+        "Sci-Fi",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Xenowerk Tactics",
+    "description": "Lead a squad, plan missions, and fight alien threats in tactical encounters.",
+    "icon": "REPLACE_WITH_XENOWERK_TACTICS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_XENOWERK_TACTICS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_XENOWERK_TACTICS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_XENOWERK_TACTICS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_XENOWERK_TACTICS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Lead a squad, plan missions, and fight alien threats in tactical encounters.",
+      "tags": [
+        "Strategy",
+        "Sci-Fi",
+        "Squad"
+      ]
+    }
+  },
+  {
+    "name": "Space Shooter: Galaxy Attack",
+    "description": "Pilot a spacecraft through arcade stages filled with enemy waves.",
+    "icon": "REPLACE_WITH_SPACE_SHOOTER_GALAXY_ATTACK_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SPACE_SHOOTER_GALAXY_ATTACK_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SPACE_SHOOTER_GALAXY_ATTACK_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SPACE_SHOOTER_GALAXY_ATTACK_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SPACE_SHOOTER_GALAXY_ATTACK_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Pilot a spacecraft through arcade stages filled with enemy waves.",
+      "tags": [
+        "Space",
+        "Arcade",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Galaxy Attack: Alien Shooter",
+    "description": "Defend against alien formations in a classic vertical space shooter.",
+    "icon": "REPLACE_WITH_GALAXY_ATTACK_ALIEN_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GALAXY_ATTACK_ALIEN_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GALAXY_ATTACK_ALIEN_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GALAXY_ATTACK_ALIEN_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GALAXY_ATTACK_ALIEN_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend against alien formations in a classic vertical space shooter.",
+      "tags": [
+        "Space",
+        "Arcade",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "1942 Pacific Front",
+    "description": "Command forces in turn-based World War II battles with tactical decisions.",
+    "icon": "REPLACE_WITH_1942_PACIFIC_FRONT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_1942_PACIFIC_FRONT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_1942_PACIFIC_FRONT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_1942_PACIFIC_FRONT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_1942_PACIFIC_FRONT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Command forces in turn-based World War II battles with tactical decisions.",
+      "tags": [
+        "Strategy",
+        "World War",
+        "Tactics"
+      ]
+    }
+  },
+  {
+    "name": "World War Polygon",
+    "description": "Complete campaign missions in a stylized World War II first-person shooter.",
+    "icon": "REPLACE_WITH_WORLD_WAR_POLYGON_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WORLD_WAR_POLYGON_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WORLD_WAR_POLYGON_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WORLD_WAR_POLYGON_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WORLD_WAR_POLYGON_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete campaign missions in a stylized World War II first-person shooter.",
+      "tags": [
+        "FPS",
+        "World War",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Frontline Commando: D-Day",
+    "description": "Play cover-based missions set during a World War II invasion.",
+    "icon": "REPLACE_WITH_FRONTLINE_COMMANDO_D_DAY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FRONTLINE_COMMANDO_D_DAY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FRONTLINE_COMMANDO_D_DAY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FRONTLINE_COMMANDO_D_DAY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FRONTLINE_COMMANDO_D_DAY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play cover-based missions set during a World War II invasion.",
+      "tags": [
+        "TPS",
+        "World War",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Frontline Commando 2",
+    "description": "Complete third-person shooting missions and assemble a combat squad.",
+    "icon": "REPLACE_WITH_FRONTLINE_COMMANDO_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FRONTLINE_COMMANDO_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FRONTLINE_COMMANDO_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FRONTLINE_COMMANDO_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FRONTLINE_COMMANDO_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete third-person shooting missions and assemble a combat squad.",
+      "tags": [
+        "TPS",
+        "Action",
+        "Squad"
+      ]
+    }
+  },
+  {
+    "name": "Major Mayhem 2",
+    "description": "Run through arcade-style levels and defeat enemies with responsive shooting.",
+    "icon": "REPLACE_WITH_MAJOR_MAYHEM_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MAJOR_MAYHEM_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MAJOR_MAYHEM_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MAJOR_MAYHEM_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MAJOR_MAYHEM_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through arcade-style levels and defeat enemies with responsive shooting.",
+      "tags": [
+        "Arcade",
+        "Action",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Johnny Trigger",
+    "description": "Use timing and aim to complete stylized action shooting levels.",
+    "icon": "REPLACE_WITH_JOHNNY_TRIGGER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_JOHNNY_TRIGGER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_JOHNNY_TRIGGER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_JOHNNY_TRIGGER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_JOHNNY_TRIGGER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use timing and aim to complete stylized action shooting levels.",
+      "tags": [
+        "Arcade",
+        "Action",
+        "Platformer"
+      ]
+    }
+  },
+  {
+    "name": "Mr Bullet",
+    "description": "Solve physics-based shooting puzzles by aiming carefully at targets.",
+    "icon": "REPLACE_WITH_MR_BULLET_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MR_BULLET_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MR_BULLET_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MR_BULLET_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MR_BULLET_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Solve physics-based shooting puzzles by aiming carefully at targets.",
+      "tags": [
+        "Puzzle",
+        "Physics",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Clear Vision 4",
+    "description": "Complete mission-based sniper challenges in a stylized action game.",
+    "icon": "REPLACE_WITH_CLEAR_VISION_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CLEAR_VISION_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CLEAR_VISION_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CLEAR_VISION_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CLEAR_VISION_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete mission-based sniper challenges in a stylized action game.",
+      "tags": [
+        "Sniper",
+        "Missions",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Cover Strike - 3D Team Shooter",
+    "description": "Play short team shooter rounds with weapons and tactical cover.",
+    "icon": "REPLACE_WITH_COVER_STRIKE_3D_TEAM_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_COVER_STRIKE_3D_TEAM_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_COVER_STRIKE_3D_TEAM_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_COVER_STRIKE_3D_TEAM_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_COVER_STRIKE_3D_TEAM_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play short team shooter rounds with weapons and tactical cover.",
+      "tags": [
+        "FPS",
+        "Team Shooter",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Fire Strike Online",
+    "description": "Compete in online shooter battles and customize your loadout.",
+    "icon": "REPLACE_WITH_FIRE_STRIKE_ONLINE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FIRE_STRIKE_ONLINE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FIRE_STRIKE_ONLINE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FIRE_STRIKE_ONLINE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FIRE_STRIKE_ONLINE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in online shooter battles and customize your loadout.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Combat Master",
+    "description": "Play fast-paced first-person shooter matches with movement-focused combat.",
+    "icon": "REPLACE_WITH_COMBAT_MASTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_COMBAT_MASTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_COMBAT_MASTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_COMBAT_MASTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_COMBAT_MASTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play fast-paced first-person shooter matches with movement-focused combat.",
+      "tags": [
+        "FPS",
+        "Multiplayer",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Stellar Hunter",
+    "description": "Explore space, manage a squad, and fight tactical battles in a sci-fi setting.",
+    "icon": "REPLACE_WITH_STELLAR_HUNTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STELLAR_HUNTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STELLAR_HUNTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STELLAR_HUNTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STELLAR_HUNTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore space, manage a squad, and fight tactical battles in a sci-fi setting.",
+      "tags": [
+        "Sci-Fi",
+        "Tactical",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Into the Breach",
+    "description": "Plan turn-based tactical encounters and protect cities from giant creatures.",
+    "icon": "REPLACE_WITH_INTO_THE_BREACH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_BREACH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_BREACH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_BREACH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_BREACH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Plan turn-based tactical encounters and protect cities from giant creatures.",
+      "tags": [
+        "Strategy",
+        "Tactics",
+        "Sci-Fi"
+      ]
+    }
+  },
+  {
+    "name": "Door Kickers: Action Squad",
+    "description": "Lead a team through side-scrolling tactical action missions.",
+    "icon": "REPLACE_WITH_DOOR_KICKERS_ACTION_SQUAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DOOR_KICKERS_ACTION_SQUAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DOOR_KICKERS_ACTION_SQUAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DOOR_KICKERS_ACTION_SQUAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DOOR_KICKERS_ACTION_SQUAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Lead a team through side-scrolling tactical action missions.",
+      "tags": [
+        "Tactical",
+        "Action",
+        "Side-scroller"
+      ]
+    }
+  },
+  {
+    "name": "Huntdown",
+    "description": "Fight through retro-inspired side-scrolling shooter levels.",
+    "icon": "REPLACE_WITH_HUNTDOWN_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HUNTDOWN_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HUNTDOWN_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HUNTDOWN_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HUNTDOWN_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through retro-inspired side-scrolling shooter levels.",
+      "tags": [
+        "Retro",
+        "Side-scroller",
+        "Shooter"
+      ]
+    }
+  },
+  {
+    "name": "Tesla Force",
+    "description": "Battle supernatural enemies in top-down roguelite shooter runs.",
+    "icon": "REPLACE_WITH_TESLA_FORCE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TESLA_FORCE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TESLA_FORCE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TESLA_FORCE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TESLA_FORCE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle supernatural enemies in top-down roguelite shooter runs.",
+      "tags": [
+        "Roguelite",
+        "Top-down",
+        "Action"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Shadow Fight 2",
+    "description": "Fight skilled opponents, upgrade equipment, and progress through a martial-arts action adventure.",
+    "icon": "REPLACE_WITH_SHADOW_FIGHT_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOW_FIGHT_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOW_FIGHT_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight skilled opponents, upgrade equipment, and progress through a martial-arts action adventure.",
+      "tags": [
+        "Fighting",
+        "Martial Arts",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Shadow Fight 3",
+    "description": "Customize a fighter, master combat styles, and battle rivals in a story-driven fighting game.",
+    "icon": "REPLACE_WITH_SHADOW_FIGHT_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOW_FIGHT_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOW_FIGHT_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Customize a fighter, master combat styles, and battle rivals in a story-driven fighting game.",
+      "tags": [
+        "Fighting",
+        "RPG",
+        "Martial Arts"
+      ]
+    }
+  },
+  {
+    "name": "Shadow Fight 4: Arena",
+    "description": "Compete in real-time fighter battles and build a team of heroes with distinct abilities.",
+    "icon": "REPLACE_WITH_SHADOW_FIGHT_4_ARENA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOW_FIGHT_4_ARENA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOW_FIGHT_4_ARENA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_4_ARENA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOW_FIGHT_4_ARENA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in real-time fighter battles and build a team of heroes with distinct abilities.",
+      "tags": [
+        "Fighting",
+        "PvP",
+        "Arena"
+      ]
+    }
+  },
+  {
+    "name": "Mortal Kombat Mobile",
+    "description": "Collect iconic fighters and take part in action-packed combat challenges.",
+    "icon": "REPLACE_WITH_MORTAL_KOMBAT_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MORTAL_KOMBAT_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MORTAL_KOMBAT_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MORTAL_KOMBAT_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MORTAL_KOMBAT_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect iconic fighters and take part in action-packed combat challenges.",
+      "tags": [
+        "Fighting",
+        "Action",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "Injustice: Gods Among Us",
+    "description": "Build a team of DC heroes and villains and battle opponents in touch-based combat.",
+    "icon": "REPLACE_WITH_INJUSTICE_GODS_AMONG_US_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INJUSTICE_GODS_AMONG_US_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INJUSTICE_GODS_AMONG_US_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INJUSTICE_GODS_AMONG_US_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INJUSTICE_GODS_AMONG_US_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a team of DC heroes and villains and battle opponents in touch-based combat.",
+      "tags": [
+        "Fighting",
+        "Superheroes",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Injustice 2",
+    "description": "Collect DC characters, upgrade gear, and compete in superhero battles.",
+    "icon": "REPLACE_WITH_INJUSTICE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INJUSTICE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INJUSTICE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INJUSTICE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INJUSTICE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect DC characters, upgrade gear, and compete in superhero battles.",
+      "tags": [
+        "Fighting",
+        "Superheroes",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Skullgirls: Fighting RPG",
+    "description": "Collect stylized fighters, learn combos, and battle through a hand-drawn action world.",
+    "icon": "REPLACE_WITH_SKULLGIRLS_FIGHTING_RPG_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SKULLGIRLS_FIGHTING_RPG_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SKULLGIRLS_FIGHTING_RPG_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SKULLGIRLS_FIGHTING_RPG_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SKULLGIRLS_FIGHTING_RPG_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect stylized fighters, learn combos, and battle through a hand-drawn action world.",
+      "tags": [
+        "Fighting",
+        "Anime Style",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Street Fighter IV Champion Edition",
+    "description": "Choose classic fighters and compete using special moves and combos.",
+    "icon": "REPLACE_WITH_STREET_FIGHTER_IV_CHAMPION_EDITION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STREET_FIGHTER_IV_CHAMPION_EDITION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STREET_FIGHTER_IV_CHAMPION_EDITION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STREET_FIGHTER_IV_CHAMPION_EDITION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STREET_FIGHTER_IV_CHAMPION_EDITION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Choose classic fighters and compete using special moves and combos.",
+      "tags": [
+        "Fighting",
+        "Arcade",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "name": "The King of Fighters ALLSTAR",
+    "description": "Collect fighters from the KOF series and battle in action-focused combat stages.",
+    "icon": "REPLACE_WITH_THE_KING_OF_FIGHTERS_ALLSTAR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_KING_OF_FIGHTERS_ALLSTAR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_KING_OF_FIGHTERS_ALLSTAR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_KING_OF_FIGHTERS_ALLSTAR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_KING_OF_FIGHTERS_ALLSTAR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect fighters from the KOF series and battle in action-focused combat stages.",
+      "tags": [
+        "Fighting",
+        "Action",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "Brawlhalla",
+    "description": "Battle in platform fighter matches using unique characters and weapons.",
+    "icon": "REPLACE_WITH_BRAWLHALLA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BRAWLHALLA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BRAWLHALLA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BRAWLHALLA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BRAWLHALLA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle in platform fighter matches using unique characters and weapons.",
+      "tags": [
+        "Fighting",
+        "Platform Fighter",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "WWE Mayhem",
+    "description": "Play as wrestling superstars and compete in arcade-style wrestling battles.",
+    "icon": "REPLACE_WITH_WWE_MAYHEM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WWE_MAYHEM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WWE_MAYHEM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WWE_MAYHEM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WWE_MAYHEM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play as wrestling superstars and compete in arcade-style wrestling battles.",
+      "tags": [
+        "Wrestling",
+        "Arcade",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "WWE Champions",
+    "description": "Collect wrestling superstars, match gems, and compete in puzzle-based wrestling battles.",
+    "icon": "REPLACE_WITH_WWE_CHAMPIONS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WWE_CHAMPIONS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WWE_CHAMPIONS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WWE_CHAMPIONS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WWE_CHAMPIONS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect wrestling superstars, match gems, and compete in puzzle-based wrestling battles.",
+      "tags": [
+        "Wrestling",
+        "Puzzle",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "EA SPORTS UFC",
+    "description": "Experience mixed martial arts bouts with fighters and striking-focused combat.",
+    "icon": "REPLACE_WITH_EA_SPORTS_UFC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EA_SPORTS_UFC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EA_SPORTS_UFC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EA_SPORTS_UFC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EA_SPORTS_UFC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience mixed martial arts bouts with fighters and striking-focused combat.",
+      "tags": [
+        "MMA",
+        "Sports",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Real Boxing 2",
+    "description": "Train boxers, improve equipment, and compete in boxing matches.",
+    "icon": "REPLACE_WITH_REAL_BOXING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REAL_BOXING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REAL_BOXING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REAL_BOXING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REAL_BOXING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Train boxers, improve equipment, and compete in boxing matches.",
+      "tags": [
+        "Boxing",
+        "Sports",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Boxing Star",
+    "description": "Build a boxer, learn fighting techniques, and compete through a boxing career.",
+    "icon": "REPLACE_WITH_BOXING_STAR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BOXING_STAR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BOXING_STAR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BOXING_STAR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BOXING_STAR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a boxer, learn fighting techniques, and compete through a boxing career.",
+      "tags": [
+        "Boxing",
+        "Career",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Prizefighters 2",
+    "description": "Manage a boxing career and fight opponents in a retro-style boxing game.",
+    "icon": "REPLACE_WITH_PRIZEFIGHTERS_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PRIZEFIGHTERS_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PRIZEFIGHTERS_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PRIZEFIGHTERS_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PRIZEFIGHTERS_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a boxing career and fight opponents in a retro-style boxing game.",
+      "tags": [
+        "Boxing",
+        "Retro",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Punch Club",
+    "description": "Train a fighter, manage daily choices, and progress through a boxing-themed story.",
+    "icon": "REPLACE_WITH_PUNCH_CLUB_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PUNCH_CLUB_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PUNCH_CLUB_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PUNCH_CLUB_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PUNCH_CLUB_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Train a fighter, manage daily choices, and progress through a boxing-themed story.",
+      "tags": [
+        "Fighting",
+        "Management",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Skullgirls Mobile",
+    "description": "Collect fighters, build teams, and use combos in stylized 2D battles.",
+    "icon": "REPLACE_WITH_SKULLGIRLS_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SKULLGIRLS_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SKULLGIRLS_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SKULLGIRLS_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SKULLGIRLS_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect fighters, build teams, and use combos in stylized 2D battles.",
+      "tags": [
+        "Fighting",
+        "2D",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Ball Legends",
+    "description": "Collect Dragon Ball characters and fight in real-time action battles.",
+    "icon": "REPLACE_WITH_DRAGON_BALL_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRAGON_BALL_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRAGON_BALL_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRAGON_BALL_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRAGON_BALL_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect Dragon Ball characters and fight in real-time action battles.",
+      "tags": [
+        "Anime",
+        "Fighting",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Ball Z Dokkan Battle",
+    "description": "Build teams of Dragon Ball characters and take part in strategic battle stages.",
+    "icon": "REPLACE_WITH_DRAGON_BALL_Z_DOKKAN_BATTLE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRAGON_BALL_Z_DOKKAN_BATTLE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRAGON_BALL_Z_DOKKAN_BATTLE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRAGON_BALL_Z_DOKKAN_BATTLE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRAGON_BALL_Z_DOKKAN_BATTLE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build teams of Dragon Ball characters and take part in strategic battle stages.",
+      "tags": [
+        "Anime",
+        "Strategy",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "One Punch Man: The Strongest",
+    "description": "Collect characters and build teams inspired by the One Punch Man universe.",
+    "icon": "REPLACE_WITH_ONE_PUNCH_MAN_THE_STRONGEST_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ONE_PUNCH_MAN_THE_STRONGEST_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ONE_PUNCH_MAN_THE_STRONGEST_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ONE_PUNCH_MAN_THE_STRONGEST_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ONE_PUNCH_MAN_THE_STRONGEST_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect characters and build teams inspired by the One Punch Man universe.",
+      "tags": [
+        "Anime",
+        "RPG",
+        "Strategy"
+      ]
+    }
+  },
+  {
+    "name": "One Punch Man: World",
+    "description": "Explore action encounters and battle enemies using characters from the series.",
+    "icon": "REPLACE_WITH_ONE_PUNCH_MAN_WORLD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ONE_PUNCH_MAN_WORLD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ONE_PUNCH_MAN_WORLD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ONE_PUNCH_MAN_WORLD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ONE_PUNCH_MAN_WORLD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore action encounters and battle enemies using characters from the series.",
+      "tags": [
+        "Anime",
+        "Action",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Bleach: Brave Souls",
+    "description": "Collect Bleach characters and battle through anime-inspired action stages.",
+    "icon": "REPLACE_WITH_BLEACH_BRAVE_SOULS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BLEACH_BRAVE_SOULS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BLEACH_BRAVE_SOULS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BLEACH_BRAVE_SOULS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BLEACH_BRAVE_SOULS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect Bleach characters and battle through anime-inspired action stages.",
+      "tags": [
+        "Anime",
+        "Action",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Naruto x Boruto Ninja Voltage",
+    "description": "Build a ninja fortress and use characters from Naruto in action missions.",
+    "icon": "REPLACE_WITH_NARUTO_X_BORUTO_NINJA_VOLTAGE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NARUTO_X_BORUTO_NINJA_VOLTAGE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NARUTO_X_BORUTO_NINJA_VOLTAGE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NARUTO_X_BORUTO_NINJA_VOLTAGE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NARUTO_X_BORUTO_NINJA_VOLTAGE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a ninja fortress and use characters from Naruto in action missions.",
+      "tags": [
+        "Anime",
+        "Action",
+        "Strategy"
+      ]
+    }
+  },
+  {
+    "name": "NARUTO: Ultimate Ninja STORM",
+    "description": "Experience anime-inspired battles and story encounters on supported devices.",
+    "icon": "REPLACE_WITH_NARUTO_ULTIMATE_NINJA_STORM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NARUTO_ULTIMATE_NINJA_STORM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NARUTO_ULTIMATE_NINJA_STORM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NARUTO_ULTIMATE_NINJA_STORM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NARUTO_ULTIMATE_NINJA_STORM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience anime-inspired battles and story encounters on supported devices.",
+      "tags": [
+        "Anime",
+        "Fighting",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Saint Seiya Awakening",
+    "description": "Collect knights, form teams, and battle through strategic anime encounters.",
+    "icon": "REPLACE_WITH_SAINT_SEIYA_AWAKENING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SAINT_SEIYA_AWAKENING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SAINT_SEIYA_AWAKENING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SAINT_SEIYA_AWAKENING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SAINT_SEIYA_AWAKENING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect knights, form teams, and battle through strategic anime encounters.",
+      "tags": [
+        "Anime",
+        "RPG",
+        "Strategy"
+      ]
+    }
+  },
+  {
+    "name": "KOF 2002 ACA NEOGEO",
+    "description": "Play a classic King of Fighters arcade fighting game.",
+    "icon": "REPLACE_WITH_KOF_2002_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KOF_2002_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KOF_2002_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KOF_2002_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KOF_2002_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a classic King of Fighters arcade fighting game.",
+      "tags": [
+        "Classic",
+        "Arcade",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Garou: Mark of the Wolves ACA NEOGEO",
+    "description": "Compete in a classic 2D fighting game with technical combos and character matchups.",
+    "icon": "REPLACE_WITH_GAROU_MARK_OF_THE_WOLVES_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GAROU_MARK_OF_THE_WOLVES_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GAROU_MARK_OF_THE_WOLVES_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GAROU_MARK_OF_THE_WOLVES_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GAROU_MARK_OF_THE_WOLVES_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in a classic 2D fighting game with technical combos and character matchups.",
+      "tags": [
+        "Classic",
+        "Arcade",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Samurai Shodown II ACA NEOGEO",
+    "description": "Play a weapon-based classic fighting game featuring samurai characters.",
+    "icon": "REPLACE_WITH_SAMURAI_SHODOWN_II_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SAMURAI_SHODOWN_II_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SAMURAI_SHODOWN_II_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SAMURAI_SHODOWN_II_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SAMURAI_SHODOWN_II_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a weapon-based classic fighting game featuring samurai characters.",
+      "tags": [
+        "Classic",
+        "Weapons",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Fatal Fury Special ACA NEOGEO",
+    "description": "Fight through classic arcade rounds with characters from Fatal Fury.",
+    "icon": "REPLACE_WITH_FATAL_FURY_SPECIAL_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FATAL_FURY_SPECIAL_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FATAL_FURY_SPECIAL_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FATAL_FURY_SPECIAL_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FATAL_FURY_SPECIAL_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through classic arcade rounds with characters from Fatal Fury.",
+      "tags": [
+        "Classic",
+        "Arcade",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Street Fighter: Duel",
+    "description": "Collect Street Fighter characters and build teams for progression-based battles.",
+    "icon": "REPLACE_WITH_STREET_FIGHTER_DUEL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STREET_FIGHTER_DUEL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STREET_FIGHTER_DUEL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STREET_FIGHTER_DUEL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STREET_FIGHTER_DUEL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect Street Fighter characters and build teams for progression-based battles.",
+      "tags": [
+        "Fighting",
+        "RPG",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "Street Fighter: The Movie Game",
+    "description": "Explore a classic Street Fighter-themed fighting experience where available.",
+    "icon": "REPLACE_WITH_STREET_FIGHTER_THE_MOVIE_GAME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STREET_FIGHTER_THE_MOVIE_GAME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STREET_FIGHTER_THE_MOVIE_GAME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STREET_FIGHTER_THE_MOVIE_GAME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STREET_FIGHTER_THE_MOVIE_GAME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a classic Street Fighter-themed fighting experience where available.",
+      "tags": [
+        "Fighting",
+        "Classic",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Power Rangers: Legacy Wars",
+    "description": "Battle with Power Rangers and villains in real-time strategy-inspired duels.",
+    "icon": "REPLACE_WITH_POWER_RANGERS_LEGACY_WARS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_POWER_RANGERS_LEGACY_WARS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_POWER_RANGERS_LEGACY_WARS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_POWER_RANGERS_LEGACY_WARS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_POWER_RANGERS_LEGACY_WARS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle with Power Rangers and villains in real-time strategy-inspired duels.",
+      "tags": [
+        "Fighting",
+        "PvP",
+        "Characters"
+      ]
+    }
+  },
+  {
+    "name": "Power Rangers: Battle for the Grid",
+    "description": "Compete in tag-team fighting matches with Power Rangers characters on supported platforms.",
+    "icon": "REPLACE_WITH_POWER_RANGERS_BATTLE_FOR_THE_GRID_ICON_URL",
+    "normalUrl": "REPLACE_WITH_POWER_RANGERS_BATTLE_FOR_THE_GRID_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_POWER_RANGERS_BATTLE_FOR_THE_GRID_SCREENSHOT_1_URL",
+      "REPLACE_WITH_POWER_RANGERS_BATTLE_FOR_THE_GRID_SCREENSHOT_2_URL",
+      "REPLACE_WITH_POWER_RANGERS_BATTLE_FOR_THE_GRID_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in tag-team fighting matches with Power Rangers characters on supported platforms.",
+      "tags": [
+        "Fighting",
+        "Tag Team",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Transformers: Forged to Fight",
+    "description": "Collect Transformers characters and battle in action-focused arena encounters.",
+    "icon": "REPLACE_WITH_TRANSFORMERS_FORGED_TO_FIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TRANSFORMERS_FORGED_TO_FIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TRANSFORMERS_FORGED_TO_FIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TRANSFORMERS_FORGED_TO_FIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TRANSFORMERS_FORGED_TO_FIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect Transformers characters and battle in action-focused arena encounters.",
+      "tags": [
+        "Fighting",
+        "Robots",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Marvel Contest of Champions",
+    "description": "Collect Marvel heroes and villains and compete in one-on-one battles.",
+    "icon": "REPLACE_WITH_MARVEL_CONTEST_OF_CHAMPIONS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MARVEL_CONTEST_OF_CHAMPIONS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MARVEL_CONTEST_OF_CHAMPIONS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MARVEL_CONTEST_OF_CHAMPIONS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MARVEL_CONTEST_OF_CHAMPIONS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect Marvel heroes and villains and compete in one-on-one battles.",
+      "tags": [
+        "Fighting",
+        "Superheroes",
+        "Collectible"
+      ]
+    }
+  },
+  {
+    "name": "Marvel Future Fight",
+    "description": "Build teams of Marvel heroes and fight through action missions.",
+    "icon": "REPLACE_WITH_MARVEL_FUTURE_FIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MARVEL_FUTURE_FIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MARVEL_FUTURE_FIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MARVEL_FUTURE_FIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MARVEL_FUTURE_FIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build teams of Marvel heroes and fight through action missions.",
+      "tags": [
+        "Action",
+        "Superheroes",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "DC Worlds Collide",
+    "description": "Collect DC characters and assemble teams for strategic superhero battles.",
+    "icon": "REPLACE_WITH_DC_WORLDS_COLLIDE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DC_WORLDS_COLLIDE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DC_WORLDS_COLLIDE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DC_WORLDS_COLLIDE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DC_WORLDS_COLLIDE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect DC characters and assemble teams for strategic superhero battles.",
+      "tags": [
+        "Superheroes",
+        "Strategy",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Heroes of the Storm",
+    "description": "Play team-based hero battles on supported platforms with varied characters.",
+    "icon": "REPLACE_WITH_HEROES_OF_THE_STORM_ICON_URL",
+    "normalUrl": "REPLACE_WITH_HEROES_OF_THE_STORM_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_HEROES_OF_THE_STORM_SCREENSHOT_1_URL",
+      "REPLACE_WITH_HEROES_OF_THE_STORM_SCREENSHOT_2_URL",
+      "REPLACE_WITH_HEROES_OF_THE_STORM_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play team-based hero battles on supported platforms with varied characters.",
+      "tags": [
+        "MOBA",
+        "Heroes",
+        "Team Battles"
+      ]
+    }
+  },
+  {
+    "name": "Brawl Stars",
+    "description": "Compete in short multiplayer battles with brawlers and varied game modes.",
+    "icon": "REPLACE_WITH_BRAWL_STARS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BRAWL_STARS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BRAWL_STARS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BRAWL_STARS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BRAWL_STARS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in short multiplayer battles with brawlers and varied game modes.",
+      "tags": [
+        "Brawler",
+        "Multiplayer",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Smash Legends",
+    "description": "Fight in fast-paced arena matches with colorful characters and abilities.",
+    "icon": "REPLACE_WITH_SMASH_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SMASH_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SMASH_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SMASH_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SMASH_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight in fast-paced arena matches with colorful characters and abilities.",
+      "tags": [
+        "Brawler",
+        "Arena",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Flash Party",
+    "description": "Battle in platform-fighter arenas with heroes and knockback-based combat.",
+    "icon": "REPLACE_WITH_FLASH_PARTY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FLASH_PARTY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FLASH_PARTY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FLASH_PARTY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FLASH_PARTY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle in platform-fighter arenas with heroes and knockback-based combat.",
+      "tags": [
+        "Platform Fighter",
+        "Arena",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Rumble Club",
+    "description": "Compete in physics-based brawler matches and try to stay in the arena.",
+    "icon": "REPLACE_WITH_RUMBLE_CLUB_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RUMBLE_CLUB_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RUMBLE_CLUB_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RUMBLE_CLUB_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RUMBLE_CLUB_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in physics-based brawler matches and try to stay in the arena.",
+      "tags": [
+        "Brawler",
+        "Physics",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Super Mecha Champions",
+    "description": "Control futuristic mechs and compete in action-packed multiplayer matches.",
+    "icon": "REPLACE_WITH_SUPER_MECHA_CHAMPIONS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SUPER_MECHA_CHAMPIONS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SUPER_MECHA_CHAMPIONS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SUPER_MECHA_CHAMPIONS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SUPER_MECHA_CHAMPIONS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Control futuristic mechs and compete in action-packed multiplayer matches.",
+      "tags": [
+        "Mech",
+        "Action",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Final Fighter",
+    "description": "Choose a fighter and battle opponents in an action-focused arena game.",
+    "icon": "REPLACE_WITH_FINAL_FIGHTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FINAL_FIGHTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FINAL_FIGHTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FINAL_FIGHTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FINAL_FIGHTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Choose a fighter and battle opponents in an action-focused arena game.",
+      "tags": [
+        "Fighting",
+        "Arena",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "description": "Play tag-team battles featuring Marvel and Capcom characters on supported platforms.",
+    "icon": "REPLACE_WITH_ULTIMATE_MARVEL_VS_CAPCOM_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ULTIMATE_MARVEL_VS_CAPCOM_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ULTIMATE_MARVEL_VS_CAPCOM_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ULTIMATE_MARVEL_VS_CAPCOM_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ULTIMATE_MARVEL_VS_CAPCOM_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play tag-team battles featuring Marvel and Capcom characters on supported platforms.",
+      "tags": [
+        "Fighting",
+        "Tag Team",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Tekken 6",
+    "description": "Compete in classic 3D fighting battles with a roster of martial artists where supported.",
+    "icon": "REPLACE_WITH_TEKKEN_6_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TEKKEN_6_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TEKKEN_6_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TEKKEN_6_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TEKKEN_6_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in classic 3D fighting battles with a roster of martial artists where supported.",
+      "tags": [
+        "Fighting",
+        "3D",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "name": "Tekken 7",
+    "description": "Master combos and fight rivals in a 3D fighting game on supported platforms.",
+    "icon": "REPLACE_WITH_TEKKEN_7_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TEKKEN_7_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TEKKEN_7_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TEKKEN_7_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TEKKEN_7_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Master combos and fight rivals in a 3D fighting game on supported platforms.",
+      "tags": [
+        "Fighting",
+        "3D",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Tekken Mobile",
+    "description": "Explore mobile fighting challenges inspired by the Tekken series where available.",
+    "icon": "REPLACE_WITH_TEKKEN_MOBILE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TEKKEN_MOBILE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TEKKEN_MOBILE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TEKKEN_MOBILE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TEKKEN_MOBILE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore mobile fighting challenges inspired by the Tekken series where available.",
+      "tags": [
+        "Fighting",
+        "3D",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Soulcalibur",
+    "description": "Battle using weapon-based combat and distinct characters in the Soulcalibur series.",
+    "icon": "REPLACE_WITH_SOULCALIBUR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SOULCALIBUR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SOULCALIBUR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SOULCALIBUR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SOULCALIBUR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle using weapon-based combat and distinct characters in the Soulcalibur series.",
+      "tags": [
+        "Fighting",
+        "Weapons",
+        "3D"
+      ]
+    }
+  },
+  {
+    "name": "Dead or Alive 5",
+    "description": "Compete in fast-paced 3D martial-arts fighting matches on supported platforms.",
+    "icon": "REPLACE_WITH_DEAD_OR_ALIVE_5_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_OR_ALIVE_5_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_OR_ALIVE_5_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_OR_ALIVE_5_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_OR_ALIVE_5_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in fast-paced 3D martial-arts fighting matches on supported platforms.",
+      "tags": [
+        "Fighting",
+        "3D",
+        "Martial Arts"
+      ]
+    }
+  },
+  {
+    "name": "Virtua Fighter 5",
+    "description": "Master precise movement and martial-arts techniques in a 3D fighter.",
+    "icon": "REPLACE_WITH_VIRTUA_FIGHTER_5_ICON_URL",
+    "normalUrl": "REPLACE_WITH_VIRTUA_FIGHTER_5_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_VIRTUA_FIGHTER_5_SCREENSHOT_1_URL",
+      "REPLACE_WITH_VIRTUA_FIGHTER_5_SCREENSHOT_2_URL",
+      "REPLACE_WITH_VIRTUA_FIGHTER_5_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Master precise movement and martial-arts techniques in a 3D fighter.",
+      "tags": [
+        "Fighting",
+        "3D",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Guilty Gear Xrd REV 2",
+    "description": "Use distinctive characters, combos, and special moves in an anime-style fighter.",
+    "icon": "REPLACE_WITH_GUILTY_GEAR_XRD_REV_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GUILTY_GEAR_XRD_REV_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GUILTY_GEAR_XRD_REV_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GUILTY_GEAR_XRD_REV_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GUILTY_GEAR_XRD_REV_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use distinctive characters, combos, and special moves in an anime-style fighter.",
+      "tags": [
+        "Fighting",
+        "Anime Style",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Guilty Gear -Strive-",
+    "description": "Compete in visually striking 2D battles with unique characters and mechanics.",
+    "icon": "REPLACE_WITH_GUILTY_GEAR_STRIVE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GUILTY_GEAR_STRIVE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GUILTY_GEAR_STRIVE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GUILTY_GEAR_STRIVE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GUILTY_GEAR_STRIVE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in visually striking 2D battles with unique characters and mechanics.",
+      "tags": [
+        "Fighting",
+        "2D",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "BlazBlue: Centralfiction",
+    "description": "Master complex combos and character abilities in a fast-paced 2D fighter.",
+    "icon": "REPLACE_WITH_BLAZBLUE_CENTRALFICTION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BLAZBLUE_CENTRALFICTION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BLAZBLUE_CENTRALFICTION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BLAZBLUE_CENTRALFICTION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BLAZBLUE_CENTRALFICTION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Master complex combos and character abilities in a fast-paced 2D fighter.",
+      "tags": [
+        "Fighting",
+        "Anime Style",
+        "2D"
+      ]
+    }
+  },
+  {
+    "name": "Under Night In-Birth II Sys:Celes",
+    "description": "Fight in a technical anime-style fighter with distinct characters and systems.",
+    "icon": "REPLACE_WITH_UNDER_NIGHT_IN_BIRTH_II_SYS_CELES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_UNDER_NIGHT_IN_BIRTH_II_SYS_CELES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_UNDER_NIGHT_IN_BIRTH_II_SYS_CELES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_UNDER_NIGHT_IN_BIRTH_II_SYS_CELES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_UNDER_NIGHT_IN_BIRTH_II_SYS_CELES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight in a technical anime-style fighter with distinct characters and systems.",
+      "tags": [
+        "Fighting",
+        "Anime Style",
+        "2D"
+      ]
+    }
+  },
+  {
+    "name": "Melty Blood: Type Lumina",
+    "description": "Compete in fast-paced anime-style duels with air movement and combos.",
+    "icon": "REPLACE_WITH_MELTY_BLOOD_TYPE_LUMINA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MELTY_BLOOD_TYPE_LUMINA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MELTY_BLOOD_TYPE_LUMINA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MELTY_BLOOD_TYPE_LUMINA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MELTY_BLOOD_TYPE_LUMINA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in fast-paced anime-style duels with air movement and combos.",
+      "tags": [
+        "Fighting",
+        "Anime Style",
+        "2D"
+      ]
+    }
+  },
+  {
+    "name": "The Last Blade 2 ACA NEOGEO",
+    "description": "Play a classic weapon-based fighting game with samurai-era characters.",
+    "icon": "REPLACE_WITH_THE_LAST_BLADE_2_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_LAST_BLADE_2_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_LAST_BLADE_2_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_LAST_BLADE_2_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_LAST_BLADE_2_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a classic weapon-based fighting game with samurai-era characters.",
+      "tags": [
+        "Classic",
+        "Weapons",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "World Heroes 2 ACA NEOGEO",
+    "description": "Battle in a retro arcade fighter featuring historical-inspired characters.",
+    "icon": "REPLACE_WITH_WORLD_HEROES_2_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WORLD_HEROES_2_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WORLD_HEROES_2_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WORLD_HEROES_2_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WORLD_HEROES_2_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle in a retro arcade fighter featuring historical-inspired characters.",
+      "tags": [
+        "Classic",
+        "Arcade",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Art of Fighting 2 ACA NEOGEO",
+    "description": "Experience classic arcade combat and special moves in a retro fighter.",
+    "icon": "REPLACE_WITH_ART_OF_FIGHTING_2_ACA_NEOGEO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ART_OF_FIGHTING_2_ACA_NEOGEO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ART_OF_FIGHTING_2_ACA_NEOGEO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ART_OF_FIGHTING_2_ACA_NEOGEO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ART_OF_FIGHTING_2_ACA_NEOGEO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience classic arcade combat and special moves in a retro fighter.",
+      "tags": [
+        "Classic",
+        "Arcade",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Double Dragon Trilogy",
+    "description": "Fight through classic beat-'em-up stages with co-op-style action.",
+    "icon": "REPLACE_WITH_DOUBLE_DRAGON_TRILOGY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DOUBLE_DRAGON_TRILOGY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DOUBLE_DRAGON_TRILOGY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DOUBLE_DRAGON_TRILOGY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DOUBLE_DRAGON_TRILOGY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through classic beat-'em-up stages with co-op-style action.",
+      "tags": [
+        "Beat 'em up",
+        "Retro",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Streets of Rage 4",
+    "description": "Battle gangs through side-scrolling stages with combo-based combat.",
+    "icon": "REPLACE_WITH_STREETS_OF_RAGE_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STREETS_OF_RAGE_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STREETS_OF_RAGE_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STREETS_OF_RAGE_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STREETS_OF_RAGE_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle gangs through side-scrolling stages with combo-based combat.",
+      "tags": [
+        "Beat 'em up",
+        "Side-scroller",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Streets of Rage Classic",
+    "description": "Fight through classic side-scrolling stages and defeat waves of enemies.",
+    "icon": "REPLACE_WITH_STREETS_OF_RAGE_CLASSIC_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STREETS_OF_RAGE_CLASSIC_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STREETS_OF_RAGE_CLASSIC_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STREETS_OF_RAGE_CLASSIC_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STREETS_OF_RAGE_CLASSIC_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through classic side-scrolling stages and defeat waves of enemies.",
+      "tags": [
+        "Beat 'em up",
+        "Retro",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Final Fight",
+    "description": "Play a classic side-scrolling brawler and clear stages of enemies.",
+    "icon": "REPLACE_WITH_FINAL_FIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FINAL_FIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FINAL_FIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FINAL_FIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FINAL_FIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a classic side-scrolling brawler and clear stages of enemies.",
+      "tags": [
+        "Beat 'em up",
+        "Classic",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "TMNT: Shredder's Revenge",
+    "description": "Team up as ninja turtles and battle enemies in a retro-inspired brawler.",
+    "icon": "REPLACE_WITH_TMNT_SHREDDER_S_REVENGE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TMNT_SHREDDER_S_REVENGE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TMNT_SHREDDER_S_REVENGE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TMNT_SHREDDER_S_REVENGE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TMNT_SHREDDER_S_REVENGE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Team up as ninja turtles and battle enemies in a retro-inspired brawler.",
+      "tags": [
+        "Beat 'em up",
+        "Co-op",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "River City Girls",
+    "description": "Explore a side-scrolling brawler with combos, upgrades, and story missions on supported platforms.",
+    "icon": "REPLACE_WITH_RIVER_CITY_GIRLS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RIVER_CITY_GIRLS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RIVER_CITY_GIRLS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RIVER_CITY_GIRLS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RIVER_CITY_GIRLS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a side-scrolling brawler with combos, upgrades, and story missions on supported platforms.",
+      "tags": [
+        "Beat 'em up",
+        "Action",
+        "Story"
+      ]
+    }
+  },
+  {
+    "name": "Castle Crashers",
+    "description": "Fight through colorful levels, unlock characters, and enjoy co-op brawler action on supported platforms.",
+    "icon": "REPLACE_WITH_CASTLE_CRASHERS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CASTLE_CRASHERS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CASTLE_CRASHERS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CASTLE_CRASHERS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CASTLE_CRASHERS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through colorful levels, unlock characters, and enjoy co-op brawler action on supported platforms.",
+      "tags": [
+        "Beat 'em up",
+        "Co-op",
+        "Fantasy"
+      ]
+    }
+  },
+  {
+    "name": "Battletoads",
+    "description": "Play a challenging brawler with varied action stages on supported platforms.",
+    "icon": "REPLACE_WITH_BATTLETOADS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BATTLETOADS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BATTLETOADS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BATTLETOADS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BATTLETOADS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play a challenging brawler with varied action stages on supported platforms.",
+      "tags": [
+        "Beat 'em up",
+        "Arcade",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "One Finger Death Punch",
+    "description": "Defeat incoming enemies with precise timing in a fast-paced stick-figure fighting game.",
+    "icon": "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defeat incoming enemies with precise timing in a fast-paced stick-figure fighting game.",
+      "tags": [
+        "Fighting",
+        "Timing",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "One Finger Death Punch 2",
+    "description": "Use quick reactions and chained attacks to defeat waves of opponents.",
+    "icon": "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ONE_FINGER_DEATH_PUNCH_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use quick reactions and chained attacks to defeat waves of opponents.",
+      "tags": [
+        "Fighting",
+        "Timing",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Stickman Warriors",
+    "description": "Control a stick fighter and use quick attacks in arcade-style duels.",
+    "icon": "REPLACE_WITH_STICKMAN_WARRIORS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STICKMAN_WARRIORS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STICKMAN_WARRIORS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STICKMAN_WARRIORS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STICKMAN_WARRIORS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Control a stick fighter and use quick attacks in arcade-style duels.",
+      "tags": [
+        "Stickman",
+        "Fighting",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Stickman Legends",
+    "description": "Battle enemies with a hero, unlock skills, and progress through action levels.",
+    "icon": "REPLACE_WITH_STICKMAN_LEGENDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STICKMAN_LEGENDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STICKMAN_LEGENDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STICKMAN_LEGENDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STICKMAN_LEGENDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Battle enemies with a hero, unlock skills, and progress through action levels.",
+      "tags": [
+        "Stickman",
+        "Action",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Shadow of Death",
+    "description": "Fight dark fantasy enemies, upgrade a warrior, and complete action stages.",
+    "icon": "REPLACE_WITH_SHADOW_OF_DEATH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOW_OF_DEATH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOW_OF_DEATH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOW_OF_DEATH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOW_OF_DEATH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight dark fantasy enemies, upgrade a warrior, and complete action stages.",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Shadow of Death 2",
+    "description": "Continue a dark fantasy combat journey with equipment and skill progression.",
+    "icon": "REPLACE_WITH_SHADOW_OF_DEATH_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SHADOW_OF_DEATH_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SHADOW_OF_DEATH_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SHADOW_OF_DEATH_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SHADOW_OF_DEATH_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Continue a dark fantasy combat journey with equipment and skill progression.",
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Gladiator Rising",
+    "description": "Build a gladiator and fight through turn-based arena encounters.",
+    "icon": "REPLACE_WITH_GLADIATOR_RISING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GLADIATOR_RISING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GLADIATOR_RISING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GLADIATOR_RISING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GLADIATOR_RISING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a gladiator and fight through turn-based arena encounters.",
+      "tags": [
+        "Arena",
+        "RPG",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Gladiator Rising 2",
+    "description": "Develop a gladiator, choose equipment, and take on arena opponents.",
+    "icon": "REPLACE_WITH_GLADIATOR_RISING_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GLADIATOR_RISING_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GLADIATOR_RISING_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GLADIATOR_RISING_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GLADIATOR_RISING_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Develop a gladiator, choose equipment, and take on arena opponents.",
+      "tags": [
+        "Arena",
+        "RPG",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "MMA Manager 2",
+    "description": "Manage fighters, train skills, and plan strategy for mixed martial arts competitions.",
+    "icon": "REPLACE_WITH_MMA_MANAGER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MMA_MANAGER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MMA_MANAGER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MMA_MANAGER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MMA_MANAGER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage fighters, train skills, and plan strategy for mixed martial arts competitions.",
+      "tags": [
+        "MMA",
+        "Management",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Punch Boxing 3D",
+    "description": "Train and fight through boxing challenges in a 3D sports game.",
+    "icon": "REPLACE_WITH_PUNCH_BOXING_3D_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PUNCH_BOXING_3D_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PUNCH_BOXING_3D_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PUNCH_BOXING_3D_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PUNCH_BOXING_3D_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Train and fight through boxing challenges in a 3D sports game.",
+      "tags": [
+        "Boxing",
+        "3D",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Big Shot Boxing",
+    "description": "Manage a boxing career and compete in retro-styled matches.",
+    "icon": "REPLACE_WITH_BIG_SHOT_BOXING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BIG_SHOT_BOXING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BIG_SHOT_BOXING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BIG_SHOT_BOXING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BIG_SHOT_BOXING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a boxing career and compete in retro-styled matches.",
+      "tags": [
+        "Boxing",
+        "Management",
+        "Retro"
+      ]
+    }
+  },
+  {
+    "name": "Boxing Physics 2",
+    "description": "Play physics-based boxing matches with simple controls and humorous movement.",
+    "icon": "REPLACE_WITH_BOXING_PHYSICS_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BOXING_PHYSICS_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BOXING_PHYSICS_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BOXING_PHYSICS_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BOXING_PHYSICS_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play physics-based boxing matches with simple controls and humorous movement.",
+      "tags": [
+        "Boxing",
+        "Physics",
+        "Casual"
+      ]
+    }
+  },
+  {
+    "name": "Wrestling Revolution 3D",
+    "description": "Create wrestlers and take part in wrestling matches and career modes.",
+    "icon": "REPLACE_WITH_WRESTLING_REVOLUTION_3D_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WRESTLING_REVOLUTION_3D_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WRESTLING_REVOLUTION_3D_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WRESTLING_REVOLUTION_3D_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WRESTLING_REVOLUTION_3D_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Create wrestlers and take part in wrestling matches and career modes.",
+      "tags": [
+        "Wrestling",
+        "Career",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Wrestling Empire",
+    "description": "Manage a wrestling career and compete in stylized wrestling action.",
+    "icon": "REPLACE_WITH_WRESTLING_EMPIRE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WRESTLING_EMPIRE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WRESTLING_EMPIRE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WRESTLING_EMPIRE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WRESTLING_EMPIRE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a wrestling career and compete in stylized wrestling action.",
+      "tags": [
+        "Wrestling",
+        "Career",
+        "Sports"
+      ]
+    }
+  },
+  {
+    "name": "Rowdy Wrestling",
+    "description": "Play quick, chaotic wrestling matches with simple controls.",
+    "icon": "REPLACE_WITH_ROWDY_WRESTLING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ROWDY_WRESTLING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ROWDY_WRESTLING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ROWDY_WRESTLING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ROWDY_WRESTLING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play quick, chaotic wrestling matches with simple controls.",
+      "tags": [
+        "Wrestling",
+        "Arcade",
+        "Casual"
+      ]
+    }
+  },
+  {
+    "name": "Flip Diving",
+    "description": "Perform diving tricks and land accurately in physics-based challenges.",
+    "icon": "REPLACE_WITH_FLIP_DIVING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FLIP_DIVING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FLIP_DIVING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FLIP_DIVING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FLIP_DIVING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Perform diving tricks and land accurately in physics-based challenges.",
+      "tags": [
+        "Sports",
+        "Physics",
+        "Casual"
+      ]
+    }
+  },
+  {
+    "name": "Karate Fighter: Kung Fu Fighting",
+    "description": "Use martial-arts moves and combos to win arcade-style fights.",
+    "icon": "REPLACE_WITH_KARATE_FIGHTER_KUNG_FU_FIGHTING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KARATE_FIGHTER_KUNG_FU_FIGHTING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KARATE_FIGHTER_KUNG_FU_FIGHTING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KARATE_FIGHTER_KUNG_FU_FIGHTING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KARATE_FIGHTER_KUNG_FU_FIGHTING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use martial-arts moves and combos to win arcade-style fights.",
+      "tags": [
+        "Martial Arts",
+        "Fighting",
+        "Arcade"
+      ]
+    }
+  },
+  {
+    "name": "Kung Fu Z",
+    "description": "Fight waves of monsters with martial-arts moves in a retro action game.",
+    "icon": "REPLACE_WITH_KUNG_FU_Z_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KUNG_FU_Z_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KUNG_FU_Z_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KUNG_FU_Z_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KUNG_FU_Z_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight waves of monsters with martial-arts moves in a retro action game.",
+      "tags": [
+        "Martial Arts",
+        "Action",
+        "Retro"
+      ]
+    }
+  },
+  {
+    "name": "Martial Arts Brutality",
+    "description": "Train a fighter and compete in timing-based martial-arts combat.",
+    "icon": "REPLACE_WITH_MARTIAL_ARTS_BRUTALITY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MARTIAL_ARTS_BRUTALITY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MARTIAL_ARTS_BRUTALITY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MARTIAL_ARTS_BRUTALITY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MARTIAL_ARTS_BRUTALITY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Train a fighter and compete in timing-based martial-arts combat.",
+      "tags": [
+        "Martial Arts",
+        "Fighting",
+        "Strategy"
+      ]
+    }
+  },
+  {
+    "name": "Taekwondo Game",
+    "description": "Compete in taekwondo matches using kicks, timing, and defensive moves.",
+    "icon": "REPLACE_WITH_TAEKWONDO_GAME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_TAEKWONDO_GAME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_TAEKWONDO_GAME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_TAEKWONDO_GAME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_TAEKWONDO_GAME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in taekwondo matches using kicks, timing, and defensive moves.",
+      "tags": [
+        "Martial Arts",
+        "Sports",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Karate Do: Ultimate Fighting Game",
+    "description": "Practice karate techniques and compete in skill-based fighting challenges.",
+    "icon": "REPLACE_WITH_KARATE_DO_ULTIMATE_FIGHTING_GAME_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KARATE_DO_ULTIMATE_FIGHTING_GAME_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KARATE_DO_ULTIMATE_FIGHTING_GAME_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KARATE_DO_ULTIMATE_FIGHTING_GAME_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KARATE_DO_ULTIMATE_FIGHTING_GAME_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Practice karate techniques and compete in skill-based fighting challenges.",
+      "tags": [
+        "Martial Arts",
+        "Sports",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Jade Empire: Special Edition",
+    "description": "Explore a martial-arts fantasy story with combat, characters, and quests.",
+    "icon": "REPLACE_WITH_JADE_EMPIRE_SPECIAL_EDITION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_JADE_EMPIRE_SPECIAL_EDITION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_JADE_EMPIRE_SPECIAL_EDITION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_JADE_EMPIRE_SPECIAL_EDITION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_JADE_EMPIRE_SPECIAL_EDITION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a martial-arts fantasy story with combat, characters, and quests.",
+      "tags": [
+        "RPG",
+        "Martial Arts",
+        "Fantasy"
+      ]
+    }
+  },
+  {
+    "name": "Way of the Dogg",
+    "description": "Follow rhythm-based combat encounters inspired by hip-hop music and style.",
+    "icon": "REPLACE_WITH_WAY_OF_THE_DOGG_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WAY_OF_THE_DOGG_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WAY_OF_THE_DOGG_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WAY_OF_THE_DOGG_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WAY_OF_THE_DOGG_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow rhythm-based combat encounters inspired by hip-hop music and style.",
+      "tags": [
+        "Rhythm",
+        "Fighting",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Fist: VR Kung Fu",
+    "description": "Explore martial-arts fighting on supported VR platforms.",
+    "icon": "REPLACE_WITH_DRAGON_FIST_VR_KUNG_FU_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DRAGON_FIST_VR_KUNG_FU_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DRAGON_FIST_VR_KUNG_FU_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DRAGON_FIST_VR_KUNG_FU_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DRAGON_FIST_VR_KUNG_FU_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore martial-arts fighting on supported VR platforms.",
+      "tags": [
+        "Martial Arts",
+        "VR",
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "name": "Sifu",
+    "description": "Master kung-fu combat, parries, and combos in a challenging action game on supported platforms.",
+    "icon": "REPLACE_WITH_SIFU_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SIFU_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SIFU_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SIFU_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SIFU_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Master kung-fu combat, parries, and combos in a challenging action game on supported platforms.",
+      "tags": [
+        "Martial Arts",
+        "Action",
+        "Combat"
+      ]
+    }
+  },
+  {
+    "name": "Absolver",
+    "description": "Learn fighting styles and face opponents in a martial-arts action game on supported platforms.",
+    "icon": "REPLACE_WITH_ABSOLVER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ABSOLVER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ABSOLVER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ABSOLVER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ABSOLVER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Learn fighting styles and face opponents in a martial-arts action game on supported platforms.",
+      "tags": [
+        "Martial Arts",
+        "Action",
+        "Combat"
+      ]
+    }
+  },
+  {
+    "name": "For Honor",
+    "description": "Fight as warriors from different factions using directional combat on supported platforms.",
+    "icon": "REPLACE_WITH_FOR_HONOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_FOR_HONOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_FOR_HONOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_FOR_HONOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_FOR_HONOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight as warriors from different factions using directional combat on supported platforms.",
+      "tags": [
+        "Fighting",
+        "Action",
+        "Warriors"
+      ]
+    }
+  },
+  {
+    "name": "Chivalry 2",
+    "description": "Join large medieval battles using melee weapons on supported platforms.",
+    "icon": "REPLACE_WITH_CHIVALRY_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CHIVALRY_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CHIVALRY_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CHIVALRY_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CHIVALRY_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Join large medieval battles using melee weapons on supported platforms.",
+      "tags": [
+        "Melee",
+        "Medieval",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Mordhau",
+    "description": "Fight in skill-based medieval melee combat on supported platforms.",
+    "icon": "REPLACE_WITH_MORDHAU_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MORDHAU_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MORDHAU_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MORDHAU_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MORDHAU_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight in skill-based medieval melee combat on supported platforms.",
+      "tags": [
+        "Melee",
+        "Medieval",
+        "Competitive"
+      ]
+    }
+  },
+  {
+    "name": "Gang Beasts",
+    "description": "Play silly physics-based brawler matches with friends on supported platforms.",
+    "icon": "REPLACE_WITH_GANG_BEASTS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_GANG_BEASTS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_GANG_BEASTS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_GANG_BEASTS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_GANG_BEASTS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play silly physics-based brawler matches with friends on supported platforms.",
+      "tags": [
+        "Brawler",
+        "Physics",
+        "Party"
+      ]
+    }
+  },
+  {
+    "name": "Party Animals",
+    "description": "Compete in physics-based party brawls with playful characters on supported platforms.",
+    "icon": "REPLACE_WITH_PARTY_ANIMALS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PARTY_ANIMALS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PARTY_ANIMALS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PARTY_ANIMALS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PARTY_ANIMALS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Compete in physics-based party brawls with playful characters on supported platforms.",
+      "tags": [
+        "Brawler",
+        "Party",
+        "Multiplayer"
+      ]
+    }
+  },
+  {
+    "name": "Nidhogg",
+    "description": "Duel in fast-paced fencing matches where positioning and timing are key.",
+    "icon": "REPLACE_WITH_NIDHOGG_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NIDHOGG_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NIDHOGG_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NIDHOGG_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NIDHOGG_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Duel in fast-paced fencing matches where positioning and timing are key.",
+      "tags": [
+        "Fighting",
+        "Fencing",
+        "Competitive"
+      ]
+    }
+  }
+]

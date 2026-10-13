@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Dead Trigger 2",
+    "description": "Fight zombie hordes, complete survival missions, and upgrade weapons in a post-apocalyptic world.",
+    "icon": "REPLACE_WITH_DEAD_TRIGGER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TRIGGER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight zombie hordes, complete survival missions, and upgrade weapons in a post-apocalyptic world.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Unkilled",
+    "description": "Take on dangerous undead enemies in story missions and action-packed first-person combat.",
+    "icon": "REPLACE_WITH_UNKILLED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_UNKILLED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_UNKILLED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Take on dangerous undead enemies in story missions and action-packed first-person combat.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Campaign"
+      ]
+    }
+  },
+  {
+    "name": "Into the Dead",
+    "description": "Run through dangerous environments, avoid undead threats, and survive as long as possible.",
+    "icon": "REPLACE_WITH_INTO_THE_DEAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_DEAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Run through dangerous environments, avoid undead threats, and survive as long as possible.",
+      "tags": [
+        "Zombie",
+        "Survival",
+        "Runner"
+      ]
+    }
+  },
+  {
+    "name": "Into the Dead 2",
+    "description": "Follow a story-driven survival journey, make choices, and face zombie-filled locations.",
+    "icon": "REPLACE_WITH_INTO_THE_DEAD_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_DEAD_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a story-driven survival journey, make choices, and face zombie-filled locations.",
+      "tags": [
+        "Zombie",
+        "Story",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Dead Target",
+    "description": "Defend yourself against waves of zombies in first-person shooting missions.",
+    "icon": "REPLACE_WITH_DEAD_TARGET_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TARGET_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TARGET_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend yourself against waves of zombies in first-person shooting missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Dead Warfare: Zombie Shooting",
+    "description": "Fight undead enemies, collect equipment, and complete survival missions.",
+    "icon": "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_WARFARE_ZOMBIE_SHOOTING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight undead enemies, collect equipment, and complete survival missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Frontier 3",
+    "description": "Complete shooting missions and battle undead enemies across different locations.",
+    "icon": "REPLACE_WITH_ZOMBIE_FRONTIER_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_FRONTIER_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete shooting missions and battle undead enemies across different locations.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Missions"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Frontier 4",
+    "description": "Face dangerous zombie encounters, improve weapons, and progress through missions.",
+    "icon": "REPLACE_WITH_ZOMBIE_FRONTIER_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_FRONTIER_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Face dangerous zombie encounters, improve weapons, and progress through missions.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "The Walking Zombie 2",
+    "description": "Explore a post-apocalyptic world, complete quests, and fight zombies in FPS combat.",
+    "icon": "REPLACE_WITH_THE_WALKING_ZOMBIE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WALKING_ZOMBIE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WALKING_ZOMBIE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a post-apocalyptic world, complete quests, and fight zombies in FPS combat.",
+      "tags": [
+        "Zombie",
+        "FPS",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Gunship Survival",
+    "description": "Defend survivors from zombie hordes using aerial support and tactical upgrades.",
+    "icon": "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_GUNSHIP_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend survivors from zombie hordes using aerial support and tactical upgrades.",
+      "tags": [
+        "Zombie",
+        "Strategy",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Last Hope Sniper",
+    "description": "Complete sniper missions and protect survivors in a world threatened by zombies.",
+    "icon": "REPLACE_WITH_LAST_HOPE_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LAST_HOPE_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LAST_HOPE_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete sniper missions and protect survivors in a world threatened by zombies.",
+      "tags": [
+        "Zombie",
+        "Sniper",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Plants vs. Zombies",
+    "description": "Defend your garden from silly zombie waves using strategic plant placement.",
+    "icon": "REPLACE_WITH_PLANTS_VS_ZOMBIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PLANTS_VS_ZOMBIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend your garden from silly zombie waves using strategic plant placement.",
+      "tags": [
+        "Tower Defense",
+        "Strategy",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Plants vs. Zombies 2",
+    "description": "Collect plants, build defenses, and battle zombie waves across themed worlds.",
+    "icon": "REPLACE_WITH_PLANTS_VS_ZOMBIES_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PLANTS_VS_ZOMBIES_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect plants, build defenses, and battle zombie waves across themed worlds.",
+      "tags": [
+        "Tower Defense",
+        "Strategy",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Plants vs. Zombies Heroes",
+    "description": "Collect plant and zombie heroes, build decks, and compete in strategic card battles.",
+    "icon": "REPLACE_WITH_PLANTS_VS_ZOMBIES_HEROES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PLANTS_VS_ZOMBIES_HEROES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_HEROES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_HEROES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PLANTS_VS_ZOMBIES_HEROES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect plant and zombie heroes, build decks, and compete in strategic card battles.",
+      "tags": [
+        "Cards",
+        "Strategy",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Tsunami",
+    "description": "Control a growing zombie crowd, avoid obstacles, and collect bonuses in an endless runner.",
+    "icon": "REPLACE_WITH_ZOMBIE_TSUNAMI_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_TSUNAMI_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_TSUNAMI_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_TSUNAMI_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_TSUNAMI_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Control a growing zombie crowd, avoid obstacles, and collect bonuses in an endless runner.",
+      "tags": [
+        "Runner",
+        "Arcade",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Earn to Die",
+    "description": "Drive through zombie-infested routes, upgrade vehicles, and try to reach safety.",
+    "icon": "REPLACE_WITH_EARN_TO_DIE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EARN_TO_DIE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EARN_TO_DIE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EARN_TO_DIE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EARN_TO_DIE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive through zombie-infested routes, upgrade vehicles, and try to reach safety.",
+      "tags": [
+        "Driving",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Earn to Die 2",
+    "description": "Upgrade vehicles and travel through zombie-filled levels in a driving action adventure.",
+    "icon": "REPLACE_WITH_EARN_TO_DIE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_EARN_TO_DIE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_EARN_TO_DIE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_EARN_TO_DIE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_EARN_TO_DIE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Upgrade vehicles and travel through zombie-filled levels in a driving action adventure.",
+      "tags": [
+        "Driving",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Catchers",
+    "description": "Catch zombies, explore locations, and build a quirky business in a cartoon world.",
+    "icon": "REPLACE_WITH_ZOMBIE_CATCHERS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_CATCHERS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_CATCHERS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_CATCHERS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_CATCHERS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Catch zombies, explore locations, and build a quirky business in a cartoon world.",
+      "tags": [
+        "Arcade",
+        "Adventure",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Roadkill 3D",
+    "description": "Drive and shoot through dangerous roads while trying to survive zombie attacks.",
+    "icon": "REPLACE_WITH_ZOMBIE_ROADKILL_3D_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_ROADKILL_3D_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_ROADKILL_3D_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_ROADKILL_3D_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_ROADKILL_3D_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Drive and shoot through dangerous roads while trying to survive zombie attacks.",
+      "tags": [
+        "Driving",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Age 2",
+    "description": "Fight cartoon zombies through side-scrolling action stages.",
+    "icon": "REPLACE_WITH_ZOMBIE_AGE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_AGE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_AGE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_AGE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_AGE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight cartoon zombies through side-scrolling action stages.",
+      "tags": [
+        "Action",
+        "Side-scroller",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Age 3",
+    "description": "Choose characters and weapons to battle undead enemies in arcade-style levels.",
+    "icon": "REPLACE_WITH_ZOMBIE_AGE_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_AGE_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_AGE_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_AGE_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_AGE_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Choose characters and weapons to battle undead enemies in arcade-style levels.",
+      "tags": [
+        "Action",
+        "Side-scroller",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Diary",
+    "description": "Survive action-packed levels by fighting waves of zombies with different weapons.",
+    "icon": "REPLACE_WITH_ZOMBIE_DIARY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_DIARY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_DIARY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_DIARY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_DIARY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Survive action-packed levels by fighting waves of zombies with different weapons.",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Diary 2: Evolution",
+    "description": "Upgrade weapons and fight undead enemies across challenging action stages.",
+    "icon": "REPLACE_WITH_ZOMBIE_DIARY_2_EVOLUTION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_DIARY_2_EVOLUTION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_DIARY_2_EVOLUTION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_DIARY_2_EVOLUTION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_DIARY_2_EVOLUTION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Upgrade weapons and fight undead enemies across challenging action stages.",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Dead Effect 2",
+    "description": "Explore a sci-fi facility, upgrade equipment, and fight hostile creatures.",
+    "icon": "REPLACE_WITH_DEAD_EFFECT_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_EFFECT_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_EFFECT_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a sci-fi facility, upgrade equipment, and fight hostile creatures.",
+      "tags": [
+        "Sci-Fi",
+        "FPS",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Dead Effect",
+    "description": "Fight creatures aboard a space vessel in a science-fiction first-person shooter.",
+    "icon": "REPLACE_WITH_DEAD_EFFECT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_EFFECT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_EFFECT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_EFFECT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_EFFECT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight creatures aboard a space vessel in a science-fiction first-person shooter.",
+      "tags": [
+        "Sci-Fi",
+        "FPS",
+        "Horror"
+      ]
+    }
+  },
+  {
+    "name": "Dawn of Zombies: Survival",
+    "description": "Gather resources, craft equipment, and explore a dangerous post-apocalyptic world.",
+    "icon": "REPLACE_WITH_DAWN_OF_ZOMBIES_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DAWN_OF_ZOMBIES_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DAWN_OF_ZOMBIES_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DAWN_OF_ZOMBIES_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DAWN_OF_ZOMBIES_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Gather resources, craft equipment, and explore a dangerous post-apocalyptic world.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Open World"
+      ]
+    }
+  },
+  {
+    "name": "Last Day on Earth: Survival",
+    "description": "Build a shelter, collect resources, and survive threats in a post-apocalyptic setting.",
+    "icon": "REPLACE_WITH_LAST_DAY_ON_EARTH_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LAST_DAY_ON_EARTH_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LAST_DAY_ON_EARTH_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LAST_DAY_ON_EARTH_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LAST_DAY_ON_EARTH_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a shelter, collect resources, and survive threats in a post-apocalyptic setting.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Open World"
+      ]
+    }
+  },
+  {
+    "name": "State of Survival",
+    "description": "Build a settlement, gather survivors, and defend against zombie threats.",
+    "icon": "REPLACE_WITH_STATE_OF_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_STATE_OF_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_STATE_OF_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_STATE_OF_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_STATE_OF_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a settlement, gather survivors, and defend against zombie threats.",
+      "tags": [
+        "Strategy",
+        "Base Building",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "The Walking Dead: Survivors",
+    "description": "Build defenses, recruit characters, and manage survival in a zombie-threatened world.",
+    "icon": "REPLACE_WITH_THE_WALKING_DEAD_SURVIVORS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WALKING_DEAD_SURVIVORS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WALKING_DEAD_SURVIVORS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD_SURVIVORS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD_SURVIVORS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build defenses, recruit characters, and manage survival in a zombie-threatened world.",
+      "tags": [
+        "Strategy",
+        "Base Building",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "The Walking Dead: No Man's Land",
+    "description": "Assemble a team, plan tactical turns, and survive encounters with walkers.",
+    "icon": "REPLACE_WITH_THE_WALKING_DEAD_NO_MAN_S_LAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WALKING_DEAD_NO_MAN_S_LAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WALKING_DEAD_NO_MAN_S_LAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD_NO_MAN_S_LAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WALKING_DEAD_NO_MAN_S_LAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Assemble a team, plan tactical turns, and survive encounters with walkers.",
+      "tags": [
+        "Turn-based",
+        "Strategy",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Into the Dead: Our Darkest Days",
+    "description": "Experience a survival story focused on navigating dangerous zombie-infested environments.",
+    "icon": "REPLACE_WITH_INTO_THE_DEAD_OUR_DARKEST_DAYS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INTO_THE_DEAD_OUR_DARKEST_DAYS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INTO_THE_DEAD_OUR_DARKEST_DAYS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_OUR_DARKEST_DAYS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INTO_THE_DEAD_OUR_DARKEST_DAYS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience a survival story focused on navigating dangerous zombie-infested environments.",
+      "tags": [
+        "Survival",
+        "Story",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Days After: Survival Games",
+    "description": "Collect supplies, craft items, and survive in a hostile post-apocalyptic environment.",
+    "icon": "REPLACE_WITH_DAYS_AFTER_SURVIVAL_GAMES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DAYS_AFTER_SURVIVAL_GAMES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DAYS_AFTER_SURVIVAL_GAMES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DAYS_AFTER_SURVIVAL_GAMES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DAYS_AFTER_SURVIVAL_GAMES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect supplies, craft items, and survive in a hostile post-apocalyptic environment.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Prey Day: Survival",
+    "description": "Explore a ruined city, gather resources, and work to survive undead threats.",
+    "icon": "REPLACE_WITH_PREY_DAY_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PREY_DAY_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PREY_DAY_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PREY_DAY_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PREY_DAY_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a ruined city, gather resources, and work to survive undead threats.",
+      "tags": [
+        "Survival",
+        "Open World",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday: Last Survivors",
+    "description": "Build a shelter, command survivors, and defend against undead attacks.",
+    "icon": "REPLACE_WITH_DOOMSDAY_LAST_SURVIVORS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DOOMSDAY_LAST_SURVIVORS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DOOMSDAY_LAST_SURVIVORS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DOOMSDAY_LAST_SURVIVORS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DOOMSDAY_LAST_SURVIVORS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a shelter, command survivors, and defend against undead attacks.",
+      "tags": [
+        "Strategy",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Last Shelter: Survival",
+    "description": "Expand a shelter, manage resources, and protect survivors from zombie hordes.",
+    "icon": "REPLACE_WITH_LAST_SHELTER_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LAST_SHELTER_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LAST_SHELTER_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LAST_SHELTER_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LAST_SHELTER_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Expand a shelter, manage resources, and protect survivors from zombie hordes.",
+      "tags": [
+        "Strategy",
+        "Base Building",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie State: Rogue-like FPS",
+    "description": "Fight through zombie encounters, collect upgrades, and progress through roguelike stages.",
+    "icon": "REPLACE_WITH_ZOMBIE_STATE_ROGUE_LIKE_FPS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_STATE_ROGUE_LIKE_FPS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_STATE_ROGUE_LIKE_FPS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_STATE_ROGUE_LIKE_FPS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_STATE_ROGUE_LIKE_FPS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight through zombie encounters, collect upgrades, and progress through roguelike stages.",
+      "tags": [
+        "FPS",
+        "Roguelike",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Dead Trigger",
+    "description": "Take on undead waves in first-person survival missions and upgrade your arsenal.",
+    "icon": "REPLACE_WITH_DEAD_TRIGGER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_TRIGGER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_TRIGGER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Take on undead waves in first-person survival missions and upgrade your arsenal.",
+      "tags": [
+        "FPS",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Hunter: Offline Games",
+    "description": "Complete offline shooting missions against zombies and improve your equipment.",
+    "icon": "REPLACE_WITH_ZOMBIE_HUNTER_OFFLINE_GAMES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_HUNTER_OFFLINE_GAMES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_HUNTER_OFFLINE_GAMES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_OFFLINE_GAMES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_OFFLINE_GAMES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete offline shooting missions against zombies and improve your equipment.",
+      "tags": [
+        "FPS",
+        "Offline",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Hunter D-Day",
+    "description": "Survive intense first-person encounters with zombies in a ruined world.",
+    "icon": "REPLACE_WITH_ZOMBIE_HUNTER_D_DAY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_HUNTER_D_DAY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_HUNTER_D_DAY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_D_DAY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_D_DAY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Survive intense first-person encounters with zombies in a ruined world.",
+      "tags": [
+        "FPS",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Hunter: Sniper",
+    "description": "Use precision shooting to complete missions in zombie-threatened locations.",
+    "icon": "REPLACE_WITH_ZOMBIE_HUNTER_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_HUNTER_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_HUNTER_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Use precision shooting to complete missions in zombie-threatened locations.",
+      "tags": [
+        "Sniper",
+        "FPS",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Evil",
+    "description": "Fight waves of zombies in an arcade shooter with weapon upgrades.",
+    "icon": "REPLACE_WITH_ZOMBIE_EVIL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_EVIL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_EVIL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_EVIL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_EVIL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight waves of zombies in an arcade shooter with weapon upgrades.",
+      "tags": [
+        "Arcade",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Evil 2",
+    "description": "Defend against undead enemies through action levels and equipment upgrades.",
+    "icon": "REPLACE_WITH_ZOMBIE_EVIL_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_EVIL_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_EVIL_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_EVIL_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_EVIL_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend against undead enemies through action levels and equipment upgrades.",
+      "tags": [
+        "Arcade",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Smasher",
+    "description": "Tap to stop approaching zombies and protect the people in simple arcade rounds.",
+    "icon": "REPLACE_WITH_ZOMBIE_SMASHER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_SMASHER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_SMASHER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_SMASHER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_SMASHER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Tap to stop approaching zombies and protect the people in simple arcade rounds.",
+      "tags": [
+        "Arcade",
+        "Casual",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "SAS: Zombie Assault 4",
+    "description": "Choose a class, upgrade gear, and fight zombie hordes in top-down missions.",
+    "icon": "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Choose a class, upgrade gear, and fight zombie hordes in top-down missions.",
+      "tags": [
+        "Top-down",
+        "Co-op",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "SAS: Zombie Assault 3",
+    "description": "Complete top-down missions and survive waves of zombies with different weapons.",
+    "icon": "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_3_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_3_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_3_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_3_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SAS_ZOMBIE_ASSAULT_3_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete top-down missions and survive waves of zombies with different weapons.",
+      "tags": [
+        "Top-down",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombieville USA 2",
+    "description": "Defend yourself from zombie waves in a side-scrolling action shooter.",
+    "icon": "REPLACE_WITH_ZOMBIEVILLE_USA_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIEVILLE_USA_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIEVILLE_USA_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIEVILLE_USA_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIEVILLE_USA_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend yourself from zombie waves in a side-scrolling action shooter.",
+      "tags": [
+        "Side-scroller",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Infectonator",
+    "description": "Spread a zombie outbreak through strategic choices in a pixel-art simulation.",
+    "icon": "REPLACE_WITH_INFECTONATOR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INFECTONATOR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INFECTONATOR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INFECTONATOR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INFECTONATOR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Spread a zombie outbreak through strategic choices in a pixel-art simulation.",
+      "tags": [
+        "Strategy",
+        "Simulation",
+        "Pixel Art"
+      ]
+    }
+  },
+  {
+    "name": "Infectonator 2",
+    "description": "Create and manage a fictional zombie outbreak through upgrades and strategic play.",
+    "icon": "REPLACE_WITH_INFECTONATOR_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INFECTONATOR_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INFECTONATOR_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INFECTONATOR_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INFECTONATOR_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Create and manage a fictional zombie outbreak through upgrades and strategic play.",
+      "tags": [
+        "Strategy",
+        "Simulation",
+        "Pixel Art"
+      ]
+    }
+  },
+  {
+    "name": "Rebuild",
+    "description": "Manage survivors, secure buildings, and make strategic choices during a zombie apocalypse.",
+    "icon": "REPLACE_WITH_REBUILD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REBUILD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REBUILD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REBUILD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REBUILD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage survivors, secure buildings, and make strategic choices during a zombie apocalypse.",
+      "tags": [
+        "Strategy",
+        "Survival",
+        "Management"
+      ]
+    }
+  },
+  {
+    "name": "Rebuild 3: Gangs of Deadsville",
+    "description": "Lead survivors, manage a settlement, and make difficult strategic decisions.",
+    "icon": "REPLACE_WITH_REBUILD_3_GANGS_OF_DEADSVILLE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_REBUILD_3_GANGS_OF_DEADSVILLE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_REBUILD_3_GANGS_OF_DEADSVILLE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_REBUILD_3_GANGS_OF_DEADSVILLE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_REBUILD_3_GANGS_OF_DEADSVILLE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Lead survivors, manage a settlement, and make difficult strategic decisions.",
+      "tags": [
+        "Strategy",
+        "Management",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "They Are Coming",
+    "description": "Defend against incoming zombie waves using weapons and tactical positioning.",
+    "icon": "REPLACE_WITH_THEY_ARE_COMING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THEY_ARE_COMING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THEY_ARE_COMING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THEY_ARE_COMING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THEY_ARE_COMING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend against incoming zombie waves using weapons and tactical positioning.",
+      "tags": [
+        "Action",
+        "Defense",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Dead Ahead: Zombie Warfare",
+    "description": "Deploy survivors, build defenses, and battle zombies in side-scrolling strategy encounters.",
+    "icon": "REPLACE_WITH_DEAD_AHEAD_ZOMBIE_WARFARE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_AHEAD_ZOMBIE_WARFARE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_AHEAD_ZOMBIE_WARFARE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_AHEAD_ZOMBIE_WARFARE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_AHEAD_ZOMBIE_WARFARE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Deploy survivors, build defenses, and battle zombies in side-scrolling strategy encounters.",
+      "tags": [
+        "Strategy",
+        "Defense",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Dead Ahead",
+    "description": "Ride through zombie-filled streets and avoid obstacles in a pixel-art action game.",
+    "icon": "REPLACE_WITH_DEAD_AHEAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_AHEAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_AHEAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_AHEAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_AHEAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Ride through zombie-filled streets and avoid obstacles in a pixel-art action game.",
+      "tags": [
+        "Pixel Art",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "The Last Stand: Aftermath",
+    "description": "Explore a dangerous world, gather supplies, and face survival challenges.",
+    "icon": "REPLACE_WITH_THE_LAST_STAND_AFTERMATH_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_LAST_STAND_AFTERMATH_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_LAST_STAND_AFTERMATH_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_LAST_STAND_AFTERMATH_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_LAST_STAND_AFTERMATH_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a dangerous world, gather supplies, and face survival challenges.",
+      "tags": [
+        "Survival",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Mini DAYZ 2",
+    "description": "Scavenge for supplies, manage survival needs, and explore a post-apocalyptic world.",
+    "icon": "REPLACE_WITH_MINI_DAYZ_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MINI_DAYZ_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MINI_DAYZ_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MINI_DAYZ_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MINI_DAYZ_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Scavenge for supplies, manage survival needs, and explore a post-apocalyptic world.",
+      "tags": [
+        "Survival",
+        "Pixel Art",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Mini DAYZ: Zombie Survival",
+    "description": "Explore a pixel-art wilderness, collect resources, and survive undead threats.",
+    "icon": "REPLACE_WITH_MINI_DAYZ_ZOMBIE_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_MINI_DAYZ_ZOMBIE_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_MINI_DAYZ_ZOMBIE_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_MINI_DAYZ_ZOMBIE_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_MINI_DAYZ_ZOMBIE_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a pixel-art wilderness, collect resources, and survive undead threats.",
+      "tags": [
+        "Survival",
+        "Pixel Art",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Survivalist: invasion",
+    "description": "Explore hostile locations, collect supplies, and complete survival missions.",
+    "icon": "REPLACE_WITH_SURVIVALIST_INVASION_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SURVIVALIST_INVASION_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SURVIVALIST_INVASION_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SURVIVALIST_INVASION_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SURVIVALIST_INVASION_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore hostile locations, collect supplies, and complete survival missions.",
+      "tags": [
+        "Survival",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombeast: Zombie Shooter",
+    "description": "Fight waves of zombies in first-person missions with weapon upgrades.",
+    "icon": "REPLACE_WITH_ZOMBEAST_ZOMBIE_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBEAST_ZOMBIE_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBEAST_ZOMBIE_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBEAST_ZOMBIE_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBEAST_ZOMBIE_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight waves of zombies in first-person missions with weapon upgrades.",
+      "tags": [
+        "FPS",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Hunter: Survival",
+    "description": "Complete shooting missions and defend yourself against undead enemies.",
+    "icon": "REPLACE_WITH_ZOMBIE_HUNTER_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_HUNTER_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_HUNTER_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_HUNTER_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete shooting missions and defend yourself against undead enemies.",
+      "tags": [
+        "FPS",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Frontier: Sniper",
+    "description": "Complete long-range shooting challenges in zombie-infested areas.",
+    "icon": "REPLACE_WITH_ZOMBIE_FRONTIER_SNIPER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_FRONTIER_SNIPER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_FRONTIER_SNIPER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_SNIPER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_FRONTIER_SNIPER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Complete long-range shooting challenges in zombie-infested areas.",
+      "tags": [
+        "Sniper",
+        "FPS",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Shooter",
+    "description": "Explore dangerous locations and fight waves of zombies in an action shooter.",
+    "icon": "REPLACE_WITH_ZOMBIE_SHOOTER_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_SHOOTER_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_SHOOTER_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_SHOOTER_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_SHOOTER_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore dangerous locations and fight waves of zombies in an action shooter.",
+      "tags": [
+        "Top-down",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Shooter 2",
+    "description": "Fight stronger undead enemies and explore mission-based shooter levels.",
+    "icon": "REPLACE_WITH_ZOMBIE_SHOOTER_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_SHOOTER_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_SHOOTER_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_SHOOTER_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_SHOOTER_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight stronger undead enemies and explore mission-based shooter levels.",
+      "tags": [
+        "Top-down",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Killing Floor: Calamity",
+    "description": "Survive arcade-style waves of hostile creatures in an action shooter.",
+    "icon": "REPLACE_WITH_KILLING_FLOOR_CALAMITY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_KILLING_FLOOR_CALAMITY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_KILLING_FLOOR_CALAMITY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_KILLING_FLOOR_CALAMITY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_KILLING_FLOOR_CALAMITY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Survive arcade-style waves of hostile creatures in an action shooter.",
+      "tags": [
+        "Shooter",
+        "Arcade",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Unturned",
+    "description": "Gather resources, craft gear, and survive in a block-style zombie world.",
+    "icon": "REPLACE_WITH_UNTURNED_ICON_URL",
+    "normalUrl": "REPLACE_WITH_UNTURNED_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_UNTURNED_SCREENSHOT_1_URL",
+      "REPLACE_WITH_UNTURNED_SCREENSHOT_2_URL",
+      "REPLACE_WITH_UNTURNED_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Gather resources, craft gear, and survive in a block-style zombie world.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "No Way To Die: Survival",
+    "description": "Collect resources, craft equipment, and survive hostile encounters.",
+    "icon": "REPLACE_WITH_NO_WAY_TO_DIE_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NO_WAY_TO_DIE_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NO_WAY_TO_DIE_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NO_WAY_TO_DIE_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NO_WAY_TO_DIE_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Collect resources, craft equipment, and survive hostile encounters.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Action"
+      ]
+    }
+  },
+  {
+    "name": "Delivery From the Pain",
+    "description": "Explore a post-apocalyptic city, manage resources, and make survival decisions.",
+    "icon": "REPLACE_WITH_DELIVERY_FROM_THE_PAIN_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DELIVERY_FROM_THE_PAIN_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DELIVERY_FROM_THE_PAIN_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DELIVERY_FROM_THE_PAIN_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DELIVERY_FROM_THE_PAIN_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a post-apocalyptic city, manage resources, and make survival decisions.",
+      "tags": [
+        "Survival",
+        "Stealth",
+        "Story"
+      ]
+    }
+  },
+  {
+    "name": "The Bonfire: Forsaken Lands",
+    "description": "Build and manage a settlement while defending against nighttime threats.",
+    "icon": "REPLACE_WITH_THE_BONFIRE_FORSAKEN_LANDS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_BONFIRE_FORSAKEN_LANDS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_BONFIRE_FORSAKEN_LANDS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_BONFIRE_FORSAKEN_LANDS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_BONFIRE_FORSAKEN_LANDS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build and manage a settlement while defending against nighttime threats.",
+      "tags": [
+        "Strategy",
+        "Survival",
+        "Base Building"
+      ]
+    }
+  },
+  {
+    "name": "The Bonfire 2: Uncharted Shores",
+    "description": "Develop a settlement, explore nearby lands, and manage threats and resources.",
+    "icon": "REPLACE_WITH_THE_BONFIRE_2_UNCHARTED_SHORES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_BONFIRE_2_UNCHARTED_SHORES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_BONFIRE_2_UNCHARTED_SHORES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_BONFIRE_2_UNCHARTED_SHORES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_BONFIRE_2_UNCHARTED_SHORES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Develop a settlement, explore nearby lands, and manage threats and resources.",
+      "tags": [
+        "Strategy",
+        "Management",
+        "Exploration"
+      ]
+    }
+  },
+  {
+    "name": "Dysmantle",
+    "description": "Explore a ruined world, gather materials, craft equipment, and uncover secrets.",
+    "icon": "REPLACE_WITH_DYSMANTLE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DYSMANTLE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DYSMANTLE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DYSMANTLE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DYSMANTLE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a ruined world, gather materials, craft equipment, and uncover secrets.",
+      "tags": [
+        "Open World",
+        "Crafting",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "ATOM RPG",
+    "description": "Explore a post-apocalyptic setting, complete quests, and make role-playing choices.",
+    "icon": "REPLACE_WITH_ATOM_RPG_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ATOM_RPG_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ATOM_RPG_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ATOM_RPG_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ATOM_RPG_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a post-apocalyptic setting, complete quests, and make role-playing choices.",
+      "tags": [
+        "RPG",
+        "Story",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Day R Survival",
+    "description": "Travel through a dangerous post-apocalyptic world while managing resources and crafting.",
+    "icon": "REPLACE_WITH_DAY_R_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DAY_R_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DAY_R_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DAY_R_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DAY_R_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Travel through a dangerous post-apocalyptic world while managing resources and crafting.",
+      "tags": [
+        "Survival",
+        "RPG",
+        "Crafting"
+      ]
+    }
+  },
+  {
+    "name": "Nuclear Day Survival",
+    "description": "Explore a devastated world, search for supplies, and complete survival objectives.",
+    "icon": "REPLACE_WITH_NUCLEAR_DAY_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_NUCLEAR_DAY_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_NUCLEAR_DAY_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_NUCLEAR_DAY_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_NUCLEAR_DAY_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a devastated world, search for supplies, and complete survival objectives.",
+      "tags": [
+        "Survival",
+        "Exploration",
+        "Crafting"
+      ]
+    }
+  },
+  {
+    "name": "Radiation Island",
+    "description": "Explore a mysterious island, craft tools, and survive environmental dangers.",
+    "icon": "REPLACE_WITH_RADIATION_ISLAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RADIATION_ISLAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RADIATION_ISLAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RADIATION_ISLAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RADIATION_ISLAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious island, craft tools, and survive environmental dangers.",
+      "tags": [
+        "Survival",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Radiation City",
+    "description": "Explore an abandoned city, collect supplies, and survive hostile threats.",
+    "icon": "REPLACE_WITH_RADIATION_CITY_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RADIATION_CITY_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RADIATION_CITY_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RADIATION_CITY_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RADIATION_CITY_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore an abandoned city, collect supplies, and survive hostile threats.",
+      "tags": [
+        "Survival",
+        "Exploration",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Survival Island: EVO",
+    "description": "Gather resources, craft equipment, and build shelter on an isolated island.",
+    "icon": "REPLACE_WITH_SURVIVAL_ISLAND_EVO_ICON_URL",
+    "normalUrl": "REPLACE_WITH_SURVIVAL_ISLAND_EVO_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_SURVIVAL_ISLAND_EVO_SCREENSHOT_1_URL",
+      "REPLACE_WITH_SURVIVAL_ISLAND_EVO_SCREENSHOT_2_URL",
+      "REPLACE_WITH_SURVIVAL_ISLAND_EVO_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Gather resources, craft equipment, and build shelter on an isolated island.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Open World"
+      ]
+    }
+  },
+  {
+    "name": "Westland Survival",
+    "description": "Explore a western frontier, craft gear, and build a settlement while surviving threats.",
+    "icon": "REPLACE_WITH_WESTLAND_SURVIVAL_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WESTLAND_SURVIVAL_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WESTLAND_SURVIVAL_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WESTLAND_SURVIVAL_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WESTLAND_SURVIVAL_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a western frontier, craft gear, and build a settlement while surviving threats.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Open World"
+      ]
+    }
+  },
+  {
+    "name": "The Wild Darkness",
+    "description": "Explore a mysterious wilderness, craft items, and survive through changing conditions.",
+    "icon": "REPLACE_WITH_THE_WILD_DARKNESS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_WILD_DARKNESS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_WILD_DARKNESS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_WILD_DARKNESS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_WILD_DARKNESS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious wilderness, craft items, and survive through changing conditions.",
+      "tags": [
+        "Survival",
+        "Roguelike",
+        "Crafting"
+      ]
+    }
+  },
+  {
+    "name": "Cataclysm: Dark Days Ahead",
+    "description": "Explore a detailed survival world, scavenge supplies, and plan carefully to stay alive.",
+    "icon": "REPLACE_WITH_CATACLYSM_DARK_DAYS_AHEAD_ICON_URL",
+    "normalUrl": "REPLACE_WITH_CATACLYSM_DARK_DAYS_AHEAD_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_CATACLYSM_DARK_DAYS_AHEAD_SCREENSHOT_1_URL",
+      "REPLACE_WITH_CATACLYSM_DARK_DAYS_AHEAD_SCREENSHOT_2_URL",
+      "REPLACE_WITH_CATACLYSM_DARK_DAYS_AHEAD_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a detailed survival world, scavenge supplies, and plan carefully to stay alive.",
+      "tags": [
+        "Survival",
+        "Sandbox",
+        "Roguelike"
+      ]
+    }
+  },
+  {
+    "name": "Death Road to Canada",
+    "description": "Lead a group through a procedurally varied journey with action and survival choices.",
+    "icon": "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEATH_ROAD_TO_CANADA_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Lead a group through a procedurally varied journey with action and survival choices.",
+      "tags": [
+        "Roguelike",
+        "Survival",
+        "Pixel Art"
+      ]
+    }
+  },
+  {
+    "name": "Bury Me, My Love",
+    "description": "Follow a text-driven story about a journey through a crisis, with meaningful choices.",
+    "icon": "REPLACE_WITH_BURY_ME_MY_LOVE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_BURY_ME_MY_LOVE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_BURY_ME_MY_LOVE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_BURY_ME_MY_LOVE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_BURY_ME_MY_LOVE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a text-driven story about a journey through a crisis, with meaningful choices.",
+      "tags": [
+        "Story",
+        "Choices",
+        "Narrative"
+      ]
+    }
+  },
+  {
+    "name": "Death Road to Canada: Zombie Mode",
+    "description": "Navigate a dangerous journey, gather supplies, and face undead encounters in a retro style.",
+    "icon": "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ZOMBIE_MODE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ZOMBIE_MODE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ZOMBIE_MODE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ZOMBIE_MODE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEATH_ROAD_TO_CANADA_ZOMBIE_MODE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Navigate a dangerous journey, gather supplies, and face undead encounters in a retro style.",
+      "tags": [
+        "Roguelike",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Night Terror",
+    "description": "Control a zombie horde through puzzle-like levels in a strategy game.",
+    "icon": "REPLACE_WITH_ZOMBIE_NIGHT_TERROR_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_NIGHT_TERROR_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_NIGHT_TERROR_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_NIGHT_TERROR_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_NIGHT_TERROR_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Control a zombie horde through puzzle-like levels in a strategy game.",
+      "tags": [
+        "Strategy",
+        "Puzzle",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Infectonator: Survivors",
+    "description": "Manage a team, scavenge supplies, and try to survive a zombie outbreak.",
+    "icon": "REPLACE_WITH_INFECTONATOR_SURVIVORS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_INFECTONATOR_SURVIVORS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_INFECTONATOR_SURVIVORS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_INFECTONATOR_SURVIVORS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_INFECTONATOR_SURVIVORS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage a team, scavenge supplies, and try to survive a zombie outbreak.",
+      "tags": [
+        "Strategy",
+        "Survival",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "The Escapists: Prison Escape",
+    "description": "Plan routes, gather items, and solve challenges in a strategy-focused escape game.",
+    "icon": "REPLACE_WITH_THE_ESCAPISTS_PRISON_ESCAPE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THE_ESCAPISTS_PRISON_ESCAPE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THE_ESCAPISTS_PRISON_ESCAPE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THE_ESCAPISTS_PRISON_ESCAPE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THE_ESCAPISTS_PRISON_ESCAPE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Plan routes, gather items, and solve challenges in a strategy-focused escape game.",
+      "tags": [
+        "Strategy",
+        "Puzzle",
+        "Escape"
+      ]
+    }
+  },
+  {
+    "name": "Project Zomboid",
+    "description": "Manage survival needs, gather supplies, and navigate a challenging zombie apocalypse.",
+    "icon": "REPLACE_WITH_PROJECT_ZOMBOID_ICON_URL",
+    "normalUrl": "REPLACE_WITH_PROJECT_ZOMBOID_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_PROJECT_ZOMBOID_SCREENSHOT_1_URL",
+      "REPLACE_WITH_PROJECT_ZOMBOID_SCREENSHOT_2_URL",
+      "REPLACE_WITH_PROJECT_ZOMBOID_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage survival needs, gather supplies, and navigate a challenging zombie apocalypse.",
+      "tags": [
+        "Survival",
+        "Sandbox",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "World War Z",
+    "description": "Experience action-focused encounters inspired by a global zombie outbreak.",
+    "icon": "REPLACE_WITH_WORLD_WAR_Z_ICON_URL",
+    "normalUrl": "REPLACE_WITH_WORLD_WAR_Z_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_WORLD_WAR_Z_SCREENSHOT_1_URL",
+      "REPLACE_WITH_WORLD_WAR_Z_SCREENSHOT_2_URL",
+      "REPLACE_WITH_WORLD_WAR_Z_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Experience action-focused encounters inspired by a global zombie outbreak.",
+      "tags": [
+        "Action",
+        "Shooter",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Army 4",
+    "description": "Fight undead enemies in action missions with varied weapons and co-op-style combat.",
+    "icon": "REPLACE_WITH_ZOMBIE_ARMY_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_ARMY_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_ARMY_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_ARMY_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_ARMY_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Fight undead enemies in action missions with varied weapons and co-op-style combat.",
+      "tags": [
+        "Shooter",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "description": "Team up in a cooperative shooter experience against infected hordes on supported platforms.",
+    "icon": "REPLACE_WITH_LEFT_4_DEAD_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_LEFT_4_DEAD_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_LEFT_4_DEAD_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_LEFT_4_DEAD_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_LEFT_4_DEAD_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Team up in a cooperative shooter experience against infected hordes on supported platforms.",
+      "tags": [
+        "Co-op",
+        "FPS",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Resident Evil 4",
+    "description": "Follow a survival-horror action story with exploration, puzzles, and combat.",
+    "icon": "REPLACE_WITH_RESIDENT_EVIL_4_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RESIDENT_EVIL_4_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RESIDENT_EVIL_4_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_4_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_4_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Follow a survival-horror action story with exploration, puzzles, and combat.",
+      "tags": [
+        "Horror",
+        "Action",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Resident Evil 2",
+    "description": "Explore a survival-horror setting, solve puzzles, and survive dangerous encounters.",
+    "icon": "REPLACE_WITH_RESIDENT_EVIL_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RESIDENT_EVIL_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RESIDENT_EVIL_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a survival-horror setting, solve puzzles, and survive dangerous encounters.",
+      "tags": [
+        "Horror",
+        "Survival",
+        "Story"
+      ]
+    }
+  },
+  {
+    "name": "Resident Evil Village",
+    "description": "Explore a mysterious setting and experience survival-horror action and exploration.",
+    "icon": "REPLACE_WITH_RESIDENT_EVIL_VILLAGE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_RESIDENT_EVIL_VILLAGE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_RESIDENT_EVIL_VILLAGE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_VILLAGE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_RESIDENT_EVIL_VILLAGE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a mysterious setting and experience survival-horror action and exploration.",
+      "tags": [
+        "Horror",
+        "Action",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Dead Island",
+    "description": "Explore a tropical setting, gather equipment, and fight undead threats on supported platforms.",
+    "icon": "REPLACE_WITH_DEAD_ISLAND_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DEAD_ISLAND_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DEAD_ISLAND_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DEAD_ISLAND_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DEAD_ISLAND_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a tropical setting, gather equipment, and fight undead threats on supported platforms.",
+      "tags": [
+        "Open World",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Dying Light",
+    "description": "Explore a city, use parkour movement, and survive dangerous infected encounters on supported platforms.",
+    "icon": "REPLACE_WITH_DYING_LIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DYING_LIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DYING_LIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DYING_LIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DYING_LIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore a city, use parkour movement, and survive dangerous infected encounters on supported platforms.",
+      "tags": [
+        "Open World",
+        "Parkour",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "Dying Light: The Following",
+    "description": "Explore new areas and face survival challenges in an expanded zombie-action setting.",
+    "icon": "REPLACE_WITH_DYING_LIGHT_THE_FOLLOWING_ICON_URL",
+    "normalUrl": "REPLACE_WITH_DYING_LIGHT_THE_FOLLOWING_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_DYING_LIGHT_THE_FOLLOWING_SCREENSHOT_1_URL",
+      "REPLACE_WITH_DYING_LIGHT_THE_FOLLOWING_SCREENSHOT_2_URL",
+      "REPLACE_WITH_DYING_LIGHT_THE_FOLLOWING_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Explore new areas and face survival challenges in an expanded zombie-action setting.",
+      "tags": [
+        "Open World",
+        "Driving",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "name": "7 Days to Die",
+    "description": "Gather supplies, craft defenses, and prepare for recurring zombie attacks on supported platforms.",
+    "icon": "REPLACE_WITH_7_DAYS_TO_DIE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_7_DAYS_TO_DIE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_7_DAYS_TO_DIE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_7_DAYS_TO_DIE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_7_DAYS_TO_DIE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Gather supplies, craft defenses, and prepare for recurring zombie attacks on supported platforms.",
+      "tags": [
+        "Survival",
+        "Crafting",
+        "Base Building"
+      ]
+    }
+  },
+  {
+    "name": "They Are Billions",
+    "description": "Build a colony and defend it from massive zombie hordes in a strategy game.",
+    "icon": "REPLACE_WITH_THEY_ARE_BILLIONS_ICON_URL",
+    "normalUrl": "REPLACE_WITH_THEY_ARE_BILLIONS_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_THEY_ARE_BILLIONS_SCREENSHOT_1_URL",
+      "REPLACE_WITH_THEY_ARE_BILLIONS_SCREENSHOT_2_URL",
+      "REPLACE_WITH_THEY_ARE_BILLIONS_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build a colony and defend it from massive zombie hordes in a strategy game.",
+      "tags": [
+        "Strategy",
+        "Base Building",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Age of Zombies",
+    "description": "Play arcade action missions against zombies with a time-traveling hero.",
+    "icon": "REPLACE_WITH_AGE_OF_ZOMBIES_ICON_URL",
+    "normalUrl": "REPLACE_WITH_AGE_OF_ZOMBIES_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_AGE_OF_ZOMBIES_SCREENSHOT_1_URL",
+      "REPLACE_WITH_AGE_OF_ZOMBIES_SCREENSHOT_2_URL",
+      "REPLACE_WITH_AGE_OF_ZOMBIES_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Play arcade action missions against zombies with a time-traveling hero.",
+      "tags": [
+        "Arcade",
+        "Action",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Night",
+    "description": "Defend against undead waves in a casual survival-style game.",
+    "icon": "REPLACE_WITH_ZOMBIE_NIGHT_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_NIGHT_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_NIGHT_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_NIGHT_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_NIGHT_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Defend against undead waves in a casual survival-style game.",
+      "tags": [
+        "Defense",
+        "Casual",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Defense",
+    "description": "Build defenses and use tactical upgrades to stop zombie waves.",
+    "icon": "REPLACE_WITH_ZOMBIE_DEFENSE_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_DEFENSE_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_DEFENSE_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_DEFENSE_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_DEFENSE_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Build defenses and use tactical upgrades to stop zombie waves.",
+      "tags": [
+        "Strategy",
+        "Defense",
+        "Zombies"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Defense 2",
+    "description": "Manage units and defenses across levels filled with undead enemies.",
+    "icon": "REPLACE_WITH_ZOMBIE_DEFENSE_2_ICON_URL",
+    "normalUrl": "REPLACE_WITH_ZOMBIE_DEFENSE_2_OFFICIAL_DOWNLOAD_URL",
+    "modUrl": "",
+    "screenshots": [
+      "REPLACE_WITH_ZOMBIE_DEFENSE_2_SCREENSHOT_1_URL",
+      "REPLACE_WITH_ZOMBIE_DEFENSE_2_SCREENSHOT_2_URL",
+      "REPLACE_WITH_ZOMBIE_DEFENSE_2_SCREENSHOT_3_URL"
+    ],
+    "about": {
+      "title": "About this game",
+      "description": "Manage units and defenses across levels filled with undead enemies.",
+      "tags": [
+        "Strategy",
+        "Defense",
+        "Zombies"
+      ]
+    }
+  }
+]
