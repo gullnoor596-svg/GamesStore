@@ -1,14 +1,19 @@
 [
   {
-    "name": "Dead Trigger 2",
+    "name": "Plants vs. Zombies FREE",
     "description": "Fight zombie hordes, complete survival missions, and upgrade weapons in a post-apocalyptic world.",
-    "icon": "REPLACE_WITH_DEAD_TRIGGER_2_ICON_URL",
-    "normalUrl": "REPLACE_WITH_DEAD_TRIGGER_2_OFFICIAL_DOWNLOAD_URL",
-    "modUrl": "",
+    "icon": "https://apkvision.org/wp-content/uploads/2017/09/plants-vs-zombies-140x140.png",
+    "normalUrl": "https://d.apkpure.com/b/XAPK/com.ea.game.pvzfree_row?version=latest",
+    "modUrl": "https://dl.apkvision.org/plants-vs-zombies/plants-vs-zombies-mod_3.18.0-apkvision.apk",
     "screenshots": [
-      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_1_URL",
-      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_2_URL",
-      "REPLACE_WITH_DEAD_TRIGGER_2_SCREENSHOT_3_URL"
+      "",
+"https://img.utdstc.com/screen/41c/eb7/41ceb7786cb0276b133fbfca9cd38cb5e11fbd9b1f03321cfe978709df6d4fc0:800",
+"https://img.utdstc.com/screen/af4/014/af4014a363f2025aa37323b62fe22a982f0f810bb28e3f98c06a43cd2475e57a:800",
+"https://img.utdstc.com/screen/117/bdf/117bdfb58807792cddaae6b77b2109b6590060cf5da8605d786bebad2b8d0972:800",
+"https://img.utdstc.com/screen/0e0/7df/0e07df774551229c6b597efe7ef60afd881e79f8f975453ee554c97e1d2c7ffc:800",
+"https://img.utdstc.com/screen/2eb/abb/2ebabb1c8703a188fcdca1e48ba92d1b72a0a248ee0a074fc39923f01a7169be:800",
+"https://img.utdstc.com/screen/8fd/a40/8fda40f27f76269d930507507e3e9cf828223febf274d4ef8ff48c0c5f6fa50f:800",
+"https://img.utdstc.com/screen/0a4/351/0a4351ad028d82ac0913a6ca0df524bd11246c2cac3bb51d8cfd5add03c9d692:800"
     ],
     "about": {
       "title": "About this game",
