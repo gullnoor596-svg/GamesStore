@@ -1,7 +1,7 @@
 [
   {
     "name": "GTA Vice City",
-    "description": "Step into the neon-lit streets of Vice City and experience the excitement of the 1980s! 🌴🚗 Explore a vibrant open world filled with luxury cars, motorcycles, thrilling missions, and unforgettable adventures. Immerse yourself in an engaging crime story, discover hidden locations, cruise along beautiful beaches, and experience the freedom of exploring a legendary city. With its iconic atmosphere, memorable characters, and classic open-world gameplay, GTA Vice City delivers an adventure that never gets old.🔥 Explore the City 🚗 Drive Amazing Vehicles 🎯 Complete Exciting Missions 🌴 Discover a Beautiful Open World 🎮 Experience a Legendary GTA Adventure Your adventure. Your journey. Your Vice City! 🌆🔥",
+    "description": "Step into the neon-lit streets of Vice City and experience the excitement of the 1980s! ðŸŒ´ðŸš— Explore a vibrant open world filled with luxury cars, motorcycles, thrilling missions, and unforgettable adventures. Immerse yourself in an engaging crime story, discover hidden locations, cruise along beautiful beaches, and experience the freedom of exploring a legendary city. With its iconic atmosphere, memorable characters, and classic open-world gameplay, GTA Vice City delivers an adventure that never gets old.ðŸ”¥ Explore the City ðŸš— Drive Amazing Vehicles ðŸŽ¯ Complete Exciting Missions ðŸŒ´ Discover a Beautiful Open World ðŸŽ® Experience a Legendary GTA Adventure Your adventure. Your journey. Your Vice City! ðŸŒ†ðŸ”¥",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/GTA%20Y.webp",
     "normalUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-full-apkvision.apk",
     "modUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-mod-apkvision.apk",
@@ -13,7 +13,11 @@
     "about": {
       "title": "About this game",
       "description": "Explore Vice City, drive vehicles, discover the city, and experience an action-packed adventure.",
-      "tags": ["Action", "Open World", "MOD"]
+      "tags": [
+        "Action",
+        "Open World",
+        "MOD"
+      ]
     }
   },
   {
@@ -25,21 +29,24 @@
     "screenshots": [
       "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
-       "https://pdalife.com/app/59522b42b5cf9/img2.jpg",
+      "https://pdalife.com/app/59522b42b5cf9/img2.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img3.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img4.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img6.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img7.jpg"
     ],
     "about": {
-  "title": "About this game",
-  "description": "Discover an open-world adventure with missions, vehicles, and exploration.",
-  "tags": ["Action", "Open World", "MOD"]
-}
-}
-},
-{
-  "name": "GTA III",
+      "title": "About this game",
+      "description": "Discover an open-world adventure with missions, vehicles, and exploration.",
+      "tags": [
+        "Action",
+        "Open World",
+        "MOD"
+      ]
+    }
+  },
+  {
+    "name": "GTA III",
     "description": "Experience the city of Liberty City in this classic open-world crime adventure.",
     "icon": "",
     "normalUrl": "",
@@ -692,4 +699,118 @@
         "Action",
         "Adventure"
       ]
-      
+    }
+  },
+  {
+    "name": "Terraria",
+    "description": "Dig, build, craft, and fight through a large 2D sandbox world.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Dig, build, craft, and fight through a large 2D sandbox world.",
+      "tags": [
+        "Sandbox",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Stardew Valley",
+    "description": "Build a farm, meet villagers, and explore a relaxing countryside world.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Build a farm, meet villagers, and explore a relaxing countryside world.",
+      "tags": [
+        "Simulation",
+        "RPG"
+      ]
+    }
+  },
+  {
+    "name": "Last Day on Earth",
+    "description": "Gather resources, craft equipment, and survive in a post-apocalyptic world.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Gather resources, craft equipment, and survive in a post-apocalyptic world.",
+      "tags": [
+        "Survival",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "ARK: Survival Evolved",
+    "description": "Survive in a prehistoric world, gather resources, and encounter dinosaurs.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Survive in a prehistoric world, gather resources, and encounter dinosaurs.",
+      "tags": [
+        "Survival",
+        "Adventure"
+      ]
+    }
+  },
+  {
+    "name": "Ultimate Soccer",
+    "description": "Build your squad and compete in football matches.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Build your squad and compete in football matches.",
+      "tags": [
+        "Sports",
+        "Football"
+      ]
+    }
+  },
+  {
+    "name": "Dream League Soccer",
+    "description": "Create your team, sign players, and compete in football leagues.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Create your team, sign players, and compete in football leagues.",
+      "tags": [
+        "Sports",
+        "Football"
+      ]
+    }
+  },
+  {
+    "name": "eFootball",
+    "description": "Play football matches with clubs, players, and competitive modes.",
+    "icon": "",
+    "normalUrl": "",
+    "modUrl": "",
+    "screenshots": [],
+    "about": {
+      "title": "About this game",
+      "description": "Play football matches with clubs, players, and competitive modes.",
+      "tags": [
+        "Sports",
+        "Football"
+      ]
+    }
+  }
+]
