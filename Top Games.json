@@ -32,14 +32,14 @@
       "https://pdalife.com/app/59522b42b5cf9/img7.jpg"
     ],
     "about": {
-      "title": "About this game",
-      "description": "Discover an open-world adventure with missions, vehicles, and exploration.",
-      "tags": ["Action", "Open World", "MOD"
-]
-    }
-  },
-  {
-    "name": "GTA III",
+  "title": "About this game",
+  "description": "Discover an open-world adventure with missions, vehicles, and exploration.",
+  "tags": ["Action", "Open World", "MOD"]
+}
+}
+},
+{
+  "name": "GTA III",
     "description": "Experience the city of Liberty City in this classic open-world crime adventure.",
     "icon": "",
     "normalUrl": "",
