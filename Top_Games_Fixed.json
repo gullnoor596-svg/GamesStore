@@ -320,12 +320,22 @@
     "modName": "Download MOD APK"
   },
   {
-    "name": "Asphalt 8",
+    "name": "Castle of Illusion",
     "description": "Perform stunts and race powerful vehicles in arcade-style competitions.",
-    "icon": "",
+    "icon": "https://play-lh.googleusercontent.com/SrRHo-7e7ieUapOfMimUSU-6XH_Gz1YQrSd3WcIIvaS8EJZZtQ1uPrmpd5e2-ZOdhh41mgg_s9ptB2K_7RHK6w",
     "normalUrl": "",
     "modUrl": "",
-    "screenshots": [],
+    "screenshots": [
+"https://dl.apkawards.com/moda/dl2/games/com.disney.castleofillusion_goo/img/com.disney.castleofillusion_goo-4.webp",
+"https://play-lh.googleusercontent.com/SzSMKIt0S-ETEq29lSm_2NFPPFNkBCG-5XwlvEUeAfwxS0T4HBElBdvPBE1WTKzLoNotrWm3IrebbRYZxAJm6Q=w526-h296-rw",
+"https://dl.apkawards.com/moda/dl2/games/com.disney.castleofillusion_goo/img/com.disney.castleofillusion_goo-1.webp",
+"https://dl.apkawards.com/moda/dl2/games/com.disney.castleofillusion_goo/img/com.disney.castleofillusion_goo-2.webp",
+"https://dl.apkawards.com/moda/dl2/games/com.disney.castleofillusion_goo/img/com.disney.castleofillusion_goo-3.webp",
+"https://play-lh.googleusercontent.com/JPV3YF7oT6vh3i6eWJ_zTDvrN6eq0arKMxZig1rXOxrWPPIhm5e8-fGalTQ3nYmpNacgEQhLWiMvTlhRZ6vL=w526-h296-rw",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzRMFhjXEUSRSMccxh-FM7qKRCF0nKFxEra3xYWKy1w&s=10",
+"https://cdn.mobygames.com/screenshots/12203247-castle-of-illusion-starring-mickey-mouse-windows-the-good-old-di.jpg",
+      
+    ],
     "about": {
       "title": "About this game",
       "description": "Perform stunts and race powerful vehicles in arcade-style competitions.",
