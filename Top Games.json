@@ -26,8 +26,8 @@
     "name": "GTA San Andreas",
     "description": "Explore a large open world and complete exciting missions.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/GTA%20SA.WebP",
-    "normalUrl": "https://example.com/app2.apk",
-    "modUrl": "https://example.com/app2-mod.apk",
+    "normalUrl": "",
+    "modUrl": "",
     "screenshots": [
       "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Need for Speed: Most Wanted",
-    "description": "Experience the city of Liberty City in this classic open-world crime adventure.",
+    "description": "Race through the city, evade pursuing police, and compete to become the most-wanted driver.",
     "icon": "https://play-lh.googleusercontent.com/6rIq52x2DBqgzp2iW71sSm5Adyzj3jVFW9MfnrQrsXCZr5oBhKXXxiFKQgClAyzl222o3Hd4YbqczwisWOqIUQ",
     "normalUrl": "",
     "modUrl": "",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Chronology - Time changes",
-    "description": "Take on missions and explore Liberty City in this action-packed crime story.",
+    "description": "Solve platforming puzzles by changing and manipulating time as you explore the game world.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/Images/chronology_adventure_kb.webp",
     "normalUrl": "https://mobdisc.com/fdl/47e97bb3-b788-4a71-81ca-fcec989254a3/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-v1-92.apk",
     "modUrl": "https://mobdisc.com/fdl/f781801f-a93d-45ea-a204-5fd029d857cc/60031-Chronology-v1-92-cache1.zip",
@@ -617,7 +617,7 @@
     "modName": "Download MOD APK"
   },
   {
-    "name": "World War Heroes",
+        "name": "World War Heroes",
     "description": "Fight in online World War II shooter battles across historic-style maps.",
     "icon": "",
     "normalUrl": "",
@@ -631,7 +631,7 @@
         "Action"
       ]
     },
-        "normalName": "Download APK",
+    "normalName": "Download APK",
     "modName": "Download MOD APK"
   },
   {
@@ -923,3 +923,4 @@
     "modName": "Download MOD APK"
   }
 ]
+    
