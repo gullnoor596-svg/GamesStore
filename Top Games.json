@@ -24,8 +24,8 @@
     "name": "GTA San Andreas",
     "description": "Explore a large open world and complete exciting missions.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/GTA%20SA.WebP",
-    "normalUrl": "https://example.com/app2.apk",
-    "modUrl": "https://example.com/app2-mod.apk",
+    "apkUrl": "https://example.com/app2.apk",
+    "obbUrl": "https://example.com/app2-mod.apk",
     "screenshots": [
       "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
