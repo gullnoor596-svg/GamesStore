@@ -153,12 +153,23 @@
     "modName": "Download MOD APK"
   },
   {
-    "name": "Free Fire",
+    "name": "GRIS",
     "description": "Join fast-paced battle royale matches, find gear, and fight to survive.",
-    "icon": "",
+    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0221/77cf53ce5a633b3b1850fa63e5e2e347db6be23fb46a3f4b.jpg",
     "normalUrl": "",
     "modUrl": "",
-    "screenshots": [],
+    "screenshots": [
+      "https://pdalife.com/app/5e84c7bb36902/img3.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img1.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img2.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img4.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img5.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img6.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img7.jpg",
+      "https://pdalife.com/app/5e84c7bb36902/img8.jpg",
+      "https://i.ytimg.com/vi/AEGrfq1Io9s/mqdefault.jpg",
+      
+    ],
     "about": {
       "title": "About this game",
       "description": "Join fast-paced battle royale matches, find gear, and fight to survive.",
