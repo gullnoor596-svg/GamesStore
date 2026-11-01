@@ -103,14 +103,18 @@
     "modName": "OBB"
   },
   {
-    "name": "The Amazing Spider-Man",
+    "name": "El Hijo – A Wild West",
     "description": "Explore the criminal underworld through missions, activities, and an open-world city.",
-    "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/Images/spiderman.webp",
+    "icon": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000031049/b44d1d65ee5ffc52a6b2399fa275e8eae9ce8d17f4fd9b28332dfa4126239769",
     "modUrl": "",
     "screenshots": [
-      "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/Images/spiderman.webp",
-      "https://pdalife.com/app/59522acc4c48d/img2.jpg",
-      "https://pdalife.com/app/59522acc4c48d/img3.jpg",      
+     "https://img.apkvision.org/el-hijo-a-wild-west-tale/el-hijo-a-wild-west-tale-1.webp",
+     "https://img.apkvision.org/el-hijo-a-wild-west-tale/el-hijo-a-wild-west-tale-2.webp",
+     "https://img.apkvision.org/el-hijo-a-wild-west-tale/el-hijo-a-wild-west-tale-3.webp",
+     "https://img.apkvision.org/el-hijo-a-wild-west-tale/el-hijo-a-wild-west-tale-4.webp",
+     "https://img.apkvision.org/el-hijo-a-wild-west-tale/el-hijo-a-wild-west-tale-5.webp",
+     "https://dl.apkawards.com/moda/dl19/games/com.hg.elhijo/img/com.hg.elhijo-4.webp",
+      
     ],
     "about": {
       "title": "About this game",
