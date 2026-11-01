@@ -18,14 +18,16 @@
         "Open World",
         "MOD"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "GTA San Andreas",
     "description": "Explore a large open world and complete exciting missions.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/GTA%20SA.WebP",
-    "apkUrl": "https://example.com/app2.apk",
-    "obbUrl": "https://example.com/app2-mod.apk",
+    "normalUrl": "https://example.com/app2.apk",
+    "modUrl": "https://example.com/app2-mod.apk",
     "screenshots": [
       "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
@@ -43,7 +45,9 @@
         "Open World",
         "MOD"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Need for Speed: Most Wanted",
@@ -59,7 +63,7 @@
       "https://play-lh.googleusercontent.com/GyTQmiw1Za3RD6-rZsrSa-KPuZKQ3OW61IJTYtsVtqEVS7EniwWx2TIohXsyM8Pcv7k6H4gF6n4ivnWNQIur47k=w526-h296-rw",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVlrAuKmytAX3v1KTV_AWDF6bs8qTPnL_0TORA_bNySotDbNsdWHspS6nv&s=10",
       "https://play-lh.googleusercontent.com/TqslW5_80j2CCF0vNMGHnLHCVfzsWL_2AH1I2l6gJMLdOsJw_Ddy_h6RsMoXa6jWNlKMY-BuKNFtyEo4uxFvGrI=w526-h296-rw",
-      "https://play-lh.googleusercontent.com/42GTuX9iQitMLSrd6mp1OZxwI9VIm-JX79Vxr0AlGjzUScpZmHQWNVmJr255BSFnacStJ4_qoWtNH_BveTRH1oE=w526-h296-rw",
+      "https://play-lh.googleusercontent.com/42GTuX9iQitMLSrd6mp1OZxwI9VIm-JX79Vxr0AlGjzUScpZmHQWNVmJr255BSFnacStJ4_qoWtNH_BveTRH1oE=w526-h296-rw"
     ],
     "about": {
       "title": "About this game",
@@ -68,7 +72,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Chronology - Time changes",
@@ -84,7 +90,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "GTA Chinatown Wars",
@@ -100,7 +108,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "PUBG Mobile",
@@ -116,7 +126,9 @@
         "Battle Royale",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Free Fire",
@@ -132,7 +144,9 @@
         "Battle Royale",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Call of Duty Mobile",
@@ -148,7 +162,9 @@
         "Action",
         "FPS"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Minecraft",
@@ -164,7 +180,9 @@
         "Sandbox",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Roblox",
@@ -180,7 +198,9 @@
         "Adventure",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Fortnite",
@@ -196,7 +216,9 @@
         "Battle Royale",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Asphalt 9",
@@ -212,7 +234,9 @@
         "Racing",
         "Cars"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Asphalt 8",
@@ -228,7 +252,9 @@
         "Racing",
         "Cars"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Need for Speed No Limits",
@@ -244,7 +270,9 @@
         "Racing",
         "Cars"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Real Racing 3",
@@ -260,7 +288,9 @@
         "Racing",
         "Simulation"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "CarX Street",
@@ -276,7 +306,9 @@
         "Racing",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Car Parking Multiplayer",
@@ -292,7 +324,9 @@
         "Simulation",
         "Cars"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Bus Simulator Indonesia",
@@ -308,7 +342,9 @@
         "Simulation",
         "Driving"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Truckers of Europe 3",
@@ -324,7 +360,9 @@
         "Simulation",
         "Driving"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Euro Truck Simulator",
@@ -340,7 +378,9 @@
         "Simulation",
         "Driving"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Gangstar Vegas",
@@ -356,7 +396,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Gangstar New Orleans",
@@ -372,7 +414,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "MadOut2",
@@ -388,7 +432,9 @@
         "Action",
         "Open World"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Payback 2",
@@ -404,7 +450,9 @@
         "Action",
         "Arcade"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Bully Anniversary Edition",
@@ -420,7 +468,9 @@
         "Action",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Max Payne Mobile",
@@ -436,7 +486,9 @@
         "Action",
         "Shooter"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Shadow Fight 2",
@@ -452,7 +504,9 @@
         "Fighting",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Shadow Fight 3",
@@ -468,7 +522,9 @@
         "Fighting",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Mortal Kombat",
@@ -484,7 +540,9 @@
         "Fighting",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Injustice 2",
@@ -500,7 +558,9 @@
         "Fighting",
         "Superhero"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Modern Combat 5",
@@ -516,7 +576,9 @@
         "FPS",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Standoff 2",
@@ -532,7 +594,9 @@
         "FPS",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Critical Ops",
@@ -548,7 +612,9 @@
         "FPS",
         "Multiplayer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "World War Heroes",
@@ -564,7 +630,9 @@
         "FPS",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Dead Trigger 2",
@@ -580,7 +648,9 @@
         "Action",
         "Zombie"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Into the Dead 2",
@@ -596,7 +666,9 @@
         "Action",
         "Zombie"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Cover Fire",
@@ -612,7 +684,9 @@
         "Shooter",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Sniper 3D",
@@ -628,7 +702,9 @@
         "Shooter",
         "Action"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Hill Climb Racing 2",
@@ -644,7 +720,9 @@
         "Racing",
         "Arcade"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Temple Run 2",
@@ -660,7 +738,9 @@
         "Arcade",
         "Runner"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Subway Surfers",
@@ -676,7 +756,9 @@
         "Arcade",
         "Runner"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Vector",
@@ -692,7 +774,9 @@
         "Action",
         "Platformer"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Minecraft Dungeons",
@@ -708,7 +792,9 @@
         "Action",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Terraria",
@@ -724,7 +810,9 @@
         "Sandbox",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Stardew Valley",
@@ -740,7 +828,9 @@
         "Simulation",
         "RPG"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Last Day on Earth",
@@ -756,7 +846,9 @@
         "Survival",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "ARK: Survival Evolved",
@@ -772,7 +864,9 @@
         "Survival",
         "Adventure"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Ultimate Soccer",
@@ -788,7 +882,9 @@
         "Sports",
         "Football"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "Dream League Soccer",
@@ -804,7 +900,9 @@
         "Sports",
         "Football"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   },
   {
     "name": "eFootball",
@@ -820,6 +918,9 @@
         "Sports",
         "Football"
       ]
-    }
+    },
+    "normalName": "Download APK",
+    "modName": "Download MOD APK"
   }
-]
+      ]
+    
