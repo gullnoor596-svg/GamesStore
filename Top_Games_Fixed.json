@@ -26,8 +26,8 @@
     "name": "GTA San Andreas",
     "description": "Explore a large open world and complete exciting missions.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/GTA%20SA.WebP",
-    "normalUrl": "",
-    "modUrl": "",
+    "normalUrl": "https://mobdisc.com/fdl/b92a9934-c3af-445c-93ae-fc4c13869c2a/GTA-SA-v2-11-311-mod.apk",
+    "modUrl": "https://dl.apkvision.org/grand-theft-auto-san-andreas/GTA-SA-v2.11.311-full-mod-money-apkvision.apk",
     "screenshots": [
       "https://pdalife.com/app/59522b42b5cf9/gta-san-andreas-may-be-getting-an-xbox-360-re-rele_rtt5.1280.jpg",
       "https://pdalife.com/app/59522b42b5cf9/img1.jpg",
@@ -47,7 +47,7 @@
       ]
     },
     "normalName": "APK",
-    "modName": "OBB"
+    "modName": "MOD APK"
   },
   {
     "name": "Need for Speed: Most Wanted",
