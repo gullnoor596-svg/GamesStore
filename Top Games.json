@@ -80,8 +80,8 @@
     "name": "Chronology - Time changes",
     "description": "Take on missions and explore Liberty City in this action-packed crime story.",
     "icon": "https://raw.githubusercontent.com/gullnoor596-svg/GamesStore/refs/heads/main/Images/chronology_adventure_kb.webp",
-    "normalUrl": "",
-    "modUrl": "",
+    "normalUrl": "https://mobdisc.com/fdl/47e97bb3-b788-4a71-81ca-fcec989254a3/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-v1-92.apk",
+    "modUrl": "https://mobdisc.com/fdl/f781801f-a93d-45ea-a204-5fd029d857cc/60031-Chronology-v1-92-cache1.zip",
     "screenshots": [],
     "about": {
       "title": "About this game",
@@ -631,7 +631,7 @@
         "Action"
       ]
     },
-    "normalName": "Download APK",
+        "normalName": "Download APK",
     "modName": "Download MOD APK"
   },
   {
@@ -922,5 +922,4 @@
     "normalName": "Download APK",
     "modName": "Download MOD APK"
   }
-      ]
-    
+]
