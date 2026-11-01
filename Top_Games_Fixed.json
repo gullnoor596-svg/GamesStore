@@ -124,12 +124,20 @@
     "modName": "Download MOD APK"
   },
   {
-    "name": "PUBG Mobile",
+    "name": "The Amazing Spider-Man 2",
     "description": "Battle across large maps, collect equipment, and compete to be the last player or team standing.",
-    "icon": "",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaB4zRlLGHGiE6NgeF4pAaFbrncRpGyZzm-2_qduz7hM3tmpyL7BuNVBWd&s=10",
     "normalUrl": "",
     "modUrl": "",
-    "screenshots": [],
+    "screenshots": [
+      "https://img.apkvision.org/the-amazing-spider-man-2/the-amazing-spider-man-2-1.webp",
+      "https://img.apkvision.org/the-amazing-spider-man-2/the-amazing-spider-man-2-2.webp",
+      "https://img.apkvision.org/the-amazing-spider-man-2/the-amazing-spider-man-2-3.webp",
+      "https://img.apkvision.org/the-amazing-spider-man-2/the-amazing-spider-man-2-4.webp",
+      "https://img.apkvision.org/the-amazing-spider-man-2/the-amazing-spider-man-2-5.webp",
+      "https://pdalife.com/app/59522b643ea0e/img6.jpg",
+      
+    ],
     "about": {
       "title": "About this game",
       "description": "Battle across large maps, collect equipment, and compete to be the last player or team standing.",
