@@ -213,12 +213,18 @@
     "modName": "Download MOD APK"
   },
   {
-    "name": "Minecraft",
+    "name": "Hollow Knight Mobile",
     "description": "Build, explore, craft, and survive in a world made of blocks.",
-    "icon": "",
+    "icon": "https://nintendoeverything.com/wp-content/uploads/H2x1_WiiUDS_HollowKnight_image1600w.jpg",
     "normalUrl": "",
     "modUrl": "",
-    "screenshots": [],
+    "screenshots": [
+"https://pdalife.com/app/62bc90c0e4a51/5b801ef564dce81c008b553e.jpg",
+"https://pdalife.com/app/62bc90c0e4a51/1581531030_6956.jpg",
+"https://pdalife.com/app/62bc90c0e4a51/hollow-knight---nintendo-switch.jpg",
+"https://pdalife.com/app/62bc90c0e4a51/hollow-knight-1845247.jpg",
+      
+    ],
     "about": {
       "title": "About this game",
       "description": "Build, explore, craft, and survive in a world made of blocks.",
